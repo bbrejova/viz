@@ -1,5 +1,7 @@
 # Vizualizácia dát · 1-DAV-105 · LS 2022/23 
 
+**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md)**
+
 Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 
 * **Týždeň 1: 13.-19.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**
