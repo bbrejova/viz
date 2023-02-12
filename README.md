@@ -13,6 +13,7 @@ Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 | [[Cvičenie 1]]  {{Dot}} Prednáška 2 [https://youtu.be/-QDT6qxtWm4 video], [https://drive.google.com/file/d/1MV6QSfqaio-LMRCu_FwXVdZpZKYcm1JS/view?usp=sharing notebook], [https://drive.google.com/file/d/1-j9SXyXvXqDTds0A8X7DHaj01UxC_Zm3/view?usp=sharing pdf]
 -->
 * **Týždeň 3: 27.2.-5.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib a Seaborn**
+
 <!-- 
 | [[Cvičenie 2]] {{Dot}} Prednáška 3 [https://youtu.be/1SZXLZlwr50 video] {{Dot}} Prednáška 3a [https://drive.google.com/file/d/1en-VpxFwkFfI-8XLn7nS0lmHQ0-CafP8/view?usp=sharing pdf] {{Dot}} Prednáška 3b (Seaborn a zdrojový kód) [https://colab.research.google.com/drive/18ZnDsPFvfgeOFbNTVDTGza110SbObugw?usp=sharing notebook], [https://drive.google.com/file/d/1LsIQwhLCrRsDOCkIiVjQPWZvV5GnzW14/view?usp=sharing pdf]
 {{T|4: 7.-13.3.|Základné popisné štatistiky a ich využitie vo vizualizácii}}
