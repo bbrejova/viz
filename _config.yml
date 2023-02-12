@@ -4,5 +4,6 @@ title: Vizualizácia dát · 1-DAV-105 · LS 2022/23
 exclude: [README.md]
 
 header_pages:
+  - index.md
   - Rules.md
   - Groups.md
