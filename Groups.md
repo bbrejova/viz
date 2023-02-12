@@ -1,4 +1,6 @@
-# Práca v tíme
+---
+title: Práca v tíme
+---
 
 * Na prvých cvičeniach nebude skupinová práca
 * Niekoľko ďalších týždňoch budete rozdelení do tímov vyučujúcimi a budete počas cvičení pracovať na menších príkladoch
