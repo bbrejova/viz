@@ -9,9 +9,9 @@ title: Materiály
 Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 
 * **Týždeň 1: 13.-19.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**
-<!-- 
-| Prednáška 1a [https://drive.google.com/file/d/1xCn3zuUpMXD2m19-WqNSYkn9TE_Oqns-/view?usp=sharing pdf] {{Dot}} Prednáška 1b [https://drive.google.com/file/d/16kc4LJ4HVseaYsnYUx2dhWfCTVTBIn19/view?usp=sharing notebook], [https://drive.google.com/file/d/1fSWozx3D-Nbdl8wxuoAIR-8Tue4TKdas/view?usp=sharing pdf]
--->
+<!-- [https://drive.google.com/file/d/1xCn3zuUpMXD2m19-WqNSYkn9TE_Oqns-/view?usp=sharing pdf] {{Dot}} --> 
+Prednáška 1a · Prednáška 1b [notebook](https://drive.google.com/file/d/16kc4LJ4HVseaYsnYUx2dhWfCTVTBIn19/view?usp=sharing ), [pdf](pdf/L01b_Jupyter_Colab_Matplotlib.pdf)
+
 * **Týždeň 2: 20.-26.2. Spracovanie dát v knižnici Pandas**
 <!-- 
 | [[Cvičenie 1]]  {{Dot}} Prednáška 2 [https://youtu.be/-QDT6qxtWm4 video], [https://drive.google.com/file/d/1MV6QSfqaio-LMRCu_FwXVdZpZKYcm1JS/view?usp=sharing notebook], [https://drive.google.com/file/d/1-j9SXyXvXqDTds0A8X7DHaj01UxC_Zm3/view?usp=sharing pdf]
