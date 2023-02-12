@@ -1,4 +1,6 @@
-# Pravidlá predmetu Vizualizácia dát
+---
+title: Pravidlá predmetu
+---
 
 ## Ciele predmetu
 
