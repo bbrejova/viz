@@ -2,11 +2,11 @@
 title: Kontakt
 ---
 
-==Vyučujúci==
+## Vyučujúci
 
 Prednášajú
-* doc. Mgr. [http://compbio.fmph.uniba.sk/~bbrejova/ Broňa Brejová], PhD. Katedra informatiky
-* RNDr. [http://sccg.sk/~batorova/ Martina Bátorová], PhD. Katedra algebry a geometrie
+* doc. Mgr. [Broňa Brejová](http://compbio.fmph.uniba.sk/~bbrejova/), PhD. Katedra informatiky
+* RNDr. [Martina Bátorová](http://sccg.sk/~batorova/), PhD. Katedra algebry a geometrie
 Cvičia
-* RNDr. [http://sccg.sk/~batorova/ Martina Bátorová], PhD. Katedra algebry a geometrie
-* Mgr. [https://dai.fmph.uniba.sk/w/Andrej_Balaz/sk Andrej Baláž], Katedra aplikovanej informatiky
+* RNDr. [Martina Bátorová](http://sccg.sk/~batorova/), PhD. Katedra algebry a geometrie
+* Mgr. [Andrej Baláž](https://dai.fmph.uniba.sk/w/Andrej_Balaz/sk), Katedra aplikovanej informatiky
