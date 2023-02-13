@@ -55,13 +55,13 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 ## Kvízy
 
-* Budú zverejnené po prednáške
+* Budú zverejnené po prednáške v syst0me Moodle
 * Jednoduché otázky na základné porozumenie učiva
 * Odovzdať najneskôr do ďalšieho utorka 22:00
 
 ## Individuálne zadania
 
-* Na väčšine cvičení dostanete zadané nejaké úlohy, ktoré máte riešiť individuálne
+* Na väčšine cvičení dostanete zadané úlohy, ktoré máte riešiť individuálne
 * Tieto úlohy môžete odovzdávať do ďalšieho utorka 22:00
 * Ak potrebujete pomôcť, prihláste sa na cvičeniach, budeme sa vám venovať
 * Preto je dobré, ak sa dá, začať riešiť úlohy už na cvičeniach

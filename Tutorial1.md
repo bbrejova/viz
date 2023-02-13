@@ -6,16 +6,15 @@ title: Cvičenie 1
 
 * Ak nemáte konto na služby od Google (gmail), vytvorte si ho
 * Po prihlásení na svoje Google konto navštívte stránku http://colab.research.google.com
-* Prihláste sa do Google classroom https://classroom.google.com s kódom poskytnutým v MS Teams
-* Najneskôr do pondelka rána (21.2. 9:00) vyriešte kvíz k prvej prednáške
-* Cvičenia budú v pondelok o 18:10 v miestnosti H6 (ak bude umožnená prezenčná výučba)
-
-Poznámka: Najneskôr budúci utorok ráno bude zverejnená druhá prednáška a kvíz, ktoré je potrebné si pozrieť do ďalšieho pondelka rána.
+* Prihláste sa do Google classroom https://classroom.google.com s kódom poskytnutým emailom
+* Prihláste sa do predmetu v systéme Moodle
+* Najneskôr do budúceho utorka 22:00 vyriešte kvíz k prvej prednáške
+* Cvičenia budú dnes o 14:50 v miestnosti I-H6
 
 ## Počas cvičenia
 
 * Ak máte otázky, pýtajte sa, radi poradíme a pomôžeme
-* Nevyriešené úlohy môžete dokončiť neskôr a odovzdať do ďalšieho pondelka 9:00 
+* Nevyriešené úlohy môžete dokončiť neskôr a odovzdať do ďalšieho utorka 22:00
 
 ## Zadania a odovzdávanie
 
@@ -34,6 +33,6 @@ Poznámka: Najneskôr budúci utorok ráno bude zverejnená druhá prednáška a
 </pre>
 (v textových bunkách sa <tt>###</tt> zobrazuje ako podnadpis).
 * **Zvyšné časti notebooku nemeňte.**
-* Skúste spustiť všetky bunky, niektoré vám môžu pomôcť odhaliť chybu vo vašom kóde.
+* Spustite všetky bunky, niektoré vám môžu pomôcť odhaliť chybu vo vašom kóde.
 
 Ak chcete experimentovať s už hotovými časťami zadaní, spravte si ďalšiu kópiu súboru, ktorú môžete ľubovoľne meniť a ktorú neodovzdávate.
