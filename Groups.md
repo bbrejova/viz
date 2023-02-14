@@ -34,11 +34,12 @@ Počas riešenia skupinových zadaní budete mať pridelené v rámci tímu konk
 * Jeden člen tému na rolu "scribe". Scribe zapisuje denník priebehu spolupráce skupiny.
 * Všetci členovia skupiny, vrátane vyššie uvedených, sa podieľajú na samotnom riešení úloh (čítanie zadaní, diskusia o možnom riešení, hľadanie vhodných zdrojov, hľadanie chýb v programe, vysvetľovanie ostatným členom tímu podľa potreby atď).
 * Tímy s dvoma prípadne jedným členom majú obsadené iba úlohy driver a scribe. 
-* Ak nie sú všetci členovia tímu prítomní, prorozdeľte si úlohy podľa okolností.
+* Ak nie sú všetci členovia tímu prítomní, prerozdeľte si úlohy podľa okolností.
 
 ## Stretnutie
 
 <!-- * V prípade online cvičení má každá skupina má vytvorený kanál v MS Teams, na ktorom si počas cvičení spraví stretnutie (skupinový videohovor). -->
+* Zoznam skupín skupín a pridelené roly zverejníme pred cvičením cez Google classroom.
 * Každá skupina obsadí blok počítačov vedľa seba na H6. Driver sedí v strede, ale aj ostatní si zapnú počítače.
 * Od začiatku cvičenia spoločne riešte zadané skupinové príklady.
 * Keď príklady vyriešite, využite zvyšok cvičenia na samostatné riešenie individuálnych úloh (nie v skupine!) a konzultácie s vyučujúcimi. 
