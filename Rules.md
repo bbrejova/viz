@@ -55,7 +55,7 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 ## Kvízy
 
-* Budú zverejnené po prednáške v systéme Moodle
+* Budú zverejnené po prednáške v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421)
 * Jednoduché otázky na základné porozumenie učiva
 * Odovzdať najneskôr do ďalšieho utorka 22:00
 

@@ -7,7 +7,7 @@ title: Cvičenie 1
 * Ak nemáte konto na služby od Google (gmail), vytvorte si ho
 * Po prihlásení na svoje Google konto navštívte stránku http://colab.research.google.com
 * Prihláste sa do Google classroom https://classroom.google.com s kódom poskytnutým emailom
-* Prihláste sa do predmetu v systéme Moodle
+* Prihláste sa do predmetu v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421)
 * Najneskôr do budúceho utorka 22:00 vyriešte kvíz k prvej prednáške
 * Cvičenia budú dnes o 14:50 v miestnosti I-H6
 
