@@ -19,7 +19,7 @@ Cvičia
 * **Zverejniteľné otázky** sú také, ktoré sa týkajú učiva z prednášok, zadaní, pravidiel predmetu, technických problémov a podobne
 * **Súkromné otázky** sú také, ktoré by nemali vidieť spolužiaci, teda otázky k vašim konkrétnym riešeniam, ktoré nesmiete ukazovať spolužiakom, ale aj osobné témy ako ospravedlnenie sa kvôli chorobe.
 
-### Otázky počas cvičenia'''
+### Otázky počas cvičenia
 
 * Počas cvičení zdvihnite ruku, niekto sa vám bude venovať, len čo to bude možné.
 
