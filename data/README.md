@@ -6,5 +6,10 @@
 * Removed 3 countries with missing values, as well as years after 2021 and before 1900.
 * The number of years a newborn would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.
 
+## UNdata country population
 
-
+* [./Un_population.csv](./Un_population.csv)
+* See https://data.un.org/
+* Downloaded from 
+https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20and%20Density.csv
+* Provided free of charge by the United Nations https://data.un.org/Host.aspx?Content=UNdataUse
