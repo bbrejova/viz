@@ -8,10 +8,10 @@ title: Materiály
 
 Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 
-* **Týždeň 1: 13.-19.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf)**·** Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](pdf/L01b_Jupyter_Colab_Matplotlib.pdf) · [Cvičenie 1](./Tutorial1.md)
+* **Týždeň 1: 13.-19.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf)**·** Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](pdf/L01b_Jupyter_Colab_Matplotlib.pdf) **·** [Cvičenie 1](./Tutorial1.md)
 
-* **Týždeň 2: 20.-26.2. Spracovanie dát v knižnici Pandas**
-Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](pdf/L02_Processing_Pandas.pdf) · [Cvičenie 2](./Tutorial2.md)
+* **Týždeň 2: 20.-26.2. Spracovanie dát v knižnici Pandas**<br>
+Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](pdf/L02_Processing_Pandas.pdf) **·** [Cvičenie 2](./Tutorial2.md)
 
 
 * **Týždeň 3: 27.2.-5.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib a Seaborn**

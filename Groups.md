@@ -62,18 +62,18 @@ V denníku uveďte
   * ak ste úlohy vyriešili veľmi rýchlo a bez problémov, môžete v skupine prediskutovať ako inak by sa dali riešiť, ako by sa dali programy ďalej rozšíriť či o iných otázkach súvisiacich s témou cvičení. Stručný sumár diskusie uveďte v denníku.
 * môžete spomenúť, ak s niektorými členmi boli problémy (prišli neskoro alebo sa odmietli rozumne zapojiť) alebo ak niekto bol naopak obzvlášť veľkou oporou tímu
 
-Body nakopírujeme v Google classroom všetkým členom tímu, komentár uvedieme v denníku, kde si ho môžete nájsť
+Body nakopírujeme v Google classroom všetkým členom tímu, komentár uvedieme v denníku, kde si ho môžete nájsť.
 
 ## Technické odporúčania
 
-* Jupyter notebook s riešenou úlohou editujte cez Google Colab a zdieľajte aj s ostatnými členmi skupiny
-* Denník editujte ako Google Doc a tiež zdieľajte aj s ostatnými
-* Jednotliví členovia skupiny teda na svojom počítači môžu mať otvorené oba dokumenty, notebook však modifikuje a spúšťa iba driver
+* Jupyter notebook s riešenou úlohou editujte cez Google Colab a zdieľajte aj s ostatnými členmi skupiny.
+* Denník editujte ako Google Doc a tiež zdieľajte aj s ostatnými.
+* Jednotliví členovia skupiny teda na svojom počítači môžu mať otvorené oba dokumenty, notebook však modifikuje a spúšťa iba driver.
 * Prípadné úryvky navrhovaného kódu a podobne môžete zdieľať v špeciálnej sekcii denníka (scratch), kam píšu všetci. Zvyšok denníka má na starosti scribe.
 <!-- * Počas online stretnutia by ste mali mať zapnuté mikrofóny a ak to kvalita pripojenia dovolí, aj kamery. Podľa potreby využívajte diskusiu stretnutia a zdieľanie obrazovky. -->
 <!-- * Ak máte otázku, s ktorou si neviete poradiť, môžete sa spýtať vyučujúcich počas ich návštevy alebo im písať cez MS Teams. -->
 
 ## Neúčasť
 
-* Ak sa z vážnych príčin nemôžete zúčastniť cvičení so skupinovou úlohou, kontaktujte cvičiacich, pokiaľ možno vopred
-* Určia vám spôsob, ako si túto aktivitu môžete nahradiť
+* Ak sa z vážnych príčin nemôžete zúčastniť cvičení so skupinovou úlohou, kontaktujte cvičiacich, pokiaľ možno vopred.
+* Určia vám spôsob, ako si túto aktivitu môžete nahradiť.
