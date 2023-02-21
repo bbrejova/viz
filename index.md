@@ -4,7 +4,7 @@ title: Materiály
 
 # Vizualizácia dát · 1-DAV-105 · LS 2022/23 
 
-**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md)**
+**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Google Classroom](https://classroom.google.com)**
 
 Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 
