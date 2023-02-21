@@ -2,10 +2,10 @@
 title: Práca v tíme
 ---
 
-* Na prvých cvičeniach nebude skupinová práca
-* Niekoľko ďalších týždňoch budete rozdelení do tímov vyučujúcimi a budete počas cvičení pracovať na menších príkladoch
-* Neskôr sa rozdelíte do tímov sami a budete pracovať na projekte (počas cvičení aj mimo)
-* Tento dokument sa venuje práci v tímoch v prvej časti semestra, pri práci na skupinovom projekte budete mať voľnosť zorganizovať si prácu v rámci skupiny podľa vlastného uváženia. 
+* Na prvých cvičeniach nebude skupinová práca.
+* Niekoľko ďalších týždňoch budete rozdelení do tímov vyučujúcimi a budete počas cvičení pracovať na menších príkladoch.
+* Neskôr sa rozdelíte do tímov sami a budete pracovať na projekte (počas cvičení aj mimo).
+* Tento dokument sa venuje práci v tímoch v prvej časti semestra, pri práci na skupinovom projekte budete mať voľnosť zorganizovať si prácu v rámci skupiny podľa vlastného uváženia.
 
 ## Ciele a hodnotenie skupinovej práce na zadaniach
 
@@ -17,20 +17,20 @@ Ciele
 
 Zapojte všetkých členov tímu
 
-* Všetci členovia tímu by mali rozumieť odovzdanému riešeniu a vedieť podobné príklady riešiť samostatne
-* Lepšie je vyriešiť menšiu časť zadania tak, aby tomu všetci členovia tímu rozumeli ako väčšiu časť, ktorú spraví jeden a nikto sa nič nenaučí
+* Všetci členovia tímu by mali rozumieť odovzdanému riešeniu a vedieť podobné príklady riešiť samostatne.
+* Lepšie je vyriešiť menšiu časť zadania tak, aby tomu všetci členovia tímu rozumeli ako väčšiu časť, ktorú spraví jeden a nikto sa nič nenaučí.
 
 Hodnotenie
 
-* Hodnotiť budeme výsledné riešenie ale aj ako dobre ste spolupracovali
-* Väčšinou dostanú všetci členovia tímu rovnako bodov, ale ak bude treba, môžeme niektorým členom body pridať alebo ubrať
+* Hodnotiť budeme výsledné riešenie ale aj ako dobre ste spolupracovali.
+* Väčšinou dostanú všetci členovia tímu rovnako bodov, ale ak bude treba, môžeme niektorým členom body pridať alebo ubrať.
 
 ## Úlohy v tíme
 
 Počas riešenia skupinových zadaní budete mať pridelené v rámci tímu konkrétne úlohy:
 
 * Jeden člen tímu má rolu "driver", podľa praxe v technike [párového programovania](https://en.wikipedia.org/wiki/Pair_programming). Driver ako jediný edituje dokument (notebook) s riešením úlohy, píše doňho kód, skúša ho spúšťať, ostatní mu pri tom radia.
-* Jeden člen tímu má rolu "chair". Chair dohliada na tímovú spoluprácu, aby sa všetci členovi tímu zapájali a aby ich prípadné otázky a návrhy boli ostatnými členmi kolektívu zobrané do úvahy.
+* Jeden člen tímu má rolu "chair". Chair dohliada na tímovú spoluprácu, aby sa všetci členovia tímu zapájali a aby ich prípadné otázky a návrhy boli ostatnými zobrané do úvahy.
 * Jeden člen tému na rolu "scribe". Scribe zapisuje denník priebehu spolupráce skupiny.
 * Všetci členovia skupiny, vrátane vyššie uvedených, sa podieľajú na samotnom riešení úloh (čítanie zadaní, diskusia o možnom riešení, hľadanie vhodných zdrojov, hľadanie chýb v programe, vysvetľovanie ostatným členom tímu podľa potreby atď).
 * Tímy s dvoma prípadne jedným členom majú obsadené iba úlohy driver a scribe. 
@@ -39,7 +39,7 @@ Počas riešenia skupinových zadaní budete mať pridelené v rámci tímu konk
 ## Stretnutie
 
 <!-- * V prípade online cvičení má každá skupina má vytvorený kanál v MS Teams, na ktorom si počas cvičení spraví stretnutie (skupinový videohovor). -->
-* Zoznam skupín skupín a pridelené roly zverejníme pred cvičením cez Google classroom.
+* Zoznam skupín a pridelené roly zverejníme pred cvičením cez Google classroom.
 * Každá skupina obsadí blok počítačov vedľa seba na H6. Driver sedí v strede, ale aj ostatní si zapnú počítače.
 * Od začiatku cvičenia spoločne riešte zadané skupinové príklady.
 * Keď príklady vyriešite, využite zvyšok cvičenia na samostatné riešenie individuálnych úloh (nie v skupine!) a konzultácie s vyučujúcimi. 
@@ -49,9 +49,9 @@ Počas riešenia skupinových zadaní budete mať pridelené v rámci tímu konk
 
 Za celú skupinu odovzdáte na konci skupinového stretnutia dva dokumenty:
 
-* Samotné vyriešené zadanie ako noteboook (formát ipynb), odovzdáva driver do Google classroom
-* Denník ako Google doc, odovzdáva sa zapísaním linky, ktorá umožňuje vkladať komentáre, do odovzdaného notebooku
-** Obidva dokumenty nazdieľajte aj všetkým členom tímu, po skončení cvičenia ich už nemeňte
+* Samotné vyriešené zadanie ako noteboook (formát ipynb), odovzdáva driver do Google classroom.
+* Denník ako Google doc, odovzdáva sa zapísaním linky, ktorá umožňuje vkladať komentáre, do odovzdaného notebooku.
+* Obidva dokumenty nazdieľajte aj všetkým členom tímu, po skončení cvičenia ich už nemeňte.
 
 V denníku uveďte
 
@@ -66,8 +66,8 @@ Body nakopírujeme v Google classroom všetkým členom tímu, komentár uvediem
 
 ## Technické odporúčania
 
-* Jupyter notebook s riešenou úlohou editujte cez Google colab a zdieľajte aj s ostatnými členmi skupiny
-* Denník editujte na Google doc a tiež zdieľajte aj s ostatnými
+* Jupyter notebook s riešenou úlohou editujte cez Google Colab a zdieľajte aj s ostatnými členmi skupiny
+* Denník editujte ako Google Doc a tiež zdieľajte aj s ostatnými
 * Jednotliví členovia skupiny teda na svojom počítači môžu mať otvorené oba dokumenty, notebook však modifikuje a spúšťa iba driver
 * Prípadné úryvky navrhovaného kódu a podobne môžete zdieľať v špeciálnej sekcii denníka (scratch), kam píšu všetci. Zvyšok denníka má na starosti scribe.
 <!-- * Počas online stretnutia by ste mali mať zapnuté mikrofóny a ak to kvalita pripojenia dovolí, aj kamery. Podľa potreby využívajte diskusiu stretnutia a zdieľanie obrazovky. -->

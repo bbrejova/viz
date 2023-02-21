@@ -11,9 +11,8 @@ Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 * **Týždeň 1: 13.-19.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf)**·** Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](pdf/L01b_Jupyter_Colab_Matplotlib.pdf) · [Cvičenie 1](./Tutorial1.md)
 
 * **Týždeň 2: 20.-26.2. Spracovanie dát v knižnici Pandas**
-<!-- 
-| [[Cvičenie 1]]  {{Dot}} Prednáška 2 [https://youtu.be/-QDT6qxtWm4 video], [https://drive.google.com/file/d/1MV6QSfqaio-LMRCu_FwXVdZpZKYcm1JS/view?usp=sharing notebook], [https://drive.google.com/file/d/1-j9SXyXvXqDTds0A8X7DHaj01UxC_Zm3/view?usp=sharing pdf]
--->
+Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](pdf/L02_Processing_Pandas.pdf) · [Cvičenie 2](./Tutorial2.md)
+
 
 * **Týždeň 3: 27.2.-5.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib a Seaborn**
 <!-- 
