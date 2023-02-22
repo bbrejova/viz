@@ -1,3 +1,7 @@
+---
+title: Cvičenie 2
+---
+
 * Tento týždeň budete mať dve zadania: 
   * individuálne, ktoré sa odovzdáva do ďalšieho utorka 22:00
   * skupinové, ktoré sa odovzdáva sa do konca cvičení
