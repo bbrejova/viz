@@ -26,7 +26,7 @@ Cvičia
 ### Otázky mimo cvičení
 
 * Zverejniteľné otázky môžete písať do diskusie v classroom, môžu odpovedať aj spolužiaci.
-* Súkromné otázky píšte emailom príslušnému vyučujúcemu (BB ohľadom prednášok a projektov, MB ohľadom individuálnych úloh a ich bodovania, AB ohľadom skupinových úloh a ich bodovania).
+* Súkromné otázky píšte emailom príslušnému vyučujúcemu (BB ohľadom prednášok, projektov a neúčasti na cvičeniach, MB ohľadom individuálnych úloh a ich bodovania, AB ohľadom skupinových úloh a ich bodovania).
 * Mimo cvičení môže trvať dlhšie, kým dostanete odpoveď.
 
 ### Správy od vyučujúcich

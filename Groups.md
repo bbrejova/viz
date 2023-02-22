@@ -75,5 +75,5 @@ Body nakopírujeme v Google classroom všetkým členom tímu, komentár uvediem
 
 ## Neúčasť
 
-* Ak sa z vážnych príčin nemôžete zúčastniť cvičení so skupinovou úlohou, kontaktujte cvičiacich, pokiaľ možno vopred.
-* Určia vám spôsob, ako si túto aktivitu môžete nahradiť.
+* Ak sa z vážnych príčin nemôžete zúčastniť cvičení so skupinovou úlohou, kontaktujte B.Brejovú, pokiaľ možno vopred.
+* Určí vám spôsob, ako si túto aktivitu môžete nahradiť.
