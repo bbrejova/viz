@@ -13,3 +13,10 @@
 * Downloaded from 
 https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20and%20Density.csv
 * Provided free of charge by the United Nations https://data.un.org/Host.aspx?Content=UNdataUse
+
+
+## Country indicators from World Bank
+
+* [./World_bank.csv](./World_bank.csv)
+* Downloaded from https://databank.worldbank.org/home under CC BY 4.0 license.
+* Country population, surface area in km squared, GDP per capita (in current US$), life expectancy at birth (years), fertility rate, total (births per woman); in years 2000, 2010, 2018. 
