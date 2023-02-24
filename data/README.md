@@ -1,3 +1,9 @@
+---
+title: Data files
+---
+
+This page contains data files used in the lectures and tutorials.
+
 ## Gapminder life expectancy
 
 * [./I01-t3-gapminder_life_expectancy_years.csv](./I01-t3-gapminder_life_expectancy_years.csv)
