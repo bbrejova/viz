@@ -14,7 +14,7 @@ Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](./pdf/L02_Processing_Pandas.pdf) **·** [Cvičenie 2](./Tutorial2.md)
 
 
-* **Týždeň 3: 27.2.-5.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>Prednáška 3a [pdf](./pdf/L03a_Plot_types.pdf)  **·**  Prednáška 3b (Seaborn, Plotly a zdrojový kód) [notebook]((https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L03b_Plot_types.ipynb), [pdf](./pdf/L03b_Plot_types.pdf)
+* **Týždeň 3: 27.2.-5.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>Prednáška 3a [pdf](./pdf/L03a_Plot_types.pdf)  **·**  Prednáška 3b (Seaborn, Plotly a zdrojový kód) [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L03b_Plot_types.ipynb), [pdf](./pdf/L03b_Plot_types.pdf)
 
 
 * **Týždeň 4: 6.-12.3. Základné popisné štatistiky a ich využitie vo vizualizácii**
