@@ -8,16 +8,14 @@ title: Materiály
 
 Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 
-* **Týždeň 1: 13.-19.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf)**·** Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](pdf/L01b_Jupyter_Colab_Matplotlib.pdf) **·** [Cvičenie 1](./Tutorial1.md)
+* **Týždeň 1: 13.-19.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](./pdf/L01b_Jupyter_Colab_Matplotlib.pdf) **·** [Cvičenie 1](./Tutorial1.md)
 
 * **Týždeň 2: 20.-26.2. Spracovanie dát v knižnici Pandas**<br>
-Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](pdf/L02_Processing_Pandas.pdf) **·** [Cvičenie 2](./Tutorial2.md)
+Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](./pdf/L02_Processing_Pandas.pdf) **·** [Cvičenie 2](./Tutorial2.md)
 
 
-* **Týždeň 3: 27.2.-5.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib a Seaborn**
-<!-- 
-| [[Cvičenie 2]] {{Dot}} Prednáška 3 [https://youtu.be/1SZXLZlwr50 video] {{Dot}} Prednáška 3a [https://drive.google.com/file/d/1en-VpxFwkFfI-8XLn7nS0lmHQ0-CafP8/view?usp=sharing pdf] {{Dot}} Prednáška 3b (Seaborn a zdrojový kód) [https://colab.research.google.com/drive/18ZnDsPFvfgeOFbNTVDTGza110SbObugw?usp=sharing notebook], [https://drive.google.com/file/d/1LsIQwhLCrRsDOCkIiVjQPWZvV5GnzW14/view?usp=sharing pdf]
--->
+* **Týždeň 3: 27.2.-5.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>Prednáška 3a [pdf](./pdf/L03a_Plot_types.pdf)  **·**  Prednáška 3b (Seaborn, Plotly a zdrojový kód) [notebook]((https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L03b_Plot_types.ipynb), [pdf](./pdf/L03b_Plot_types.pdf)
+
 
 * **Týždeň 4: 6.-12.3. Základné popisné štatistiky a ich využitie vo vizualizácii**
 <!--
