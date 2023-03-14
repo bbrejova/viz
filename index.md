@@ -19,11 +19,7 @@ Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//
 
 * **Týždeň 4: 6.-12.3. Základné popisné štatistiky a ich využitie vo vizualizácii**<br>Prednáška 4 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L04_Summary_statistics.ipynb), [pdf](./pdf/L04_Summary_statistics.pdf)
 
-* **Týždeň 5: 13.-19.3. Spracovanie dát v knižnici Pandas (2)**<br>Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb)
-<!--
-|-
-| [[Projekty]] {{Dot}}  [https://youtu.be/7Wl_P7red7o video s pokynmi (1)]
--->
+* **Týždeň 5: 13.-19.3. Spracovanie dát v knižnici Pandas (2)**<br>Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
 
 * **Týždeň 6: 20.-26.3. Časové rady, siete, mapy, texty**
 <!--
