@@ -1,3 +1,7 @@
+---
+title: Projekty
+---
+
 <!-- Pokyny k projektom upresníme neskôr. Základné informácie viď [[Pravidlá#Projekt|pravidlá predmetu]]. -->
 
 <!-- * [https://youtu.be/7Wl_P7red7o Video s pokynmi (1)] -->

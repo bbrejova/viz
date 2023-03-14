@@ -4,7 +4,7 @@ title: Materiály
 
 ![logo](./img/Logo.png)
 
-**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Google Classroom](https://classroom.google.com)**
+**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) · [Projekty](./Projects.md) · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Google Classroom](https://classroom.google.com)**
 
 Predbežný plán prednášok, môže sa ešte zmeniť podľa okolností.
 
