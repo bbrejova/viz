@@ -87,7 +87,7 @@ Po formálne stránke by správa mala byť formálny text bez gramatických chý
 
 Ak sa chcete inšpirovať, ako vyzerá formálny technický text s číslovanými obrázkami a tabuľkami, môžete si pozrieť [zborník zo Študentskej vedeckej konferencie](http://compbio.fmph.uniba.sk/svk2022/svk2022-zbornik.pdf) (vaše články asi nebudú mať toľko matematiky a citovať budete asi skôr webstránky než vedecké publikácie, tiež nemusíte správu formátovať do dvoch stĺpcov).
 
-Poskytujeme vám aj ukážkovú [kostru správy](https://docs.google.com/document/d/1RBGJhzGwKydaW45O3WTHijErevG6YWCvFePAEios0YM/edit?usp=sharing) ako Google doc, z ktorej v prípade záujmu môžete vychádzať.
+Poskytujeme vám aj ukážkovú [kostru správy](https://docs.google.com/document/d/1dkdOcOBAfQwSy6Gcp0ZNH_CBMmrnYvFCdKmD4_oi-7g/edit?usp=share_link) ako Google doc, z ktorej v prípade záujmu môžete vychádzať.
 
 
 ### Zdrojový kód
@@ -97,7 +97,7 @@ K projektu by ste mali odovzdať zdrojový kód vo forme Jupyter notebook, v kto
 
 ### Denník
 
-Denník vypĺňajte do [poskytnutej kostry](https://docs.google.com/document/d/1-lG5A87GClpoyB_OXrzqtrJFCQWC1FrDHiLIkbSZvOs/edit?usp=sharing), z ktorej si spravíte kópiu.
+Denník vypĺňajte do [poskytnutej kostry](https://docs.google.com/document/d/1hLxANuC64-8Wt2hvEGWLjUjekwl41Xa1Bad3wqiku4Q/edit?usp=share_link), z ktorej si spravíte kópiu.
 
 Na začiatku denníka uveďte názov skupiny, zoznam členov a tému projektu. 
 
