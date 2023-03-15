@@ -48,11 +48,11 @@ Naša fakulta sa zúčastnila analýzy dát zo sekvenovania genetickej informác
 * **Prvé kroky:** Sťahovanie dát, ich úprava do vhodného formátu, zisťovanie základných charakteristík, opravovanie alebo odstraňovanie nesprávnych položiek. Na cvičení 29.3. začnete na týchto úlohách pracovať. Ideálne by ste ich dokončili pred ďalším týždňom, ale v niektorých projektoch toto môže byť väčšia časť projektu a trvať dlhšie. 
 * **Ďalšie etapy:** Stanovte si otázku, ktorá by sa vo vašich dátach dala analyzovať a pokúste sa ju odpovedať vhodnými grafmi a tabuľkami. Snažte sa nájsť čo najvhodnejšiu vizualizáciu a preskúmať trendy alebo ich výnimky, ktoré nájdete. Postupne preskúmate niekoľko takých otázok. Jednotliví členovia skupiny alebo podskupinky môžu paralelne pracovať na rôznych otázkach. Postupne zostavujte aj materiály, ktoré budete odovzdávať.
 * **Prezentácie projektov:** v poslednom týždni semestra počas cvičenia alebo v inom dohodnutom čase.
-* **Odovzdanie projektu:** v pondelok 15.5. 22:00 (prvý deň skúškového), ale odporúčame ho dokončiť skôr
+* **Odovzdanie projektu:** v pondelok 15.5. 22:00 (prvý deň skúškového), ale odporúčame ho dokončiť skôr.
 
 ### Kontrolné stretnutia
 
-* Na každom cvičení od 5.4. do 3.5. sa uskutoční stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Stretnutie začnú cca 15 minút po začiatku cvičenia, takže sa môžete ešte predtým rýchlo poradiť.
+* Na každom cvičení od 5.4. do 3.5. sa uskutoční stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. 
 * Skupina má v denníku nachystané stručné poznámky ohľadom aktuálneho stavu (kto čo spravil, aké sú ďalšie plány a či sú prípadne nejaké problémy). 
 * Jeden člen skupiny otvorí túto časť denníka a veľmi stručne za cca 2 minúty ju odreferuje. Má prichystané aj ďalšie súbory, takže vie rýchlo v prípade potreby ukázať dokončené alebo rozrobené vizualizácie alebo tabuľky. Každý týždeň by mal referovať iný člen skupiny.
 * Nasleduje diskusia, do ktorej sa podľa potreby zapája celá skupina.
@@ -74,12 +74,12 @@ Ako finálny projekt odovzdáva jeden člen skupiny dva súbory uvedené nižši
 
 ### Správa
 
-Správa (report) je dokument, ktorý by ste odovzdali "zákazníkovi", t.j. zadávateľovi projektu, vysvetľujúci vaše výsledky. Mal by obsahovať nasledujúce časti
+Správa (report) je dokument, ktorý by ste odovzdali "zákazníkovi", t.j. zadávateľovi projektu, vysvetľujúci vaše výsledky. Mal by obsahovať nasledujúce časti:
 
 * Hlavičku s názvom projektu, zoznamom autorov a dátumom
 * Obsah so zoznamom kapitol a linkami alebo číslami strán (pokiaľ možno vygenerovaný automaticky)
 * Úvod stručne predstavujúci tému projektu 
-* Popis odkiaľ ste získali dáta, ako ste ich spracovali (či ich bolo potrebné nejako filtrovať alebo inak meniť) a základné charakteristiky dát (pre jednotlivé použité tabuľky  uveďte význam jednotlivých stĺpcov a počet riadkov, prípadne aj ďalšie sumárne štatistiky)
+* Popis odkiaľ ste získali dáta, ako ste ich spracovali (či ich bolo potrebné nejako filtrovať alebo inak meniť) a základné charakteristiky dát (pre jednotlivé použité tabuľky  uveďte význam jednotlivých stĺpcov a počet riadkov, prípadne aj ďalšie sumárne štatistiky).
 * Výsledky ďalších analýz (rozdelené do viacerých kapitol). Ku každej analýze stručne popíšte, čo ste s dátami spravili, uveďte grafy alebo tabuľky s výsledkami, vysvetlite, aké trendy a iné závery na nich vidno. Pri záveroch pozor, aby ste z korelácie automaticky nepredpokladali kauzalitu. Z textu by malo byť jasné, čo sú skutočné pozorovania a čo vaše dohady. Vaše výsledky môžete porovnať s výsledkami z iných zdrojov (nie je to ale nutné).
 * Záver so stručným zhrnutím hlavných výsledkov a možnosťami ďalšej práce.
 
@@ -92,8 +92,9 @@ Poskytujeme vám aj ukážkovú [kostru správy](https://docs.google.com/documen
 
 ### Zdrojový kód
 
-K projektu by ste mali odovzdať zdrojový kód vo forme Jupyter notebook, v ktorom bude celá analýza od načítania dát, cez ich úpravu a kontrolu až po vykreslenie finálnych grafov použitých v správe, prípadne aj ďalších, ktoré sa do správy nedostali. Celý kód by mal byť spustiteľný v Colabe s použitím dát, ktoré odovzdáte. Ak časť predspracovania dát nie je praktické robiť v notebooku, uveďte v notebooku analýzu začínajúcu načítaním už predspracovaných dát a proces predspracovania popíšte v notebooku, prípadne odovzdajte v zvláštnom súbore relevantný kód. Notebook by mal obsahovať nadpisy charakterizujúce jednotlivé časti analýzy a stručné popisy jednotlivých častí kódu. Uveďte aj odkazy (URL) na použité zdroje, najmä ak ste z nich kopírovali kód.
+K projektu by ste mali odovzdať zdrojový kód vo forme Jupyter notebook, v ktorom bude celá analýza od načítania dát, cez ich úpravu a kontrolu až po vykreslenie finálnych grafov použitých v správe, prípadne aj ďalších, ktoré sa do správy nedostali. Celý kód by mal byť spustiteľný v Colabe. Ak časť predspracovania dát nie je praktické robiť v notebooku, uveďte v notebooku analýzu začínajúcu načítaním už predspracovaných dát a proces predspracovania popíšte v notebooku, prípadne odovzdajte v zvláštnom súbore relevantný kód. Notebook by mal obsahovať nadpisy charakterizujúce jednotlivé časti analýzy a stručné popisy jednotlivých častí kódu. Uveďte aj odkazy (URL) na použité zdroje, najmä ak ste z nich kopírovali kód.
 
+Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom alebo v predspracovanom tvare, viď [Technické pokyny](#technické-pokyny). Na ústnej skúške bude potrebné, aby ste vedeli notebook spustiť aj modifikovať.
 
 ### Denník
 
