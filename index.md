@@ -19,36 +19,36 @@ Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//
 
 * **Týždeň 4: 6.-12.3. Základné popisné štatistiky a ich využitie vo vizualizácii**<br>Prednáška 4 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L04_Summary_statistics.ipynb), [pdf](./pdf/L04_Summary_statistics.pdf)
 
-* **Týždeň 5: 13.-19.3. Spracovanie dát v knižnici Pandas (2)**<br>Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
+* **Týždeň 5: 13.-19.3. Spracovanie dát v knižnici Pandas (2)**<br>Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
 
 * **Týždeň 6: 20.-26.3. Časové rady, siete, mapy, texty**
 <!--
 | Prednáška 6 [https://youtu.be/S764DrJQ5FA video] {{Dot}} [https://drive.google.com/file/d/15HEM-cXNdvLv7g6_SalRg3scYBn-ZnS8/view?usp=sharing pdf] 
 -->
 
-* **Týždeň 7: 27.3.-2.4. Ľudské vizuálne vnímanie, farby, formáty**
+* **Týždeň 7: 27.3.-2.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**
 <!--
 | Prednáška 7 [https://youtu.be/rR1MAli-3XI video] {{Dot}} [https://drive.google.com/file/d/1YAXJBg9yBTtENcfk0onTNbPCv7W42JSy/view?usp=sharing pdf]
 -->
 
-* **Týždeň 8: 3.-9.4. Preatentívne príznaky, gestalt a ilúzie**
+* **Týždeň 8: 3.-9.4. Ľudské vizuálne vnímanie, farby, formáty**
 <!--
 | Prednášk 8 [https://youtu.be/d3GD7_MFCN4 video] {{Dot}} [https://drive.google.com/file/d/1hNDzXtHr4gbMH8xnrXOXZRF2pLY0Gk2X/view?usp=sharing  pdf]
 -->
 
-* **Týždeň 9: 10.-16.4. Zásady dobrej vizualizácie, exploratívna analýza vs. prezentácia výsledov**
+* **Týždeň 9: 10.-16.4. Preatentívne príznaky, gestalt a ilúzie**
 <!--
 | Prednáška 9 [https://youtu.be/N1DzdUK39wU video] {{Dot}} [https://drive.google.com/file/d/1T5wClkDjxQAeJObHa03-8NWFYQdpokBA/view?usp=sharing notebook], [https://drive.google.com/file/d/1VsAxQ6sOjSX5etVsoBmfC1K7uVvKQMnD/view?usp=sharing pdf]
 -->
 
 * **Týždeň 10: 17.-23.4. Študentská vedecká konferencia**
 
-* **Týždeň 11: 24.-30.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**
+* **Týždeň 11: 24.-30.4. Zásady dobrej vizualizácie, exploratívna analýza vs. prezentácia výsledov**
 <!--
 | Prednáška 10a [https://youtu.be/UV6TMjrr5x0 video] {{Dot}} [https://drive.google.com/file/d/1d7LtY4VJ5HEdHDmsQy073bognLn8HXrE/view?usp=sharing pdf] {{Dot}} Prednáška 10b [https://youtu.be/MY9VPR6zp1Q video] {{Dot}} [https://drive.google.com/file/d/1OvYhCBmDWLCoAtTJw2EsECZJho3_3uT4/view?usp=sharing notebook], [https://drive.google.com/file/d/1ABqT3F3u3usAJiIfdp4EoRuZXcPH42T_/view?usp=sharing pdf] 
 -->
 
-* **Týždeň 12: 1.-7.5.  Infografika & interaktivita**
+* **Týždeň 12: 1.-7.5. Infografika & interaktivita**
 <!--
 | Prednáška 11 [https://youtu.be/Zku7ySVZjKI video] {{Dot}} [https://drive.google.com/file/d/1XhWR1dVTlahEtUYlAffukp5c6O5yfCFX/view?usp=sharing pdf] 
 -->
