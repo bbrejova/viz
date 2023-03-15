@@ -33,7 +33,7 @@ Americký úrad National Centers for Environmental Information zostavil tabuľku
 
 ### Obyvateľstvo
 
-V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.scitanie.sk/). Stiahnite si [tabuľky](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_011_SK.zip), ktoré obsahujú počet obyvateľov rôzneho veku, pohlavia a typu zamestnania v jednotlivých obciach, okresoch a krajoch. Vidíte nejaké zaujímavé rozdiely medzi jednotlivými regiónmi Slovenska? Majú niektoré obce nezvyčajnú štruktúru obyvateľstva? Ktoré okresy sa navzájom podobajú svojimi charakteristikami? Sú podobné okresy väčšinou blízko seba? Ako sa líši podiel mužov na rodičovskej dovolenke medzi regiónmi? Dá sa prípadne spraviť aj porovnanie s predchádzajúcim sčítaním obyvateľov.
+V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.scitanie.sk/). Stiahnite si [tabuľky](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_011_SK.zip), ktoré obsahujú počet obyvateľov rôzneho veku, pohlavia a typu zamestnania v jednotlivých obciach, okresoch a krajoch. Vidíte nejaké zaujímavé rozdiely medzi jednotlivými regiónmi Slovenska? Majú niektoré obce nezvyčajnú štruktúru obyvateľstva? Ktoré okresy sa navzájom podobajú svojimi charakteristikami? Sú podobné okresy väčšinou blízko seba? Ako sa líši podiel mužov na rodičovskej dovolenke medzi regiónmi? Dá sa prípadne spraviť aj porovnanie s predchádzajúcim sčítaním obyvateľov. Výsledkom sčítania je veľa rôznych podobných tabuliek. Zamerajte sa hlavne na túto jednu ale doplnkovo môžete prípadne využiť aj iné.
 
 ### Covid
 
@@ -41,14 +41,14 @@ Naša fakulta sa zúčastnila analýzy dát zo sekvenovania genetickej informác
 
 ## Fázy projektu
 
-* **Vytvorenie skupín:** dohodnite sa na skupinách veľkosti 4-5 do utorka 21.3. 22:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do príslušného dokumentu v Google classroom. Názov by mal byť krátky, môže to byť napr. skratka obsahujúca prvé písmená vašich krstných mien alebo priezvisk. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
+* **Vytvorenie skupín:** Dohodnite sa na skupinách veľkosti 4-5 do utorka 21.3. 22:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do príslušného dokumentu v Google classroom. Názov by mal byť krátky, môže to byť napr. skratka obsahujúca prvé písmená vašich krstných mien alebo priezvisk. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
 * **Voľba témy:** Každá skupina si zvolí tému najneskôr do utorka 28.3. 22:00.  Jeden člen skupiny zapíše názov témy do príslušného dokumentu v Google classroom. Najviac 4 skupiny môžu robiť tú istú tému, takže ak si už 4 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú. Ak chcete navrhnúť vlastnú tému, musíte stručný popis témy a dostupných dát poslať emailom B. Brejovej najneskôr do piatka 24.3., čím skôr vám potom dáme vedieť, či je téma vhodná. 
 * **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v Google Classroom (budeme vám tam zapisovať priebežné hodnotenie). Na stretnutie v rámci skupiny môžete využiť časť cvičení, skupinové zadania už od 29.3. nebudú. Na cvičaniach však máte aj krátke skupinové stretnutie s cvičiacimi a individuálne riešenie úloh s prípadnou radou od cvičiacich.
 * **Priebežná kontrola:** Na každom cvičení od 5.4. do 3.5. sa uskutoční krátke stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Bližšie detaily viď [nižšie](#kontrolné-stretnutia).
 * **Prvé kroky:** Sťahovanie dát, ich úprava do vhodného formátu, zisťovanie základných charakteristík, opravovanie alebo odstraňovanie nesprávnych položiek. Na cvičení 29.3. začnete na týchto úlohách pracovať. Ideálne by ste ich dokončili pred ďalším týždňom, ale v niektorých projektoch toto môže byť väčšia časť projektu a trvať dlhšie. 
 * **Ďalšie etapy:** Stanovte si otázku, ktorá by sa vo vašich dátach dala analyzovať a pokúste sa ju odpovedať vhodnými grafmi a tabuľkami. Snažte sa nájsť čo najvhodnejšiu vizualizáciu a preskúmať trendy alebo ich výnimky, ktoré nájdete. Postupne preskúmate niekoľko takých otázok. Jednotliví členovia skupiny alebo podskupinky môžu paralelne pracovať na rôznych otázkach. Postupne zostavujte aj materiály, ktoré budete odovzdávať.
-* **Prezentácie projektov:** v poslednom týždni semestra počas cvičenia alebo v inom dohodnutom čase.
-* **Odovzdanie projektu:** v pondelok 15.5. 22:00 (prvý deň skúškového), ale odporúčame ho dokončiť skôr.
+* **Prezentácie projektov:** Prezentácie budú v poslednom týždni semestra počas cvičenia alebo v inom dohodnutom čase.
+* **Odovzdanie projektu:** Termín je v pondelok 15.5. 22:00 (prvý deň skúškového), ale odporúčame ho dokončiť skôr.
 
 ### Kontrolné stretnutia
 
@@ -94,7 +94,7 @@ Poskytujeme vám aj ukážkovú [kostru správy](https://docs.google.com/documen
 
 K projektu by ste mali odovzdať zdrojový kód vo forme Jupyter notebook, v ktorom bude celá analýza od načítania dát, cez ich úpravu a kontrolu až po vykreslenie finálnych grafov použitých v správe, prípadne aj ďalších, ktoré sa do správy nedostali. Celý kód by mal byť spustiteľný v Colabe. Ak časť predspracovania dát nie je praktické robiť v notebooku, uveďte v notebooku analýzu začínajúcu načítaním už predspracovaných dát a proces predspracovania popíšte v notebooku, prípadne odovzdajte v zvláštnom súbore relevantný kód. Notebook by mal obsahovať nadpisy charakterizujúce jednotlivé časti analýzy a stručné popisy jednotlivých častí kódu. Uveďte aj odkazy (URL) na použité zdroje, najmä ak ste z nich kopírovali kód.
 
-Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom alebo v predspracovanom tvare, viď [Technické pokyny](#technické-pokyny). Na ústnej skúške bude potrebné, aby ste vedeli notebook spustiť aj modifikovať.
+Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom alebo v predspracovanom tvare, viď [Technické pokyny](#technické-pokyny). Na ústnej skúške bude potrebné, aby ste vedeli notebook spustiť aj modifikovať na počítači v I-H6.
 
 ### Denník
 
