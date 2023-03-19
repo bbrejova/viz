@@ -37,7 +37,7 @@ V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.sc
 
 ### Covid
 
-Naša fakulta sa zúčastnila analýzy dát zo sekvenovania genetickej informácie vírusu SARS-CoV-2. Úspešnosť sekvanovania jednotlivých vzoriek značne kolísala. Cieľom bude preskúmať typy problémov, ktoré nastali a ich súvislosti. Dáta a ďalšie podrobnosti poskytneme čoskoro. Téma je vhodná pre BIN aj DAV študentov.
+Naša fakulta sa zúčastnila analýzy dát zo sekvenovania genetickej informácie vírusu SARS-CoV-2. Úspešnosť sekvanovania jednotlivých vzoriek značne kolísala. Cieľom bude preskúmať typy problémov, ktoré nastali a ich súvislosti. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](http://compbio.fmph.uniba.sk/~bbrejova/tmp/covid-viz/). Téma je vhodná pre BIN aj DAV študentov.
 
 ## Fázy projektu
 
