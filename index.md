@@ -21,7 +21,7 @@ Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//
 
 * **Týždeň 5: 13.-19.3. Spracovanie dát v knižnici Pandas (2)**<br>Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
 
-* **Týždeň 6: 20.-26.3. Časové rady, siete, mapy, texty**
+* **Týždeň 6: 20.-26.3. Časové rady, siete, mapy**<br>Prednáška 6 [notebook](https://colab.research.google.com/drive/11S0ZyyFB_CFvsVMHoMjxkr5Iltx_p505?usp=share_link)
 <!--
 | Prednáška 6 [https://youtu.be/S764DrJQ5FA video] {{Dot}} [https://drive.google.com/file/d/15HEM-cXNdvLv7g6_SalRg3scYBn-ZnS8/view?usp=sharing pdf] 
 -->
