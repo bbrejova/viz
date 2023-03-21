@@ -38,3 +38,15 @@ https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20
 * [fsev-responses.csv](./fsev-responses.csv)
 * Responses from a survey among students of [FSEV UK](https://fses.uniba.sk/en/) and their friends in 2013, downloaded from [https://www.kaggle.com/miroslavsabo/young-people-survey](https://www.kaggle.com/miroslavsabo/young-people-survey)
 * Description of the survey questions: [fsev-columns.txt](./fsev-columns.txt)
+
+## Piešťany weather
+
+* [piestany-weather.csv](./piestany-weather.csv)
+* Downloaded from https://www.ncdc.noaa.gov/cdo-web/
+
+## Google trends
+
+* [kapustnica-kapor.csv](./kapustnica-kapor.csv)
+* Downloaded from https://trends.google.com/trends/explore?date=today%205-y&geo=SK&q=kapustnica,kapor&hl=en-GB
+* Editted (simplified header, replaced "<1" with "0")
+
