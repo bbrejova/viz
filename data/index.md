@@ -46,7 +46,7 @@ https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20
 
 ## Google trends
 
-* [kapustnica-kapor.csv](./kapustnica-kapor.csv)
-* Downloaded from https://trends.google.com/trends/explore?date=today%205-y&geo=SK&q=kapustnica,kapor&hl=en-GB
-* Editted (simplified header, replaced "<1" with "0")
+* [kapustnica-kapor.csv](./kapustnica-kapor.csv) and [lyze-vlek.csv](./lyze-vlek.csv)
+* Downloaded from https://trends.google.com/trends/explore?date=today%205-y&geo=SK&q=kapustnica,kapor&hl=en-GB and https://trends.google.com/trends/explore?date=all&geo=SK&q=ly%C5%BEe,vlek&hl=en-GB
+* Editted (simplified header, replaced "<1" with "0", removed start of 2023)
 
