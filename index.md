@@ -21,12 +21,10 @@ Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//
 
 * **Týždeň 5: 13.-19.3. Spracovanie dát v knižnici Pandas (2)**<br>Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
 
-* **Týždeň 6: 20.-26.3. Časové rady, siete, mapy**<br>Prednáška 6 [notebook](https://drive.google.com/file/d/1ibX6BVoexO0sc-v8_RchdjYnhF0orpdM/view?usp=share_link)
-<!--
-| Prednáška 6 [https://youtu.be/S764DrJQ5FA video] {{Dot}} [https://drive.google.com/file/d/15HEM-cXNdvLv7g6_SalRg3scYBn-ZnS8/view?usp=sharing pdf] 
--->
+* **Týždeň 6: 20.-26.3. Časové rady, siete, mapy**<br>Prednáška 6 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L06_Maps_etc.ipynb), [pdf](./pdf/L06_Maps_etc.pdf)
 
-* **Týždeň 7: 27.3.-2.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**
+* **Týždeň 7: 27.3.-2.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>Prednáška 7 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L07_More_statistics.ipynb), [pdf](./pdf/L07_More_statistics.pdf) **·** [Notes](./L07-notes.md)
+
 <!--
 | Prednáška 7 [https://youtu.be/rR1MAli-3XI video] {{Dot}} [https://drive.google.com/file/d/1YAXJBg9yBTtENcfk0onTNbPCv7W42JSy/view?usp=sharing pdf]
 -->
