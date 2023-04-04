@@ -25,7 +25,7 @@ Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//
 
 * **Týždeň 7: 27.3.-2.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>Prednáška 7 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L07_More_statistics.ipynb), [pdf](./pdf/L07_More_statistics.pdf) **·** [Notes](./L07-notes.md)
 
-* **Týždeň 8: 3.-9.4. Ľudské vizuálne vnímanie, farby, formáty**
+* **Týždeň 8: 3.-9.4. Ľudské vizuálne vnímanie, farby, formáty**<br>
 Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf)
 
 
