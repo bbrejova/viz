@@ -10,7 +10,7 @@ Cvičenia tento týžden:
 Ďalšie týždne
 * Budúci týždeň prednáška aj cvičenia, očakávame nejaký posun na projekte.
 * O dva týždne nebude prednáška ani cvičenia, Študentská vedecká konferencia.
-* O tri týždne, 26.4. by bolo dobré mať hotovú väčšinu analýz na projekte, zvyšné 2 týžden využiť na dokončovanie a tvorbýu prezentácie a správy.
+* O tri týždne, 26.4. by bolo dobré mať hotovú väčšinu analýz na projekte, zvyšné 2 týždne využiť na dokončovanie a tvorbu prezentácie a správy.
 * Kvíz a DÚ z tohto týždňa až do 18.4., z budúceho týždňa do 25.4.
 
 Študentská vedecká konferencia
