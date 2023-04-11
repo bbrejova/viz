@@ -29,10 +29,8 @@ Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//
 Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Notes](./L08-notes.md)
 
 
-* **Týždeň 9: 10.-16.4. Preatentívne príznaky, gestalt a ilúzie**
-<!--
-| Prednáška 9 [https://youtu.be/N1DzdUK39wU video] {{Dot}} [https://drive.google.com/file/d/1T5wClkDjxQAeJObHa03-8NWFYQdpokBA/view?usp=sharing notebook], [https://drive.google.com/file/d/1VsAxQ6sOjSX5etVsoBmfC1K7uVvKQMnD/view?usp=sharing pdf]
--->
+* **Týždeň 9: 10.-16.4. Preatentívne príznaky, gestalt a ilúzie**<br>
+Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Notes](./L09-notes.md)
 
 * **Týždeň 10: 17.-23.4. Študentská vedecká konferencia**
 
