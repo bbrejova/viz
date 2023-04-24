@@ -114,15 +114,21 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
 
 ## Prezentácie
 
-* Prezentácie budú posledný týždeň semestra počas cvičení alebo v ďalšom dohodnutom čase.
-* Každá skupina spraví jednu spoločnú prezentáciu, ktorá má trvať 10-15 minút.
-* Prezentácia má byť v jednom súbore, zdieľa ju jeden člen skupiny, ale v rozprávaní sa vystriedajú všetci členovia. Každý člen rozpráva aspoň 2 minúty.
-* Na každej prezentácii sa zúčastní ako publikum ešte jedna ďalšia skupina s inou témou projektu.
+* Prezentácie budú posledný týždeň semestra počas cvičení a prednášky (streda 10.5.).
+* Každá skupina spraví jednu spoločnú prezentáciu, ktorá má trvať **10-15 minút**.
+* V rozprávaní sa vystriedajú všetci členovia skupiny. Každý člen rozpráva **aspoň 2 minúty**.
 * Vaša prezentácia by mala mať nasledujúce časti:
   * Úvod do témy, popis dát
   * Sumár hlavných výsledkov ako pre zákazníka (ukážky grafov a ich popis)
   * Ukážky zaujímavých technických aspektov projektu ako pre kolegov programátorov, čo ste sa naučili, čo bolo ťažké.
 * Prezentáciu si vopred precvičte, hlavne nadväznosti častí a celkové trvanie.
+* Celá prezentácia má byť v **jednom pdf súbore**, jeden člen skupiny ju odovzdá do Google Classroom do 9:00 v deň prezentácie, odtiaľ ju vyučujúci nahrajú na prezentovací počítač.
+  * Ak by ste veľmi v prezentácii chceli využiť prvky, ktoré nefungujú v pdf, môžete prezentovať z vlastného počítača. V tom prípade musíte splniť nasledovné podmienky:
+    * Celá skupina musí prezentovať z jedného súboru a počítača, aby sa eliminovali prestoje.
+    * Zapojenie počítača do projektora si vopred skontrolujte v príslušnej učebni (F1-328 alebo I-H6).
+    * Do Classroom odovzdajte súbor, ktorý budete používať a aj pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
+* Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej preznetácii podľa rozpisu.
+
 
 ## Hodnotenie
 
