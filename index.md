@@ -35,16 +35,11 @@ Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Notes](./L09
 * **Týždeň 10: 17.-23.4. Študentská vedecká konferencia**
 
 * **Týždeň 11: 24.-30.4. Zásady dobrej vizualizácie, exploratívna analýza vs. prezentácia výsledov**
+Prednáška 10 [pdf](./pdf/L10_Presentation_and_text.pdf) **·** [Notes](./L10-notes.md)
+
+* **Týždeň 12: 1.-7.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**
 <!--
-| Prednáška 10a [https://youtu.be/UV6TMjrr5x0 video] {{Dot}} [https://drive.google.com/file/d/1d7LtY4VJ5HEdHDmsQy073bognLn8HXrE/view?usp=sharing pdf] {{Dot}} Prednáška 10b [https://youtu.be/MY9VPR6zp1Q video] {{Dot}} [https://drive.google.com/file/d/1OvYhCBmDWLCoAtTJw2EsECZJho3_3uT4/view?usp=sharing notebook], [https://drive.google.com/file/d/1ABqT3F3u3usAJiIfdp4EoRuZXcPH42T_/view?usp=sharing pdf] 
+Prednáška 11 
 -->
 
-* **Týždeň 12: 1.-7.5. Infografika & interaktivita**
-<!--
-| Prednáška 11 [https://youtu.be/Zku7ySVZjKI video] {{Dot}} [https://drive.google.com/file/d/1XhWR1dVTlahEtUYlAffukp5c6O5yfCFX/view?usp=sharing pdf] 
--->
-
-* **Týždeň 13: 8.-14.5. Interaktivita, iné systémy vizualizácie, špecializované grafy**
-<!--
-| Prednáška 12 [https://youtu.be/yW-qopCn5fw video] [https://colab.research.google.com/drive/1u6l_WNiC21tVUj2CM7VFoTkHWIhOvv4e?usp=sharing notebook] [https://drive.google.com/file/d/1PTJGCILUFeLrGGENm4dpuwWz7XxZWJgh/view?usp=sharing pdf] {{Dot}}  [[Skúška]]
--->
+* **Týždeň 13: 8.-14.5. Prezentácie projektov**

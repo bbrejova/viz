@@ -4,7 +4,7 @@ title: Poznámky 26.4.2023
 
 Čo nás čaká v najbližšom čase
 * Tento a budúci týždeň prednášky, individuálne úlohy a kvíz, cvičenia s kontrolným stretnutím.
-* Posledný týždeň semestra (10.5.) prezentácie projektov: 1 skupina BIN pred prednáškou, ostatní počas prednášky a cvičení.
+* Posledný týždeň semestra (10.5.) prezentácie projektov (prednáška aj cvičenia) podľa [rozpisu](./Projects.md#prezentácie)
 * Odovzdanie projektov pondelok 15.5. 22:00
 
 Projekty

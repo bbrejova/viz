@@ -114,7 +114,7 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
 
 ## Prezentácie
 
-* Prezentácie budú posledný týždeň semestra počas cvičení a prednášky (streda 10.5.).
+* Prezentácie budú posledný týždeň semestra počas cvičení a prednášky (streda 10.5.) podľa rozpisu nižšie.
 * Každá skupina spraví jednu spoločnú prezentáciu, ktorá má trvať **10-15 minút**.
 * V rozprávaní sa vystriedajú všetci členovia skupiny. Každý člen rozpráva **aspoň 2 minúty**.
 * Vaša prezentácia by mala mať nasledujúce časti:
@@ -122,13 +122,33 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
   * Sumár hlavných výsledkov ako pre zákazníka (ukážky grafov a ich popis)
   * Ukážky zaujímavých technických aspektov projektu ako pre kolegov programátorov, čo ste sa naučili, čo bolo ťažké.
 * Prezentáciu si vopred precvičte, hlavne nadväznosti častí a celkové trvanie.
-* Celá prezentácia má byť v **jednom pdf súbore**, jeden člen skupiny ju odovzdá do Google Classroom do 9:00 v deň prezentácie, odtiaľ ju vyučujúci nahrajú na prezentovací počítač.
-  * Ak by ste veľmi v prezentácii chceli využiť prvky, ktoré nefungujú v pdf, môžete prezentovať z vlastného počítača. V tom prípade musíte splniť nasledovné podmienky:
+* Celá prezentácia má byť v **jednom pdf súbore**, jeden člen skupiny ju odovzdá do Google Classroom do **9:00 v deň prezentácie**, odtiaľ ju vyučujúci nahrajú na prezentovací počítač.
+  * Ak by ste veľmi v prezentácii potrebovali animácie a iné prvky, ktoré nefungujú v pdf, môžete prezentovať z vlastného počítača. V tom prípade musíte splniť nasledovné podmienky:
     * Celá skupina musí prezentovať z jedného súboru a počítača, aby sa eliminovali prestoje.
     * Zapojenie počítača do projektora si vopred skontrolujte v príslušnej učebni (F1-328 alebo I-H6).
     * Do Classroom odovzdajte súbor, ktorý budete používať a aj pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
-* Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej preznetácii podľa rozpisu.
+* Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej prezentácii podľa rozpisu, môžete sa ale prísť pozrieť aj na viac skupín.
+* Po každej prezentácii bude krátka diskusia, uvítame aj vaše otázky.
 
+Rozpis prezentácií streda 10.5.
+```
+ 9:20 F1-328 Aminobuddies Covid (publikum dobrovoľné)
+ 
+ 9:50 F1-328 ÓBMW Covid (publikum Aminobuddies, ŠPARK)
+10:10 F1-328 ŠPARK Covid (publikum ÓBMW)
+
+10:40 F1-328 Fishes Pláže (publikum NSL)
+11:00 F1-328 NSL Obyvateľstvo (publikum Fishes)
+
+
+14:50 I-H6   TETE Zemetrasenia (publikum Sedmičky)
+15:10 I-H6   Sedmičky Zemetrasenia (publikum TETE)
+
+15:30 I-H6   The Archivers Zemetrasenia (publikum Metóda)
+15:50 I-H6   Metóda Mačky (publikum The Archivers)
+```
+* Aby ste nerušili, prosím prichádzať a odchádzať iba v časoch 9:15-9:20, 9:45-9:50, 10:35-10:40, 14:45-14:50, 15:25-15:30 a po konci.
+* Aminobuddies môžu odísť aj po prezentácii ÓBMW.
 
 ## Hodnotenie
 
