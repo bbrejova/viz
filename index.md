@@ -21,7 +21,7 @@ Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//
 
 * **Týždeň 5: 13.-19.3. Spracovanie dát v knižnici Pandas (2)**<br>Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
 
-* **Týždeň 6: 20.-26.3. Časové rady, siete, mapy**<br>Prednáška 6 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L06_Maps_etc.ipynb), [pdf](./pdf/L06_Maps_etc.pdf)
+* **Týždeň 6: 20.-26.3. Mapy, siete, časové rady**<br>Prednáška 6 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L06_Maps_etc.ipynb), [pdf](./pdf/L06_Maps_etc.pdf)
 
 * **Týždeň 7: 27.3.-2.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>Prednáška 7 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L07_More_statistics.ipynb), [pdf](./pdf/L07_More_statistics.pdf) **·** [Notes](./L07-notes.md)
 
@@ -34,7 +34,7 @@ Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Notes](./L09
 
 * **Týždeň 10: 17.-23.4. Študentská vedecká konferencia**
 
-* **Týždeň 11: 24.-30.4. Zásady dobrej vizualizácie, exploratívna analýza vs. prezentácia výsledov**
+* **Týždeň 11: 24.-30.4. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie, texty a časové rady**
 Prednáška 10 [pdf](./pdf/L10_Presentation_and_text.pdf) **·** [Notes](./L10-notes.md)
 
 * **Týždeň 12: 1.-7.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**
