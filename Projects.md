@@ -147,8 +147,7 @@ Rozpis prezentácií streda 10.5.
 15:30 I-H6   The Archivers Zemetrasenia (publikum Metóda)
 15:50 I-H6   Metóda Mačky (publikum The Archivers)
 ```
-* Aby ste nerušili, prosím prichádzať a odchádzať iba v časoch 9:15-9:20, 9:45-9:50, 10:35-10:40, 14:45-14:50, 15:25-15:30 a po konci.
-* Aminobuddies môžu odísť aj po prezentácii ÓBMW.
+* Aby ste nerušili, prosím prichádzať iba v časoch 9:15-9:20, 9:45-9:50, 10:35-10:40, 14:45-14:50, 15:25-15:30, odchádzať po konci prezentácie.
 
 ## Hodnotenie
 
