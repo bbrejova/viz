@@ -1,0 +1,24 @@
+ <nav class="navbar navbar-light bg-light  navbar-expand-lg">
+	<div class="navbar-header">
+  	  <a class="navbar-brand" href="#"><img src="https://bbrejova.github.io/viz/img/Logo.png" height="50">Vizualizácia dát · 1-DAV-105 · LS 2022/23</a>
+	  <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myNavbar">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+	</div>
+	<div class="collapse navbar-collapse" id="myNavbar">
+	  <ul class="navbar-nav  mr-auto mt-2 mt-lg-0">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+            <li class="nav-item"><a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>            
+            {%- endif -%}
+          {%- endfor -%}
+       </ul>
+	</div>
+</div>
+</nav>        
