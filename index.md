@@ -30,10 +30,10 @@ Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Notes](./L09
 
 * **Týždeň 10: 17.-23.4. Študentská vedecká konferencia**
 
-* **Týždeň 11: 24.-30.4. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie, texty a časové rady**
+* **Týždeň 11: 24.-30.4. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie, texty a časové rady**<br>
 Prednáška 10 [pdf](./pdf/L10_Presentation_and_text.pdf) **·** [Notes](./L10-notes.md)
 
-* **Týždeň 12: 1.-7.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**
+* **Týždeň 12: 1.-7.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**<br>
 Prednáška 11 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L11_Miscelaneous.ipynb), [pdf](./pdf/L11_Miscelaneous.pdf) **·** [Notes](./L11-notes.md)
 
 * **Týždeň 13: 8.-14.5. Prezentácie projektov**
