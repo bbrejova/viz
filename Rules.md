@@ -55,45 +55,52 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 ## Kvízy
 
-* Budú zverejnené po prednáške v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421)
-* Jednoduché otázky na základné porozumenie učiva
-* Odovzdať najneskôr do ďalšieho utorka 22:00
+* Budú zverejnené po prednáške v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421).
+* Jednoduché otázky na základné porozumenie učiva.
+* Odovzdať najneskôr do ďalšieho pondelka 22:00.
 
 ## Individuálne zadania
 
-* Na väčšine cvičení dostanete zadané úlohy, ktoré máte riešiť individuálne
-* Tieto úlohy môžete odovzdávať do ďalšieho utorka 22:00
-* Ak potrebujete pomôcť, prihláste sa na cvičeniach, budeme sa vám venovať
-* Preto je dobré, ak sa dá, začať riešiť úlohy už na cvičeniach
+* Na väčšine cvičení dostanete zadané úlohy, ktoré máte riešiť individuálne.
+* Tieto úlohy môžete odovzdávať do ďalšieho pondelka 22:00.
+* Ak potrebujete pomôcť, prihláste sa na cvičeniach, budeme sa vám venovať.
+* Preto je dobré, ak sa dá, začať riešiť úlohy už na cvičeniach.
 
 ## Skupinové zadania
 
-* Na niektorých cvičeniach budete rozdelení do skupín a dostanete aj zadania, ktoré máte riešiť v skupinách
-* Tie majú prednosť pred individuálnymi, lebo sa dajú odovzdať iba na cvičeniach
-* Budeme hodnotiť nielen odovzdané riešenie, ale aj to, ako ste spolupracovali 
+* Na niektorých cvičeniach budete rozdelení do skupín a dostanete aj zadania, ktoré máte riešiť v skupinách.
+* Tie majú prednosť pred individuálnymi, lebo sa dajú odovzdať iba na cvičeniach.
+* Budeme hodnotiť nielen odovzdané riešenie, ale aj to, ako ste spolupracovali. 
 * [Viac informácií](Groups.md)
 
 ## Projekt
 
-* Projekty budete robiť v druhej polovici semestra v skupinách 4-5 študentov
-* Môžete si vybrať z nami navrhovaných tém alebo navrhnúť vlastnú
-* Odovzdáva sa písomný projekt plus prezentácia
-* Budeme hodnotiť aj priebežný postup prác na projekte
-* Viac informácií neskôr
+* Projekty budete robiť v druhej polovici semestra v skupinách 4-5 študentov.
+* Môžete si vybrať z nami navrhovaných tém alebo navrhnúť vlastnú.
+* Odovzdáva sa písomný projekt plus prezentácia.
+* Budeme hodnotiť aj priebežný postup prác na projekte.
+* Viac informácií poskytneme neskôr.
  
 ## Ústna skúška
 
 * Koná sa cez skúškové obdobie
-* Máte nárok na opravné termíny podľa študijného poriadku
-* Na ústnej skúške sa budeme rozprávať predovšetkým o vašom projekte prípadne o odovzdaných riešeniach zadaní z cvičení, môžete dostať úlohu niečo v nich zmeniť
-* Na základe ústnej skúšky môžeme zmeniť aj vaše body z projektu, pokiaľ zistíme, že váš prínos k práci skupiny nebol dostatočný
-* Viac informácií koncom semestra
+* Máte nárok na opravné termíny podľa študijného poriadku.
+* Na ústnej skúške sa budeme rozprávať predovšetkým o vašom projekte prípadne o odovzdaných riešeniach zadaní z cvičení, môžete dostať úlohu niečo v nich zmeniť.
+* Na základe ústnej skúšky môžeme zmeniť aj vaše body z projektu, pokiaľ zistíme, že váš prínos k práci skupiny nebol dostatočný.
+* Viac informácií poskytneme koncom semestra.
+
+## Účasť, dodržiavanie termínov
+
+* Účasť na prednáškach nekontrolujeme, je však odporúčaná.
+* Účasť na cvičeniach je povinná kvôli skupinovej práci. Ak sa nemôžete zúčastniť, dajte nám vedieť aspoň 24 hodín vopred alebo len čo je to možné. Príďte načas.
+* Všetky zadania je potrebné odovzdať do stanoveného termínu, tolerujeme občasné omeškanie o najviac 5 minút. Ak nemáte vopred dohodnuté neskoršie odovzdanie, vaša neskoro odovzdaná práca môže byť hodnotená nula bodmi. 
+* Účasť je samozrejme potrebná aj na prezenácii projektu a ústnej skúške.
 
 ## Odpisovanie
 
 * Máte povolené sa so spolužiakmi a ďalšími osobami rozprávať o zadaných úlohách a o stratégiách na ich riešenie. Kód, obrázky a text, ktoré odovzdáte, musia však byť vaša samostatná práca. Je zakázané ukazovať svoje riešenia spolužiakom pred termínom odovzdania. Pri prípadnej diskusii nemajte otvorené svoje riešenia, nerobte si detailné poznámky.
 * Pri skupinových zadaniach diskutujte o úlohách iba v rámci skupiny.
-* Pri práci môžete používať webstránky s popisom programovacieho jazyka a podobne, nesnažte sa však nájsť priamo riešenie zadaného príkladu ani nežiadajte o vyriešenie úlohy chatboty a iné nástroje umelej inteligencie.
+* Pri práci môžete používať webstránky s popisom programovacieho jazyka, použitých knižníc a podobne, nesnažte sa však nájsť priamo riešenie zadaného príkladu ani nežiadajte o vyriešenie úlohy chatboty a iné nástroje umelej inteligencie.
 * Môžeme vás požiadať, aby ste nám vysvetlili detaily toho, ako ste riešili určité zadanie. Svoju prácu by ste mali vedieť vysvetliť.
 * Počas skúšky môžete používať iba povolené pomôcky a nesmiete komunikovať so žiadnymi osobami okrem vyučujúcich.
-* Ak nájdeme prípady odpisovania, všetci zúčastnení študenti získajú za príslušné zadanie 0 bodov (aj študenti, ktorí dali spolužiakom odpísať). Opakované alebo obzvlášť závažné prípady odpisovania alebo porušovania pravidiel predmetu budú podstúpené na riešenie disciplinárnej komisii fakulty.
+* Ak nájdeme prípady odpisovania, všetci zúčastnení študenti získajú za príslušné zadanie 0 bodov (aj študenti, ktorí dali spolužiakom odpísať). Odpisovanie alebo iné závažné porušovanie pravidiel predmetu bude tiež podstúpené na riešenie disciplinárnej komisii fakulty.
