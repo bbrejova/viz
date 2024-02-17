@@ -1,9 +1,9 @@
 ---
-title: Materiály
+title: Archív LS 2022/23
 ---
 
 
-**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) · [Projekty](./Projects.md) · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Google Classroom](https://classroom.google.com)**
+**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) · [Projekty](./Projects.md)
 
 * **Týždeň 1: 13.-19.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](./pdf/L01b_Jupyter_Colab_Matplotlib.pdf) **·** [Cvičenie 1](./Tutorial1.md)
 

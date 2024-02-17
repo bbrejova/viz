@@ -29,7 +29,7 @@ Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** Prednáška 1b
 V utorok veľkonočné voľno
 
 * **Týždeň 8.-14.4. Ľudské vizuálne vnímanie, farby, formáty**<br>
-<1-- Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Notes](./L08-notes.md)-->
+<!-- Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Notes](./L08-notes.md)-->
 
 
 * **Týždeň 15.-21.4. Preatentívne príznaky, gestalt a ilúzie**<br>
@@ -42,7 +42,7 @@ V utorok veľkonočné voľno
 <!-- Prednáška 11 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L11_Miscelaneous.ipynb), [pdf](./pdf/L11_Miscelaneous.pdf) **·** [Notes](./L11-notes.md)<br>-->
 V stredu sviatok
 
-* **Týždeň 6.-12.5. **<br>
+* **Týždeň 6.-12.5.**<br>
 V stredu sviatok
 
 * **Týždeň 13.-19.5. Prezentácie projektov**
