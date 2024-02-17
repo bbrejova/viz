@@ -4,13 +4,14 @@ title: Data files
 
 This page contains data files used in the lectures and tutorials.
 
-## Gapminder life expectancy
+## Life expectancy
 
-* [I01-t3-gapminder_life_expectancy_years.csv](./I01-t3-gapminder_life_expectancy_years.csv)
-* Based on FREE DATA FROM WORLD BANK VIA [GAPMINDER.ORG](https://www.gapminder.org/data/), CC-BY LICENSE.
-* Downloaded on 2021-02-08
-* Removed 3 countries with missing values, as well as years after 2021 and before 1900.
+* [life_expectancy_years.csv](./life_expectancy_years.csv)
 * The number of years a newborn would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.
+* Based on FREE DATA FROM WORLD BANK VIA [GAPMINDER.ORG](https://www.gapminder.org/data/), CC-BY LICENSE (years 1900-2017) and [WORLD BANK](https://databank.worldbank.org/reports.aspx?source=2&series=SP.DYN.LE00.IN&country=#) directly (years 2018-2021)
+* Downloaded on 2021-02-08 (gapminder) and 2024-02-17 (World bank)
+* ISO3 codes from World bank, country names from Gapminder. Contains only countries listed in both databases.
+* Removed 3 countries with missing values, as well as years before 1900.
 
 ## UNdata country population
 
