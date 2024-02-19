@@ -7,7 +7,7 @@ title: Kontakt
 Prednášajú
 
 * doc. Mgr. [Broňa Brejová](http://compbio.fmph.uniba.sk/~bbrejova/), PhD. Katedra informatiky
-* RNDr. [Martina Bátorová](http://sccg.sk/~batorova/), PhD. Katedra algebry a geometrie
+* RNDr. [Martina Bátorová](http://sccg.sk/~batorova/), PhD. Katedra algebry a geometrie (tento rok neprednáša)
 
 Cvičia
 
@@ -20,10 +20,9 @@ Cvičia
 * **Do diskusie v classroom** píšte otázky, ktoré sú potenciálne relevantné aj pre spolužiakov, ako nejasnosti v zadaní a technické problémy. Odpovedať prípadne môžu aj spolužiaci.
 * **Súkromné otázky píšte emailom** príslušným vyučujúcim nasledovne:
   * BB: prednášky, hodnotenie finálnych projektov, ústne skúšky,
-  * MB: hodnotenie indviduálnych úloh,
-  * : neúčasť na cvičeniach, individuálne termíny odovzdania úloh,
-  * : otázky k individuálnym zadaniam a kvízom,
-  * : hodnotenie skupinových úloh
+  * ZČ: neúčasť na cvičeniach, posun termínu odovzdania úloh,
+  * FK: otázky k individuálnym zadaniam a kvízom,
+  * príslušní opravujúci: hodnotenie skupinových a individuálnych úloh
 
 ### Správy od vyučujúcich
 

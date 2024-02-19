@@ -85,8 +85,8 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 * Koná sa cez skúškové obdobie
 * Máte nárok na opravné termíny podľa študijného poriadku.
-* Na ústnej skúške sa budeme rozprávať predovšetkým o vašom projekte prípadne o odovzdaných riešeniach zadaní z cvičení, môžete dostať úlohu niečo v nich zmeniť.
-* Na základe ústnej skúšky môžeme zmeniť aj vaše body z projektu, pokiaľ zistíme, že váš prínos k práci skupiny nebol dostatočný.
+* Na ústnej skúške sa budeme rozprávať o vašom projekte a odovzdaných riešeniach zadaní z cvičení. Mali by ste ich vedieť detailne vysvetliť a vedieť v nich robiť zmeny.
+* Na základe ústnej skúšky môžeme zmeniť vaše body z projektu, pokiaľ zistíme, že váš prínos k práci skupiny nebol dostatočný.
 * Viac informácií poskytneme koncom semestra.
 
 ## Účasť, dodržiavanie termínov
@@ -98,9 +98,12 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 ## Odpisovanie
 
-* Máte povolené sa so spolužiakmi a ďalšími osobami rozprávať o zadaných úlohách a o stratégiách na ich riešenie. Kód, obrázky a text, ktoré odovzdáte, musia však byť vaša samostatná práca. Je zakázané ukazovať svoje riešenia spolužiakom pred termínom odovzdania. Pri prípadnej diskusii nemajte otvorené svoje riešenia, nerobte si detailné poznámky.
+* Máte povolené sa so spolužiakmi a ďalšími osobami rozprávať o zadaných úlohách a o stratégiách na ich riešenie. Kód, obrázky a text, ktoré odovzdáte, musia však byť **vaša samostatná práca**. Je zakázané ukazovať svoje riešenia spolužiakom pred termínom odovzdania. Pri prípadnej diskusii nemajte otvorené svoje riešenia, nerobte si detailné poznámky.
 * Pri skupinových zadaniach diskutujte o úlohách iba v rámci skupiny.
-* Pri práci môžete používať webstránky s popisom programovacieho jazyka, použitých knižníc a podobne, nesnažte sa však nájsť priamo riešenie zadaného príkladu ani nežiadajte o vyriešenie úlohy chatboty a iné nástroje umelej inteligencie.
-* Môžeme vás požiadať, aby ste nám vysvetlili detaily toho, ako ste riešili určité zadanie. Svoju prácu by ste mali vedieť vysvetliť.
+* Pri práci môžete používať prednášky z tohto predmetu, webstránky s popisom programovacieho jazyka, použitých knižníc a podobne, nesnažte sa však nájsť priamo riešenie zadaného príkladu.
+* Nežiadajte o vyriešenie úlohy chatboty a iné nástroje umelej inteligencie, **nepoužívajte AI nástroje** na automatické generovanie kódu.
+  * Cieľom individuálnych a skupinových úloh je, aby ste sa naučili základy vizualizácie a spracovania dát, čo sa vám nepodarí, ak si úlohy nevyriešite vlastnými silami. Bez základov budete mať potom problém s vypracovaním projektu a s ústnou skúškou, ako aj na ďalších nadväzujúcich predmetoch.
+  * Na projekte môže byť určité použitie AI nástrojov povolené, viď pokyny k projektom.
+* Môžeme vás požiadať, aby ste nám vysvetlili detaily toho, ako ste riešili určité zadanie (počas semestra alebo na ústnej skúške). Svoju prácu by ste mali vedieť vysvetliť, inak môžete stratiť body z úlohy.
 * Počas skúšky môžete používať iba povolené pomôcky a nesmiete komunikovať so žiadnymi osobami okrem vyučujúcich.
-* Ak nájdeme prípady odpisovania, všetci zúčastnení študenti získajú za príslušné zadanie 0 bodov (aj študenti, ktorí dali spolužiakom odpísať). Odpisovanie alebo iné závažné porušovanie pravidiel predmetu bude tiež podstúpené na riešenie disciplinárnej komisii fakulty.
+* Ak nájdeme prípady odpisovania alebo iného poriušenia pravidiel, všetci zúčastnení študenti získajú za príslušné zadanie 0 bodov (aj študenti, ktorí dali spolužiakom odpísať). Odpisovanie alebo iné závažné porušovanie pravidiel predmetu bude tiež podstúpené na riešenie disciplinárnej komisii fakulty.

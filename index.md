@@ -2,7 +2,7 @@
 title: Materiály
 ---
 
-**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) · [Projekty](./Projects.md) · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Google Classroom](https://classroom.google.com)**
+**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) · [Projekty](./Projects.md) · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Google Classroom](https://classroom.google.com) · [Kontakt](./Contact.md)**
 
 * **Týždeň 19.-25.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>
 <!-- Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** -->
