@@ -38,3 +38,14 @@ title: Cvičenie 1
 Poznámky
 * Ak chcete experimentovať s už hotovými časťami zadaní, spravte si ďalšiu kópiu súboru, ktorú môžete ľubovoľne meniť a ktorú neodovzdávate.
 * Ak pracujete v inom prostredí, pred odovzdaním skontrolujte, že sa dá váš notebook spustiť aj v Google Colab.
+
+## Pravidlá pre individuálne a skupinové úlohy
+
+* Na individuálnych úlohách pracujte samostatne, neukazujte svoj kód spolužiakom.
+* Na skupinových spolupracujte len v rámci skupiny.
+* Ak máte problémy, spýtajte sa cvičiacich, mimo cvičení [emailom](./Contact.md).
+* Môžete používať prednášky, dokumentáciu prípadne iné webstránky o použitých knižniciach. 
+* Nepožívajte AI nástroje na generovanie kódu a textu, nesnažte sa nájsť riešenie celej úlohy online.
+* Viac v [pravidlách predmetu](./Rules.md)
+
+Individuálne a skupinové úlohy slúžia na precvičenie učiva v menších krokoch, aby ste potom na projekte a nadväzujúcich predmetoch vedeli robiť zaujímavejšie väčšie analýzy.
