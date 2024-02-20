@@ -11,10 +11,11 @@ title: Cvičenie 1
 * Cvičenia budú v utorok o 14:50 v miestnosti I-H6.
 * Najneskôr do budúceho pondelka 22:00 vyriešte kvíz k prvej prednáške.
 
-## Počas cvičenia
+## Cvičenie 1
 
-* Ak máte otázky, pýtajte sa, radi poradíme a pomôžeme.
+* Riešite príklad I01 v [Google classroom](https://classroom.google.com)
 * Nevyriešené úlohy môžete dokončiť neskôr a odovzdať do ďalšieho utorka 22:00 (väčšinou iba do pondelka, tentokrát výnimka).
+* Ak máte otázky, pýtajte sa, radi poradíme a pomôžeme.
 
 ## Zadania a odovzdávanie
 
@@ -24,7 +25,7 @@ title: Cvičenie 1
 * Ak nemáte povolenie od vyučujúcich, neodovzdávajte úlohu po termíne odovzdania.
 
 ## Pokyny k zadaniam
-* Zadania budú vo formáte Jupyter notebook
+* Zadania budú vo formáte Jupyter notebook.
 * Vaše riešenia píšte vždy len do priestoru medzi START a END značky, ktoré vyzerajú takto:
 <pre>
 ### TASK 1 START
@@ -46,6 +47,6 @@ Poznámky
 * Ak máte problémy, spýtajte sa cvičiacich, mimo cvičení [emailom](./Contact.md).
 * Môžete používať prednášky, dokumentáciu prípadne iné webstránky o použitých knižniciach. 
 * Nepožívajte AI nástroje na generovanie kódu a textu, nesnažte sa nájsť riešenie celej úlohy online.
-* Viac v [pravidlách predmetu](./Rules.md)
+* Viac v [pravidlách predmetu](./Rules.md).
 
 Individuálne a skupinové úlohy slúžia na precvičenie učiva v menších krokoch, aby ste potom na projekte a nadväzujúcich predmetoch vedeli robiť zaujímavejšie väčšie analýzy.
