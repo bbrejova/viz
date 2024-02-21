@@ -5,9 +5,10 @@ title: Materiály
 **[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) · [Projekty](./Projects.md) · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Google Classroom](https://classroom.google.com) · [Kontakt](./Contact.md)**
 
 * **Týždeň 19.-25.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>
-[Úloha I01](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/I01_Matplotlib-clean.ipynb)<br>
-<!-- Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** -->
-Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](./pdf/L01b_Jupyter_Colab_Matplotlib.pdf) **·** [Cvičenie 1](./Tutorial1.md)
+Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** 
+Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](./pdf/L01b_Jupyter_Colab_Matplotlib.pdf) **·**
+Prednáška 1c [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01c_Libraries.ipynb), [pdf](./pdf/L01b_Libraries.pdf) **·**
+[Cvičenie 1](./Tutorial1.md)
 
 * **Týždeň 26.-3.3. Spracovanie dát v knižnici Pandas**<br>
 <!-- Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](./pdf/L02_Processing_Pandas.pdf) **·** [Cvičenie 2](./Tutorial2.md) -->
