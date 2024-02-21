@@ -7,7 +7,7 @@ title: Cvičenie 1
 * Ak nemáte konto na služby od Google (gmail), vytvorte si ho.
 * Po prihlásení na svoje Google konto navštívte stránku [https://colab.research.google.com](https://colab.research.google.com).
   * Z ponúkaných súborov si môžete otvoriť Welcome to Colaboratory a zbežne si ho pozrieť.
-  * Otvorte si nastavenia na vašom Google drive: https://drive.google.com/drive/settings a v záložke Manage apps si pridajte aplikáciu Google Colaboratory. Umožní vám jednoduché otváranie a odovzdávanie zadaní.
+  * Otvorte si [nastavenia](https://drive.google.com/drive/settings) na vašom Google drive a v záložke Manage apps si pridajte aplikáciu Google Colaboratory. Umožní vám jednoduché otváranie a odovzdávanie zadaní.
 * Prihláste sa do Google classroom [https://classroom.google.com](https://classroom.google.com) s kódom poskytnutým emailom.
 * Prihláste sa do predmetu v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421).
 * Cvičenia budú v utorok o 14:50 v miestnosti I-H6.
