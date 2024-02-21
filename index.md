@@ -11,7 +11,7 @@ Prednáška 1c [notebook](https://colab.research.google.com/github/bbrejova/viz/
 [Cvičenie 1](./Tutorial1.md)
 
 * **Týždeň 26.-3.3. Spracovanie dát v knižnici Pandas**<br>
-<!-- Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](./pdf/L02_Processing_Pandas.pdf) **·** [Cvičenie 2](./Tutorial2.md) -->
+<!-- Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](./pdf/L02_Processing_Pandas.pdf) **·**--> [Cvičenie 2](./Tutorial2.md) 
 
 
 * **Týždeň 4.-10.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>
