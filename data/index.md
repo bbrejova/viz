@@ -26,7 +26,9 @@ https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20
 
 * [World_bank.csv](./World_bank.csv)
 * Downloaded from [https://databank.worldbank.org/home](https://databank.worldbank.org/home) under CC BY 4.0 license.
-* Country population, surface area in km squared, GDP per capita (in current US$), life expectancy at birth (years), fertility rate, total (births per woman); in years 2000, 2010, 2018.
+* Country population, surface area in km squared, GDP per capita (in current US$), life expectancy at birth (years), fertility rate, total (births per woman); in years 2000, 2010, 2020.
+* Downloaded on 2024-03-05
+* Also country metadata, including ISO3 code, region and income group.
 
 ## Movies from Kaggle
 
