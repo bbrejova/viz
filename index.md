@@ -15,11 +15,11 @@ Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//
 
 
 * **Týždeň 4.-10.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>
-Prednáška 3a [pdf](./pdf/L03a_Plot_types.pdf)  **·**  Prednáška 3b [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L03b_Plot_types.ipynb), [pdf](./pdf/L03b_Plot_types.pdf) 
+Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L03b_Plot_types.ipynb) **·** [pdf](./pdf/L03b_Plot_types.pdf) 
 
 
 * **Týždeň 11.-17.3. Základné popisné štatistiky a ich využitie vo vizualizácii**<br>
-Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·** [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L04_Summary_statistics.ipynb), [pdf](./pdf/L04_Summary_statistics.pdf) **·**  [Oznamy](./L08-notes.md)
+Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·** [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L04_Summary_statistics.ipynb) **·** [pdf](./pdf/L04_Summary_statistics.pdf) **·**  [Oznamy](./L04-notes.md)
 
 * **Týždeň 18.-24.3. Spracovanie dát v knižnici Pandas (2)**<br>
 <!-- Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md) -->
