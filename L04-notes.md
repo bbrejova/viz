@@ -2,10 +2,9 @@
 title: Poznámky 13.3.2024
 ---
 
-Cvičenia, skupiny:
+Projekt:
 
-* Budúci týždeň ešte bežia cvičenia ako doteraz.
-* Neskôr v semestri ale skončia skupinové úlohy a začnete pracovať v skupinách na väčšom projekte.
+* Po Veľkej noci skončia skupinové úlohy a začnete pracovať v skupinách na väčšom projekte.
 * Viac detailov k projektom budúci týždeň.
 
 Skupiny na projekt:
@@ -20,6 +19,9 @@ Témy:
 * Jedna téma bude z oblasti bioinformatiky.
 * Môžete navrhnúť aj vlastnú tému, najneskôr do pondelka 25.3.
 
-Úloha na najblížšie dni:
+Plán:
 
-* Odporúčame zháňať potenciálnych členov skupiny.
+* Odporúčame čo najskôr zháňať potenciálnych členov skupiny.
+* Budúci týždeň cvičenia ešte po starom s náhodnými skupinami.
+* O dva týždne robíte posledné skupinové zadanie, ale už v projektových skupinách.
+* Individuálne úlohy a kvízy pobežia do konca semestra.
