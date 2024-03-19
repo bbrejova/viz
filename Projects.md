@@ -2,11 +2,10 @@
 title: Projekty
 ---
 
-Pokyny k projektom upresníme neskôr. Základné informácie viď [pravidiel predmetu](./Rules.html).
+<!-- Pokyny k projektom upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). -->
 
 <!-- * [https://youtu.be/7Wl_P7red7o Video s pokynmi (1)] -->
 
-<!-- 
 Ak niektoré z týchto pokynov predstavujú pre váš projekt problém, konzultujte možné riešenia s vyučujúcimi.
 
 ## Ciele projektu
@@ -21,39 +20,40 @@ Projekt je kľúčovou časťou predmetu
 
 ## Témy projektov
 
-Nižšie ponúkame štyri témy projektov. Môžete si vybrať jednu z nich, alebo navrhnúť vlastnú. K témam sú uvedené otázky, ktoré môžete skúmať, môžete si však vymyslieť aj iné. Spojenie dát z uvedených stránok s ďalšími zdrojmi dát je veľmi vítané.
+Nižšie ponúkame štyri témy projektov. Môžete si vybrať jednu z nich, alebo navrhnúť vlastnú. K témam sú uvedené otázky, ktoré môžete skúmať, môžete si však vymyslieť aj iné. Spojenie dát z uvedených stránok s ďalšími zdrojmi dát je veľmi vítané, ale zamerajte sa primárne na uvedené tabuľky.
 
-### Pláže
+### Požiare
 
-Európsky úrad European Environment Agency zverejňuje tabuľku kvality vôd na kúpanie na morských plážach aj vo vnútrozemí pre jednotlivé krajiny EÚ v rôznych rokoch ([dáta](https://www.eea.europa.eu/data-and-maps/data/bathing-water-directive-status-of-bathing-water-14)). Spracujte tieto dáta buď celoeurópsky alebo pre vybrané krajiny, ktoré poznáte. Môžete vizualizovať kvalitu vôd na mapách, sledovať jej zmenu v čase, porovnávať rôzne krajiny alebo ich regióny. Súvisí kvalita vody s bohatstvom krajiny, počtom turistov naštevujúcich krajinu, hustotou osídlenia v okolí daného bodu a podobne? Môžete sa inšpirovať aj [oficiálnou európskou správou](https://www.eea.europa.eu/themes/water/europes-seas-and-coasts/assessments/state-of-bathing-water) a replikovať niektoré jej analýzy alebo jej [kritikou](https://www.euractiv.com/section/energy-environment/news/europes-bathing-waters-may-not-be-as-good-as-eu-assessment-suggests/).
+Organizácia Spojených národov pre výživu a poľnohospodárstvo (Food and Agriculture Organization, FAO) zdieľa niekoľko datasetov, okrem iného aj údaje o lesných a stepných požiaroch za roky 1992-2022 v jednotlivých krajinách sveta a tiež údaje o typoch porastu. Skúmať môžete rozdiely medzi regiónmi sveta aj časové trendy týchto údajov. Tabuľku o požiaroch nájdete v sekcii [Bulk downloads](https://www.fao.org/faostat/en/#data/GI), [popis](https://data.apps.fao.org/catalog/dataset/c1010a64-a1ac-4532-94ee-b9a7364f1300), [tabuľka o typoch porastu (land cover)](https://www.fao.org/faostat/en/#data/LC).
 
 
-### Zemetrasenia
+### Voľný čas
 
-Americký úrad National Centers for Environmental Information zostavil tabuľku významných zemetrasení, pričom obzvlášť o zemetraseniach v nedávnej minulosti uvádza viacero údajov, ako napríklad počet úmrtí, zranení, zničených bodov a podobne. Dáta sú prístupné v Google Earth formáte, ktorý budete musieť spracovať vhodnou knižnicou ([dáta](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Hazards/iso/xml/G012153.xml&view=getDataView), [interaktívne vyhľadávanie pre kontrolu](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/search)). Polohy epicentier môžete napríklad rozdeliť do zhlukov alebo podľa krajiny a potom študovať jednotlivé regióny často postihované zmetraseniami. Ktoré to sú? Ako často sa tam zemetrasenia vyskytujú? Ako súvisí sila zemetrasenia a počet obetí a ako sa prípadný súvis mení v čase? Prípadne môžete tieto dáta porovnať s databázou zameranou na Taliansko a okolité krajiny ([dáta](https://doi.pangaea.de/10.1594/PANGAEA.896754)).
+Eurostat má niekoľko tabuliek, ktoré porovnávajú prístup k voľnočasovým aktivitám a spoločenským interakciám v rôznych krajinách Európy a vzhľadom na rôzne ukazovatele ako sú vek, pohlavie, vzdelianie, príjem a podobne. Skúste vizualizovať závislosti medzi týmito typmi veličín. Tabuľky nájdete v sekcii [Leisure and social interaction](https://ec.europa.eu/eurostat/databrowser/explore/all/cc?lang=en&subtheme=qol.qol_lei&display=list&sort=category).
 
-### Obyvateľstvo
 
-V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.scitanie.sk/). Stiahnite si [tabuľky](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_011_SK.zip), ktoré obsahujú počet obyvateľov rôzneho veku, pohlavia a typu zamestnania v jednotlivých obciach, okresoch a krajoch. Vidíte nejaké zaujímavé rozdiely medzi jednotlivými regiónmi Slovenska? Majú niektoré obce nezvyčajnú štruktúru obyvateľstva? Ktoré okresy sa navzájom podobajú svojimi charakteristikami? Sú podobné okresy väčšinou blízko seba? Ako sa líši podiel mužov na rodičovskej dovolenke medzi regiónmi? Dá sa prípadne spraviť aj porovnanie s predchádzajúcim sčítaním obyvateľov. Výsledkom sčítania je veľa rôznych podobných tabuliek. Zamerajte sa hlavne na túto jednu ale doplnkovo môžete prípadne využiť aj iné.
+### Vzdelanie
 
-### Covid
+V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.scitanie.sk/), pričom sumárne dáta sú k dispozícii. Stiahnite si tabuľky uvedené nižšie, ktoré obsahujú údaje o dosiahnutom vzdelaní v kombinácii s inými ukazovateľmi, ako sú vek, pohlavie, obec/okres/kraj a zamestnanie. Vidíte nejaké zaujímavé rozdiely medzi jednotlivými regiónmi Slovenska? Ako sa líši vzdelanie medzi rôznymi vekovými kategóriami alebo na základe pohlavia? Ako vzdelanie súvisí s typom zamestnania? Dá sa prípadne spraviť aj porovnanie s predchádzajúcim sčítaním obyvateľov. Tabuľky: [tab10](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_010_SK.zip), [tab40](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_040_SK.zip), [tab47](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_047_SK.zip), [tab67](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_067_SK.zip).
 
-Naša fakulta sa zúčastnila analýzy dát zo sekvenovania genetickej informácie vírusu SARS-CoV-2. Úspešnosť sekvanovania jednotlivých vzoriek značne kolísala. Cieľom bude preskúmať typy problémov, ktoré nastali a ich súvislosti. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](http://compbio.fmph.uniba.sk/~bbrejova/tmp/covid-viz/). Téma je vhodná pre BIN aj DAV študentov.
+### Proteíny
+
+Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľúčových funkcií. Počas evolúcie sa proteíny menia kvôli mutáciám v DNA, ale napriek tomu vieme ľudským proteínom často nájsť náprotivky v iných organizmoch a skúmať ako sa jednotlivé proteíny menia počas evolúcie. Základné dáta v tomto projekte sú tabuľky, ktoré pre cca 13 tisíc ľudských proteínov udávajú mieru ako veľmi sa líšia od proteínov v 5 iných cicavcoch. Cieľom bude preskúmať trendy v týchto dátach a ich súvislosti s ďalšími zdrojmi dát o proteínoch. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](http://compbio.fmph.uniba.sk/~bbrejova/tmp/prot-viz/). Téma je vhodná pre BIN aj DAV študentov.
 
 ## Fázy projektu
 
-* **Vytvorenie skupín:** Dohodnite sa na skupinách veľkosti 4-5 do utorka 21.3. 22:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do príslušného dokumentu v Google classroom. Názov by mal byť krátky, môže to byť napr. skratka obsahujúca prvé písmená vašich krstných mien alebo priezvisk. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
-* **Voľba témy:** Každá skupina si zvolí tému najneskôr do utorka 28.3. 22:00.  Jeden člen skupiny zapíše názov témy do príslušného dokumentu v Google classroom. Najviac 4 skupiny môžu robiť tú istú tému, takže ak si už 4 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú. Ak chcete navrhnúť vlastnú tému, musíte stručný popis témy a dostupných dát poslať emailom B. Brejovej najneskôr do piatka 24.3., čím skôr vám potom dáme vedieť, či je téma vhodná. 
-* **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v Google Classroom (budeme vám tam zapisovať priebežné hodnotenie). Na stretnutie v rámci skupiny môžete využiť časť cvičení, skupinové zadania už od 29.3. nebudú. Na cvičaniach však máte aj krátke skupinové stretnutie s cvičiacimi a individuálne riešenie úloh s prípadnou radou od cvičiacich.
-* **Priebežná kontrola:** Na každom cvičení od 5.4. do 3.5. sa uskutoční krátke stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Bližšie detaily viď [nižšie](#kontrolné-stretnutia).
-* **Prvé kroky:** Sťahovanie dát, ich úprava do vhodného formátu, zisťovanie základných charakteristík, opravovanie alebo odstraňovanie nesprávnych položiek. Na cvičení 29.3. začnete na týchto úlohách pracovať. Ideálne by ste ich dokončili pred ďalším týždňom, ale v niektorých projektoch toto môže byť väčšia časť projektu a trvať dlhšie. 
+* **Vytvorenie skupín:** Dohodnite sa na skupinách veľkosti 4-5 do pondelka 25.3. 22:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do tabuľky zverejnenej v Google classroom. Názov by mal byť krátky a ľahko zapamätateľný, môže to byť napríklad skratka obsahujúca prvé písmená vašich krstných mien alebo priezvisk. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
+* **Voľba témy:** Každá skupina si zvolí tému najneskôr do pondelka 8.4. 22:00.  Jeden člen skupiny zapíše názov témy do príslušného dokumentu v Google classroom. Najviac 3 skupiny môžu robiť tú istú tému, takže ak si už 3 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr). Ak chcete navrhnúť vlastnú tému, musíte stručný popis témy a dostupných dát poslať emailom B. Brejovej najneskôr do pondelka 25.3., čím skôr vám potom dáme vedieť, či je téma vhodná. 
+* **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v Google Classroom (budeme vám tam zapisovať priebežné hodnotenie). Na stretnutie v rámci skupiny môžete využiť časť cvičení, skupinové zadania už po 26.3. nebudú. Na cvičeniach však máte aj krátke skupinové stretnutie s cvičiacimi a individuálne riešenie úloh s prípadnou radou od cvičiacich.
+* **Priebežná kontrola:** Na každom cvičení od 16.4. do 7.5. sa uskutoční krátke stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Bližšie detaily viď [nižšie](#kontrolné-stretnutia).
+* **Prvé kroky:** Sťahovanie dát, ich úprava do vhodného formátu, zisťovanie základných charakteristík, opravovanie alebo odstraňovanie nesprávnych položiek. Najneskôr na cvičení 9.4. začnete na týchto úlohách pracovať. Ideálne by ste ich dokončili pred ďalším týždňom, ale v niektorých projektoch toto môže byť väčšia časť projektu a trvať dlhšie. 
 * **Ďalšie etapy:** Stanovte si otázku, ktorá by sa vo vašich dátach dala analyzovať a pokúste sa ju odpovedať vhodnými grafmi a tabuľkami. Snažte sa nájsť čo najvhodnejšiu vizualizáciu a preskúmať trendy alebo ich výnimky, ktoré nájdete. Postupne preskúmate niekoľko takých otázok. Jednotliví členovia skupiny alebo podskupinky môžu paralelne pracovať na rôznych otázkach. Postupne zostavujte aj materiály, ktoré budete odovzdávať.
-* **Prezentácie projektov:** Prezentácie budú v poslednom týždni semestra počas cvičenia alebo v inom dohodnutom čase.
-* **Odovzdanie projektu:** Termín je v pondelok 15.5. 22:00 (prvý deň skúškového), ale odporúčame ho dokončiť skôr.
+* **Prezentácie projektov:** Prezentácie budú v poslednom týždni semestra počas prednášky a cvičení alebo v inom dohodnutom čase.
+* **Odovzdanie projektu:** Termín je v pondelok 20.5. 22:00 (prvý deň skúškového), ale odporúčame ho dokončiť skôr.
 
 ### Kontrolné stretnutia
 
-* Na každom cvičení od 5.4. do 3.5. sa uskutoční stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. 
+* Na každom cvičení od 16.4. do 7.5. sa uskutoční stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. 
 * Skupina má v denníku nachystané stručné poznámky ohľadom aktuálneho stavu (kto čo spravil, aké sú ďalšie plány a či sú prípadne nejaké problémy). 
 * Jeden člen skupiny otvorí túto časť denníka a veľmi stručne za cca 2 minúty ju odreferuje. Má prichystané aj ďalšie súbory, takže vie rýchlo v prípade potreby ukázať dokončené alebo rozrobené vizualizácie alebo tabuľky. Každý týždeň by mal referovať iný člen skupiny.
 * Nasleduje diskusia, do ktorej sa podľa potreby zapája celá skupina.
@@ -67,7 +67,8 @@ Naša fakulta sa zúčastnila analýzy dát zo sekvenovania genetickej informác
 * Do dát robte čo najmenej manuálnych zásahov.
 * Opakujúce sa časti kódu presuňte do funkcií, ktoré viackrát použijete s rôznymi parametrami. Takisto zložitejšie výpočty je vhodné presunúť do funkcie.
 * Počas práce na projekte priebežne píšte denník a zdieľajte ho s vyučujúcimi (viď nižšie).
-* Ukladajte si použité zdroje a citujte ich vo výslednom projekte. Môžete sa inšpirovať existujúcimi analýzami vašich dát a replikovať prípadne rozšíriť tieto analýzy, mali by ste však priznať zdroje svojej inšpirácie.
+* Ukladajte si použité zdroje a citujte ich vo výslednom projekte. Môžete sa inšpirovať existujúcimi analýzami vašich dát a replikovať prípadne rozšíriť tieto analýzy, je však potrebné priznať zdroje svojej inšpirácie.
+* Na projekte je povolené používať editory podporujúce automatické generovanie kódu pomocou umelej inteligencie. Avšak automaticky generovaný kód musíte podrobne preštudovať, pochopiť, skontrolovať a opraviť v ňom prípadné chyby. Na ústnej skúške budeme overovať, či viete vysvetliť a modifikovať váš kód aj bez použitia umelej inteligencie. Ak využívate nástroje umelej inteligencie, uveďte to v denníku a medzi zdrojmi v notebooku. 
 
 ## Odovzdávanie finálneho projektu
 
@@ -80,7 +81,7 @@ Správa (report) je dokument, ktorý by ste odovzdali "zákazníkovi", t.j. zad�
 * Hlavičku s názvom projektu, zoznamom autorov a dátumom
 * Obsah so zoznamom kapitol a linkami alebo číslami strán (pokiaľ možno vygenerovaný automaticky)
 * Úvod stručne predstavujúci tému projektu 
-* Popis odkiaľ ste získali dáta, ako ste ich spracovali (či ich bolo potrebné nejako filtrovať alebo inak meniť) a základné charakteristiky dát (pre jednotlivé použité tabuľky  uveďte význam jednotlivých stĺpcov a počet riadkov, prípadne aj ďalšie sumárne štatistiky).
+* Popis odkiaľ ste získali dáta, ako ste ich spracovali (či ich bolo potrebné nejako filtrovať alebo inak meniť) a základné charakteristiky dát (pre jednotlivé použité tabuľky uveďte význam jednotlivých stĺpcov a počet riadkov, prípadne aj ďalšie sumárne štatistiky).
 * Výsledky ďalších analýz (rozdelené do viacerých kapitol). Ku každej analýze stručne popíšte, čo ste s dátami spravili, uveďte grafy alebo tabuľky s výsledkami, vysvetlite, aké trendy a iné závery na nich vidno. Pri záveroch pozor, aby ste z korelácie automaticky nepredpokladali kauzalitu. Z textu by malo byť jasné, čo sú skutočné pozorovania a čo vaše dohady. Vaše výsledky môžete porovnať s výsledkami z iných zdrojov (nie je to ale nutné).
 * Záver so stručným zhrnutím hlavných výsledkov a možnosťami ďalšej práce.
 
@@ -88,18 +89,20 @@ Po formálne stránke by správa mala byť formálny text bez gramatických chý
 
 Ak sa chcete inšpirovať, ako vyzerá formálny technický text s číslovanými obrázkami a tabuľkami, môžete si pozrieť [zborník zo Študentskej vedeckej konferencie](http://compbio.fmph.uniba.sk/svk2022/svk2022-zbornik.pdf) (vaše články asi nebudú mať toľko matematiky a citovať budete asi skôr webstránky než vedecké publikácie, tiež nemusíte správu formátovať do dvoch stĺpcov).
 
-Poskytujeme vám aj ukážkovú [kostru správy](https://docs.google.com/document/d/1dkdOcOBAfQwSy6Gcp0ZNH_CBMmrnYvFCdKmD4_oi-7g/edit?usp=share_link) ako Google doc, z ktorej v prípade záujmu môžete vychádzať.
+Poskytujeme vám aj ukážkovú [kostru správy](https://docs.google.com/document/d/1k8wA93Ta3aP3hsJ8_kzjR7bh0Ys3J5HnDhvnafuDUow/edit?usp=sharing) ako Google doc, z ktorej v prípade záujmu môžete vychádzať.
+
+Text správy by ste mali písať sami, negenerujte text umelou inteligenciou ani neodpisujte z iných zdrojov. Nástroje umelej inteligencie smiete použiť na kontrolu gramatiky a štylistiky. Všetky navrhované úpravy ale starostlivo skontrolujte, či nemenia zamýšľaný význam textu.
 
 
 ### Zdrojový kód
 
-K projektu by ste mali odovzdať zdrojový kód vo forme Jupyter notebook, v ktorom bude celá analýza od načítania dát, cez ich úpravu a kontrolu až po vykreslenie finálnych grafov použitých v správe, prípadne aj ďalších, ktoré sa do správy nedostali. Celý kód by mal byť spustiteľný v Colabe. Ak časť predspracovania dát nie je praktické robiť v notebooku, uveďte v notebooku analýzu začínajúcu načítaním už predspracovaných dát a proces predspracovania popíšte v notebooku, prípadne odovzdajte v zvláštnom súbore relevantný kód. Notebook by mal obsahovať nadpisy charakterizujúce jednotlivé časti analýzy a stručné popisy jednotlivých častí kódu. Uveďte aj odkazy (URL) na použité zdroje, najmä ak ste z nich kopírovali kód.
+K projektu by ste mali odovzdať zdrojový kód vo forme Jupyter notebook, v ktorom bude celá analýza od načítania dát, cez ich úpravu a kontrolu až po vykreslenie finálnych grafov použitých v správe, prípadne aj ďalších, ktoré sa do správy nedostali. Celý kód by mal byť spustiteľný v Colabe. Ak časť predspracovania dát nie je praktické robiť v notebooku, uveďte v notebooku analýzu začínajúcu načítaním už predspracovaných dát a proces predspracovania popíšte v notebooku, prípadne odovzdajte v zvláštnom súbore relevantný kód. Notebook by mal obsahovať nadpisy charakterizujúce jednotlivé časti analýzy a stručné popisy jednotlivých častí kódu. Uveďte aj odkazy (URL) na použité zdroje, najmä ak ste z nich kopírovali kód (vrátane nástrojov umelej inteligencie).
 
 Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom alebo v predspracovanom tvare, viď [Technické pokyny](#technické-pokyny). Na ústnej skúške bude potrebné, aby ste vedeli notebook spustiť aj modifikovať na počítači v I-H6.
 
 ### Denník
 
-Denník vypĺňajte do [poskytnutej kostry](https://docs.google.com/document/d/1hLxANuC64-8Wt2hvEGWLjUjekwl41Xa1Bad3wqiku4Q/edit?usp=share_link), z ktorej si spravíte kópiu.
+Denník vypĺňajte do kostry poskztnutej v Google classroom, z ktorej si spravíte kópiu.
 
 Na začiatku denníka uveďte názov skupiny, zoznam členov a tému projektu. 
 
@@ -115,7 +118,7 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
 
 ## Prezentácie
 
-* Prezentácie budú posledný týždeň semestra počas cvičení a prednášky (streda 10.5.) podľa rozpisu nižšie.
+* Prezentácie budú posledný týždeň semestra počas cvičení a prednášky alebo v inom dohodnutom čase.
 * Každá skupina spraví jednu spoločnú prezentáciu, ktorá má trvať **10-15 minút**.
 * V rozprávaní sa vystriedajú všetci členovia skupiny. Každý člen rozpráva **aspoň 2 minúty**.
 * Vaša prezentácia by mala mať nasledujúce časti:
@@ -128,9 +131,11 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
     * Celá skupina musí prezentovať z jedného súboru a počítača, aby sa eliminovali prestoje.
     * Zapojenie počítača do projektora si vopred skontrolujte v príslušnej učebni (F1-328 alebo I-H6).
     * Do Classroom odovzdajte súbor, ktorý budete používať a aj pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
-* Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej prezentácii podľa rozpisu, môžete sa ale prísť pozrieť aj na viac skupín.
+* Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej prezentácii podľa rozpisu. <!-- , môžete sa ale prísť pozrieť aj na viac skupín. -->
 * Po každej prezentácii bude krátka diskusia, uvítame aj vaše otázky.
 
+
+<!--
 Rozpis prezentácií streda 10.5.
 ```
  9:20 F1-328 Aminobuddies Covid (publikum dobrovoľné)
@@ -149,6 +154,7 @@ Rozpis prezentácií streda 10.5.
 15:50 I-H6   Metóda Mačky (publikum The Archivers)
 ```
 * Aby ste nerušili, prosím prichádzať iba v časoch 9:15-9:20, 9:45-9:50, 10:35-10:40, 14:45-14:50, 15:25-15:30, odchádzať po konci prezentácie.
+-->
 
 ## Hodnotenie
 
@@ -158,5 +164,3 @@ Podľa [pravidiel predmetu](./Rules.html) v súvislosti z projektom získate až
 * Finálna prezentácia je za 8%.
 * Finálne hodnotenie odovzdaného projektu je za 25%.
 * Individuálna ústna skúška súvisiaca s projektom je za 10%, treba získať aspoň polovicu bodov.
-
--->

@@ -21,7 +21,7 @@ Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  [notebook](http
 Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·** [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L04_Summary_statistics.ipynb) **·** [pdf](./pdf/L04_Summary_statistics.pdf) **·**  [Oznamy](./L04-notes.md)
 
 * **Týždeň 18.-24.3. Spracovanie dát v knižnici Pandas (2)**<br>
-<!-- Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md) -->
+Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
 
 * **Týždeň 25.-31.3. Mapy, siete, časové rady**<br>
 <!-- Prednáška 6 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L06_Maps_etc.ipynb), [pdf](./pdf/L06_Maps_etc.pdf) -->
