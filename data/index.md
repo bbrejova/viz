@@ -56,7 +56,7 @@ https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20
 ## Country boundaries
 
 * [country_boundaries.geojson](./country_boundaries.geojson)
-* The dataset of countries from [Natural Earth](./https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/), in public domain.
+* The dataset of countries from [Natural Earth](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/), in public domain.
 * Our preprocessed file is in Geojson format containing selected columns from the original table.
 
 ## Piešťany weather
@@ -67,6 +67,6 @@ https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20
 ## Google trends
 
 * [kapustnica-kapor.csv](./kapustnica-kapor.csv) and [lyze-vlek.csv](./lyze-vlek.csv)
-* Downloaded from https://trends.google.com/trends/explore?date=today%205-y&geo=SK&q=kapustnica,kapor&hl=en-GB and https://trends.google.com/trends/explore?date=all&geo=SK&q=ly%C5%BEe,vlek&hl=en-GB
+* Downloaded from Google trends [kapustnice,kapor](https://trends.google.com/trends/explore?date=today%205-y&geo=SK&q=kapustnica,kapor&hl=en-GB) and [lyže,vlek](https://trends.google.com/trends/explore?date=all&geo=SK&q=ly%C5%BEe,vlek&hl=en-GB)
 * Editted (simplified header, replaced "<1" with "0", removed start of 2023)
 
