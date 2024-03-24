@@ -42,6 +42,23 @@ https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20
 * Responses from a survey among students of [FSEV UK](https://fses.uniba.sk/en/) and their friends in 2013, downloaded from [https://www.kaggle.com/miroslavsabo/young-people-survey](https://www.kaggle.com/miroslavsabo/young-people-survey)
 * Description of the survey questions: [fsev-columns.txt](./fsev-columns.txt)
 
+## Airports
+
+* [airports.geojson](./airports.geojson) 
+* The dataset of international airports of the world was [downloaded](https://datacatalog.worldbank.org/search/dataset/0038117/Global-Airports) from the World Bank under the CC-BY 4.0 license, and preprocessed. The number of seats is from unknown years, possibly not comparable between countries.
+* Our preprocessed file is in Geojson format used for describing simple geographical features. It contains both location data and other attributes. 
+* Each row of the table contains one airport, with its 3-letter code, name, country, 3-letter code of the country, the number of airplane seats per year and the location.
+
+* [airport_pairs_svk.geojson](./airport_pairs_svk.geojson)
+* International airline connections from Slovak airports (in an unknown year), also from World Bank, as above.
+* Each connection is given by two airport codes, the number of airplane seats within a year, and geometry with a segment connecting the two airport locations.
+
+## Country boundaries
+
+* [country_boundaries.geojson](./country_boundaries.geojson)
+* The dataset of countries from [Natural Earth](./https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/), in public domain.
+* Our preprocessed file is in Geojson format containing selected columns from the original table.
+
 ## Piešťany weather
 
 * [piestany-weather.csv](./piestany-weather.csv)
