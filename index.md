@@ -24,7 +24,7 @@ Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·** [noteboo
 Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
 
 * **Týždeň 25.-31.3. Mapy, siete, časové rady**<br>
-<!-- Prednáška 6 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L06_Maps_etc.ipynb), [pdf](./pdf/L06_Maps_etc.pdf) -->
+Prednáška 6 [prezentácia](./pdf/L046_Maps_etc.pdf)  **·** [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L06_Maps_etc.ipynb), [pdf](./pdf/L06_Maps_etc.pdf) **·**  [Oznamy](./L06-notes.md)
 
 * **Týždeň 1.-7.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>
 <!-- Prednáška 7 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L07_More_statistics.ipynb), [pdf](./pdf/L07_More_statistics.pdf) **·** [Oznamy](./L07-notes.md)<br>-->

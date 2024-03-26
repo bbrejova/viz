@@ -102,7 +102,7 @@ Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom 
 
 ### Denník
 
-Denník vypĺňajte do kostry poskztnutej v Google classroom, z ktorej si spravíte kópiu.
+Denník vypĺňajte do kostry poskytnutej v Google classroom, z ktorej si spravíte kópiu.
 
 Na začiatku denníka uveďte názov skupiny, zoznam členov a tému projektu. 
 
