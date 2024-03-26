@@ -70,3 +70,14 @@ https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20
 * Downloaded from Google trends [kapustnice,kapor](https://trends.google.com/trends/explore?date=today%205-y&geo=SK&q=kapustnica,kapor&hl=en-GB) and [lyže,vlek](https://trends.google.com/trends/explore?date=all&geo=SK&q=ly%C5%BEe,vlek&hl=en-GB)
 * Editted (simplified header, replaced "<1" with "0", removed start of 2023)
 
+## Districts of Slovakia
+
+* [districts.json](./districts.json)
+* Downloaded from https://www.geoportal.sk/sk/zbgis_smd/na-stiahnutie/, CC-BY 4.0 GKÚ Bratislava
+
+## Life expectancy in districts of Slovakia
+
+* [districts_expectancy.csv](./districts_expectancy.csv)
+* Life expectancy at brith for women in 2015-2019 in districts of Slovakia
+* Downloaded from http://www.infostat.sk/vdc/sk/index.php?option=com_wrapper&view=wrapper&Itemid=54
+
