@@ -27,7 +27,7 @@ Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/b
 Prednáška 6 [prezentácia](./pdf/L06a_Maps_etc.pdf)  **·** [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L06_Maps_etc.ipynb), [pdf](./pdf/L06_Maps_etc.pdf) **·**  [Oznamy](./L06-notes.md)
 
 * **Týždeň 1.-7.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>
-<!-- Prednáška 7 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L07_More_statistics.ipynb), [pdf](./pdf/L07_More_statistics.pdf) **·** [Oznamy](./L07-notes.md)<br>-->
+Prednáška 7 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L07_More_statistics.ipynb), [pdf](./pdf/L07_More_statistics.pdf) **·** [Oznamy](./L07-notes.md)<br>
 V utorok veľkonočné voľno
 
 * **Týždeň 8.-14.4. Ľudské vizuálne vnímanie, farby, formáty**<br>
