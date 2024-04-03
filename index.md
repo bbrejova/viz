@@ -37,7 +37,7 @@ V utorok veľkonočné voľno
 * **Týždeň 15.-21.4. Preatentívne príznaky, gestalt a ilúzie**<br>
 <!-- Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Oznamy](./L09-notes.md)-->
 
-* **Týždeň 22.-28.4. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie, texty a časové rady**<br>
+* **Týždeň 22.-28.4. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie, vizualizácia textových dát**<br>
 <!-- Prednáška 10 [pdf](./pdf/L10_Presentation_and_text.pdf) **·** [Oznamy](./L10-notes.md)-->
 
 * **Týždeň 29.4-5.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**<br>
