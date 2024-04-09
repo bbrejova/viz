@@ -31,7 +31,7 @@ Prednáška 7 [notebook](https://colab.research.google.com/github/bbrejova/viz/b
 V utorok veľkonočné voľno
 
 * **Týždeň 8.-14.4. Ľudské vizuálne vnímanie, farby, formáty**<br>
-<!-- Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)-->
+Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)
 
 
 * **Týždeň 15.-21.4. Preatentívne príznaky, gestalt a ilúzie**<br>
