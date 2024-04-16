@@ -33,9 +33,8 @@ V utorok veľkonočné voľno
 * **Týždeň 8.-14.4. Ľudské vizuálne vnímanie, farby, formáty**<br>
 Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)
 
-
 * **Týždeň 15.-21.4. Preatentívne príznaky, gestalt a ilúzie**<br>
-<!-- Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Oznamy](./L09-notes.md)-->
+Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Oznamy](./L09-notes.md)
 
 * **Týždeň 22.-28.4. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie, vizualizácia textových dát**<br>
 <!-- Prednáška 10 [pdf](./pdf/L10_Presentation_and_text.pdf) **·** [Oznamy](./L10-notes.md)-->
