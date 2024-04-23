@@ -33,14 +33,14 @@ V utorok veľkonočné voľno
 * **Týždeň 8.-14.4. Ľudské vizuálne vnímanie, farby, formáty**<br>
 Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)
 
-* **Týždeň 15.-21.4. Preatentívne príznaky, gestalt a ilúzie**<br>
+* **Týždeň 15.-21.4. Preatentívne príznaky, gestalt a ilúzie, vizualizácia textových dát**<br>
 Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Oznamy](./L09-notes.md)
 
-* **Týždeň 22.-28.4. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie, vizualizácia textových dát**<br>
-<!-- Prednáška 10 [pdf](./pdf/L10_Presentation_and_text.pdf) **·** [Oznamy](./L10-notes.md)-->
+* **Týždeň 22.-28.4. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie**<br>
+Prednáška 10 [pdf](./pdf/L10_Presentation.pdf) **·** [Oznamy](./L10-notes.md)
 
 * **Týždeň 29.4-5.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**<br>
-<!-- Prednáška 11 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L11_Miscelaneous.ipynb), [pdf](./pdf/L11_Miscelaneous.pdf) **·** [Oznamy](./L11-notes.md)<br>-->
+Prednáška 11 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L11_Miscelaneous.ipynb), [pdf](./pdf/L11_Miscelaneous.pdf) --> **·** [Oznamy](./L11-notes.md)<br>-->
 V stredu sviatok
 
 * **Týždeň 6.-12.5.**<br>
