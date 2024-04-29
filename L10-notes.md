@@ -1,5 +1,5 @@
 ---
-title: Poznámky 24.4.202č
+title: Poznámky 24.4.2024
 ---
 
 ## Prednášky zvyšok semestra
@@ -24,7 +24,7 @@ title: Poznámky 24.4.202č
 ## Ústne skúšky
 
 * Budú v počitačovej miestnosti, bude známy približný časový rozpis.
-* ***Predbežné termíny pondelky 27.5. a 3.6. Máte nejaké konflikty?***
+* **Predbežné termíny pondelky 27.5. a 3.6.** Prípadné konflikty prosím hláste čím skôr.
 * Po príchode do počítačovej miestnosti si projekt vašej skupiny otvorte na školskom počítači (Windows alebo Linux), ubezpečte sa, že ho viete spustiť.
 * Porozprávame sa o projekte, dostanete za úlohu niečo doňho dorobiť alebo zmeniť.
 * Môžeme sa spýtať niečo aj k vaším individuálnym či skupinovým úlohám.
