@@ -131,30 +131,26 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
     * Celá skupina musí prezentovať z jedného súboru a počítača, aby sa eliminovali prestoje.
     * Zapojenie počítača do projektora si vopred skontrolujte v príslušnej učebni (F1-328 alebo I-H6).
     * Do Classroom odovzdajte súbor, ktorý budete používať a aj pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
-* Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej prezentácii podľa rozpisu. <!-- , môžete sa ale prísť pozrieť aj na viac skupín. -->
+* Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej prezentácii podľa rozpisu, môžete sa ale prísť pozrieť aj na viac skupín.
 * Po každej prezentácii bude krátka diskusia, uvítame aj vaše otázky.
 
+Rozpis prezentácií
 
-<!--
-Rozpis prezentácií streda 10.5.
 ```
- 9:20 F1-328 Aminobuddies Covid (publikum dobrovoľné)
- 
- 9:50 F1-328 ÓBMW Covid (publikum Aminobuddies, ŠPARK)
-10:10 F1-328 ŠPARK Covid (publikum ÓBMW)
+Utorok 14.5. I-H6
+14:50   Alge-Bros (publikum JPD)
+15:10   JPD (publikum Alge-Bros)
 
-10:40 F1-328 Fishes Pláže (publikum NSL)
-11:00 F1-328 NSL Obyvateľstvo (publikum Fishes)
+15:30   žáROFKA (publikum mathprofi.net)
+15:50   Metóda mathprofi.net (publikum žáROFKA)
 
-
-14:50 I-H6   TETE Zemetrasenia (publikum Sedmičky)
-15:10 I-H6   Sedmičky Zemetrasenia (publikum TETE)
-
-15:30 I-H6   The Archivers Zemetrasenia (publikum Metóda)
-15:50 I-H6   Metóda Mačky (publikum The Archivers)
+Streda F1-328
+ 9:50 Vedci (publikum Vychodňare)
+10:10 Vychodňare (publikum Vedci)
 ```
-* Aby ste nerušili, prosím prichádzať iba v časoch 9:15-9:20, 9:45-9:50, 10:35-10:40, 14:45-14:50, 15:25-15:30, odchádzať po konci prezentácie.
--->
+
+* Aby ste nerušili, prosím prichádzať iba v časoch utorok 14:45-14:50, 15:25-15:30 a streda 9:45-9:50, odchádzať po konci prezentácie.
+
 
 ## Hodnotenie
 
