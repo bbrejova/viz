@@ -144,7 +144,7 @@ Utorok 14.5. I-H6
 15:30   žáROFKA (publikum mathprofi.net)
 15:50   Metóda mathprofi.net (publikum žáROFKA)
 
-Streda F1-328
+Streda 15.5. F1-328
  9:50 Vedci (publikum Vychodňare)
 10:10 Vychodňare (publikum Vedci)
 ```
