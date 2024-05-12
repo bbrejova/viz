@@ -138,15 +138,15 @@ Rozpis prezentácií
 
 ```
 Utorok 14.5. I-H6
-14:50   Alge-Bros (publikum JPD)
-15:10   JPD (publikum Alge-Bros)
+14:50   Alge-Bros: Proteíny (publikum mathprofi.net)
+15:10   mathprofi.net: Vzdelanie (publikum Alge-Bros)
 
-15:30   žáROFKA (publikum mathprofi.net)
-15:50   Metóda mathprofi.net (publikum žáROFKA)
+15:30   žáROFKA: Voľný čas (publikum JPD)
+15:50   JPD: Vzdelanie (publikum žáROFKA)
 
 Streda 15.5. F1-328
- 9:50 Vedci (publikum Vychodňare)
-10:10 Vychodňare (publikum Vedci)
+ 9:50 Vedci: Požiare (publikum Vychodňare)
+10:10 Vychodňare: Vzdelanie (publikum Vedci)
 ```
 
 * Aby ste nerušili, prosím prichádzať iba v časoch utorok 14:45-14:50, 15:25-15:30 a streda 9:45-9:50, odchádzať po konci prezentácie.
