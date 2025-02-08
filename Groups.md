@@ -36,22 +36,12 @@ Počas riešenia skupinových zadaní budete mať pridelené v rámci tímu konk
 * Tímy s dvoma prípadne jedným členom majú obsadené iba úlohy driver a scribe. 
 * Ak nie sú všetci členovia tímu prítomní, prerozdeľte si úlohy podľa okolností.
 
-## Stretnutie
-
-<!-- * V prípade online cvičení má každá skupina má vytvorený kanál v MS Teams, na ktorom si počas cvičení spraví stretnutie (skupinový videohovor). -->
-* Zoznam skupín a pridelené roly zverejníme pred cvičením cez Google classroom.
-* Každá skupina obsadí blok počítačov vedľa seba na H6. Driver sedí v strede, ale aj ostatní si zapnú počítače.
-* Od začiatku cvičenia spoločne riešte zadané skupinové príklady.
-* Keď príklady vyriešite, využite zvyšok cvičenia na samostatné riešenie individuálnych úloh (nie v skupine!) a konzultácie s vyučujúcimi. 
-<!-- * Ku stretnutiu skupín sa občas pripoja vyučujúci, budú pozorovať vašu činnosť a odpovedať vaše otázky. -->
-
 ## Odovzdávanie
 
-Za celú skupinu odovzdáte na konci skupinového stretnutia dva dokumenty:
+Za celú skupinu odovzdá na konci skupinového stretnutia driver v Moodle dva dokumenty:
 
-* Samotné vyriešené zadanie ako noteboook (formát ipynb), odovzdáva driver do Google classroom.
-* Denník ako Google doc, odovzdáva sa zapísaním linky, ktorá umožňuje vkladať komentáre, do odovzdaného notebooku.
-* Obidva dokumenty nazdieľajte aj všetkým členom tímu, po skončení cvičenia ich už nemeňte.
+* Samotné vyriešené zadanie ako noteboook (formát ipynb)
+* Denník (formát pdf)
 
 V denníku uveďte
 
@@ -62,16 +52,16 @@ V denníku uveďte
   * ak ste úlohy vyriešili veľmi rýchlo a bez problémov, môžete v skupine prediskutovať ako inak by sa dali riešiť, ako by sa dali programy ďalej rozšíriť či o iných otázkach súvisiacich s témou cvičení. Stručný sumár diskusie uveďte v denníku.
 * môžete spomenúť, ak s niektorými členmi boli problémy (prišli neskoro alebo sa odmietli rozumne zapojiť) alebo ak niekto bol naopak obzvlášť veľkou oporou tímu
 
-Body nakopírujeme v Google classroom všetkým členom tímu, komentár uvedieme v denníku, kde si ho môžete nájsť.
+## Stretnutie
 
-## Technické odporúčania
-
-* Jupyter notebook s riešenou úlohou editujte cez Google Colab a zdieľajte aj s ostatnými členmi skupiny.
-* Denník editujte ako Google Doc a tiež zdieľajte aj s ostatnými.
+* Zoznam skupín a pridelené roly zverejníme pred cvičením cez Moodle.
+* Každá skupina obsadí blok počítačov vedľa seba v miestnosti H6. Driver sedí v strede, ale aj ostatní si zapnú počítače.
+* Zadania a kostru denníka nájdete v Moodli.
+* Jupyter notebook s riešenou úlohou edituje driver cez Google Colab, môže zdieľať s ostatnými členmi skupiny.
+* Denník edituje scribe a zdieľa s ostatnými členmi skupiny.
 * Jednotliví členovia skupiny teda na svojom počítači môžu mať otvorené oba dokumenty, notebook však modifikuje a spúšťa iba driver.
 * Prípadné úryvky navrhovaného kódu a podobne môžete zdieľať v špeciálnej sekcii denníka (scratch), kam píšu všetci. Zvyšok denníka má na starosti scribe.
-<!-- * Počas online stretnutia by ste mali mať zapnuté mikrofóny a ak to kvalita pripojenia dovolí, aj kamery. Podľa potreby využívajte diskusiu stretnutia a zdieľanie obrazovky. -->
-<!-- * Ak máte otázku, s ktorou si neviete poradiť, môžete sa spýtať vyučujúcich počas ich návštevy alebo im písať cez MS Teams. -->
+* Na konci stretnutia driver stiahne notebook aj denník a odovzdá v Moodle. Pred odovzdaním skontrolujte, či máte v Moodle správnych členov skupiny a prípadné nezrovnalosti riešte s cvičiami skôr než úlohu odovzdáte.
 
 ## Neúčasť
 

@@ -2,10 +2,9 @@
 title: Projekty
 ---
 
-<!-- Pokyny k projektom upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). -->
+Pokyny k projektom upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). 
 
-<!-- * [https://youtu.be/7Wl_P7red7o Video s pokynmi (1)] -->
-
+{% if false %}
 Ak niektoré z týchto pokynov predstavujú pre váš projekt problém, konzultujte možné riešenia s vyučujúcimi.
 
 ## Ciele projektu
@@ -160,3 +159,5 @@ Podľa [pravidiel predmetu](./Rules.html) v súvislosti z projektom získate až
 * Finálna prezentácia je za 8%.
 * Finálne hodnotenie odovzdaného projektu je za 25%.
 * Individuálna ústna skúška súvisiaca s projektom je za 10%, treba získať aspoň polovicu bodov.
+
+{% endif %}
