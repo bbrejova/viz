@@ -94,8 +94,8 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 * Účasť na prednáškach nekontrolujeme, je však odporúčaná.
 * Účasť na cvičeniach je povinná kvôli skupinovej práci. Ak sa nemôžete zúčastniť, dajte nám vedieť aspoň 24 hodín vopred alebo len čo je to možné. Príďte načas.
-* Všetky zadania je potrebné odovzdať do stanoveného termínu. Z technických píčin pri domácich úlohách a kvizoch nebudú možné žiadne neskoré odovzdania.
-* Účasť je samozrejme potrebná aj na prezentácii projektu a ústnej skúške.
+* Všetky zadania je potrebné odovzdať do stanoveného termínu. Z technických píčin pri kvízoch nebudú možné žiadne neskoré odovzdania. V prípade ochorenia a podobne môžete požiadať o predĺženie termínu domácej úlohy.
+* Účasť je samozrejme potrebná aj na prezentácii projektu, na teste a ústnej skúške.
 
 ## Odpisovanie
 

@@ -11,20 +11,20 @@ Prednášajú
 
 Cvičia
 
-* doc. RNDr. [Zuzana Černeková](https://dai.fmph.uniba.sk/w/Zuzana_Cernekova/sk), PhD., Katedra aplikovanej informatiky 
-* Mgr. [Filip Kerák](https://dai.fmph.uniba.sk/w/Filip_Kerak/sk), Katedra aplikovanej informatiky
+* doc. RNDr. [Zuzana Černeková](https://dai.fmph.uniba.sk/w/Zuzana_Cernekova/sk), PhD., Katedra aplikovanej informatiky
+* Mgr. [Martin Halaj](https://dai.fmph.uniba.sk/w/Martin_Halaj/sk), Katedra aplikovanej informatiky
+* Ing. [Branislav Zigo](https://dai.fmph.uniba.sk/w/Branislav_Zigo/sk), Katedra aplikovanej informatiky
+<!-- * Mgr. [Filip Kerák](https://dai.fmph.uniba.sk/w/Filip_Kerak/sk), Katedra aplikovanej informatiky -->
 
 ## Komunikácia s vyučujúcimi
 
 * **Počas cvičení** zdvihnite ruku, niekto sa vám bude venovať, len čo to bude možné.
-* **Do diskusie v classroom** píšte otázky, ktoré sú potenciálne relevantné aj pre spolužiakov, ako nejasnosti v zadaní a technické problémy. Odpovedať prípadne môžu aj spolužiaci.
-* **Súkromné otázky píšte emailom** príslušným vyučujúcim nasledovne:
-  * BB: prednášky, hodnotenie finálnych projektov, ústne skúšky,
+* **Mimo cvičení píšte emailom** príslušným vyučujúcim nasledovne:
+  * BB: prednášky, hodnotenie finálnych projektov, skúška,
   * ZČ: neúčasť na cvičeniach, posun termínu odovzdania úloh,
-  * FK: otázky k individuálnym zadaniam a kvízom,
-  * príslušní opravujúci: hodnotenie skupinových a individuálnych úloh
+  * MH, BZ: otázky k domácim úlohám a kvízom,
+  * príslušní opravujúci: hodnotenie skupinových a domácich úloh
 
 ### Správy od vyučujúcich
 
-* Správy vám budeme posielať prostredníctvom Google Classroom (tie vám prídu zrejme na gmail) alebo prostredníctvom AIS2 (tie prídu na uniba.sk adresu).
-* Prosím pravidelne sledujte obidve adresy.
+* Správy vám budeme posielať na uniba.sk adresu, prosím sledujte ju pravidelne.
