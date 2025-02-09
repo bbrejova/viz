@@ -5,10 +5,11 @@ title: Materiály
 **[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) {% if false %} · [Projekty](./Projects.md) {% endif %} · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Kontakt](./Contact.md)**
 
 * **Týždeň 17.-23.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>
+Prednáška 1b {% include notebook.html file="L01b_Jupyter_Colab_Matplotlib" } **·**
+[Cvičenie 1](./Tutorial1.md)
 {% if false %}
 Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** 
-Prednáška 1b [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01b_Jupyter_Colab_Matplotlib.ipynb), [pdf](./pdf/L01b_Jupyter_Colab_Matplotlib.pdf) **·** Prednáška 1c [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01c_Libraries.ipynb), [pdf](./pdf/L01c_Libraries.pdf) **·**
-[Cvičenie 1](./Tutorial1.md)
+Prednáška 1c [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L01c_Libraries.ipynb), [pdf](./pdf/L01c_Libraries.pdf) **·**
 {% endif %}
 
 * **Týždeň 24.-2.3. Spracovanie dát v knižnici Pandas**<br>
