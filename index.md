@@ -13,13 +13,14 @@ Prednáška 1c {% include notebook.html file='L01c_Libraries' %}
 {% endif %}
 
 **Týždeň 24.-2.3. Spracovanie dát v knižnici Pandas**<br>
+[Cvičenie 2](./Tutorial2.md)<br>
 {% if false %}
-Prednáška 2 [notebook](https://colab.research.google.com/github/bbrejova/viz//blob/master/notebooks/L02_Processing_Pandas.ipynb), [pdf](./pdf/L02_Processing_Pandas.pdf) **·** [Cvičenie 2](./Tutorial2.md) 
+Prednáška 2 {% include notebook.html file='L02_Processing_Pandas' %}
 {% endif %}
 
 **Týždeň 3.-9.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>
 {% if false %}
-Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L03b_Plot_types.ipynb) **·** [pdf](./pdf/L03b_Plot_types.pdf) 
+Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  {% include notebook.html file='L03_Plot_types' %}
 {% endif %}
 
 **Týždeň 10.-16.3. Základné popisné štatistiky a ich využitie vo vizualizácii**<br>
