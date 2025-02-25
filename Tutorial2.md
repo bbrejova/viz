@@ -2,9 +2,10 @@
 title: Cvičenie 2
 ---
 
-* V druhom týždni budete mať dve zadania: 
+* V druhom týždni budete mať dve zadania:
+  * skupinové, ktoré odovzdáte do konca cvičení,
   * domácu úlohu + kvíz, zverejnené po prednáške, odovzdávate do ďalšieho **pondelka 22:00**. Výsledky kvízu po termíne odovzdania (niektoré otázky).
-  * skupinové, ktoré sa odovzdáva sa do konca cvičení
+
 
 ## Skupinová práca na cvičeniach
 
