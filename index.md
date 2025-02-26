@@ -5,7 +5,7 @@ title: Materiály
 **[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) {% if false %} · [Projekty](./Projects.md) {% endif %} · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Kontakt](./Contact.md)**
 
 **Týždeň 17.-23.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>{% if true %}
-Prednáška 1b {% include notebook.html file='L01b_Jupyter_Colab_Matplotlib' %} **·**
+Prednáška 1b (na cvičeniach) {% include notebook.html file='L01b_Jupyter_Colab_Matplotlib' %} **·**
 [Cvičenie 1](./Tutorial1.md)<br> {% endif %}{% if true %}
 Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** 
 Prednáška 1c {% include notebook.html file='L01c_Libraries' %}
@@ -37,8 +37,8 @@ Prednáška 7 [notebook](https://colab.research.google.com/github/bbrejova/viz/b
 V utorok veľkonočné voľno
 {% endif %}
 
-**Týždeň 7.-13.4.**<br>{% if false %}
-V stredu Študentská vedecká konferencia
+**Týždeň 7.-13.4.**<br>{% if true %}
+V stredu [Študentská vedecká konferencia](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
 {% endif %}
 
 **Týždeň 14.-20.4. Ľudské vizuálne vnímanie, farby, formáty**<br>{% if false %}
