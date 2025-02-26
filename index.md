@@ -13,8 +13,10 @@ Prednáška 1c {% include notebook.html file='L01c_Libraries' %}
 {% endif %}
 
 **Týždeň 24.-2.3. Spracovanie dát v knižnici Pandas**<br>
+{% if true %}
 [Cvičenie 2](./Tutorial2.md)<br>
-{% if false %}
+{% endif %}
+{% if true %}
 Prednáška 2 {% include notebook.html file='L02_Processing_Pandas' %}
 {% endif %}
 
