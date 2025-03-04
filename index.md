@@ -16,7 +16,7 @@ Prednáška 1c {% include notebook.html file='L01c_Libraries' %}
 Prednáška 2 {% include notebook.html file='L02_Processing_Pandas' %}
 {% endif %}
 
-**Týždeň 3.-9.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>{% if false %}
+**Týždeň 3.-9.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>{% if true %}
 Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  {% include notebook.html file='L03_Plot_types' %}
 {% endif %}
 
