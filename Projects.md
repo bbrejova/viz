@@ -2,9 +2,10 @@
 title: Projekty
 ---
 
-Pokyny k projektom upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). 
-
 {% if false %}
+Pokyny k projektom upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). 
+{% endif %}
+
 Ak niektoré z týchto pokynov predstavujú pre váš projekt problém, konzultujte možné riešenia s vyučujúcimi.
 
 ## Ciele projektu
@@ -17,9 +18,14 @@ Projekt je kľúčovou časťou predmetu
 * Dôležitým aspektom projektu je aj komunikácia výsledkov vo forme prezentácie aj vo forme písomnej správy a technického dokumentu (notebooku), čo sú tiež dôležité zručnosti.
 * Váš pokrok na projekte budú monitorovať cvičiaci, ktorí vám radi poradia v prípade problémov.
 
+
 ## Témy projektov
 
-Nižšie ponúkame štyri témy projektov. Môžete si vybrať jednu z nich, alebo navrhnúť vlastnú. K témam sú uvedené otázky, ktoré môžete skúmať, môžete si však vymyslieť aj iné. Spojenie dát z uvedených stránok s ďalšími zdrojmi dát je veľmi vítané, ale zamerajte sa primárne na uvedené tabuľky.
+Budúci týždeň zverejníme témy projektov. Môžete si vybrať jednu z nich, alebo navrhnúť vlastnú. 
+
+{% if false %}
+Nižšie ponúkame štyri témy projektov. Môžete si vybrať jednu z nich, alebo navrhnúť vlastnú.
+K témam sú uvedené otázky, ktoré môžete skúmať, môžete si však vymyslieť aj iné. Spojenie dát z uvedených stránok s ďalšími zdrojmi dát je veľmi vítané, ale zamerajte sa primárne na uvedené tabuľky.
 
 ### Požiare
 
@@ -39,24 +45,27 @@ V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.sc
 
 Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľúčových funkcií. Počas evolúcie sa proteíny menia kvôli mutáciám v DNA, ale napriek tomu vieme ľudským proteínom často nájsť náprotivky v iných organizmoch a skúmať ako sa jednotlivé proteíny menia počas evolúcie. Základné dáta v tomto projekte sú tabuľky, ktoré pre cca 13 tisíc ľudských proteínov udávajú mieru ako veľmi sa líšia od proteínov v 5 iných cicavcoch. Cieľom bude preskúmať trendy v týchto dátach a ich súvislosti s ďalšími zdrojmi dát o proteínoch. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](http://compbio.fmph.uniba.sk/~bbrejova/tmp/prot-viz/). Téma je vhodná pre BIN aj DAV študentov.
 
+{% endif %}
+
 ## Fázy projektu
 
-* **Vytvorenie skupín:** Dohodnite sa na skupinách veľkosti 4-5 do pondelka 25.3. 22:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do tabuľky zverejnenej v Google classroom. Názov by mal byť krátky a ľahko zapamätateľný, môže to byť napríklad skratka obsahujúca prvé písmená vašich krstných mien alebo priezvisk. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
-* **Voľba témy:** Každá skupina si zvolí tému najneskôr do pondelka 8.4. 22:00.  Jeden člen skupiny zapíše názov témy do príslušného dokumentu v Google classroom. Najviac 3 skupiny môžu robiť tú istú tému, takže ak si už 3 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr). Ak chcete navrhnúť vlastnú tému, musíte stručný popis témy a dostupných dát poslať emailom B. Brejovej najneskôr do pondelka 25.3., čím skôr vám potom dáme vedieť, či je téma vhodná. 
-* **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v Google Classroom (budeme vám tam zapisovať priebežné hodnotenie). Na stretnutie v rámci skupiny môžete využiť časť cvičení, skupinové zadania už po 26.3. nebudú. Na cvičeniach však máte aj krátke skupinové stretnutie s cvičiacimi a individuálne riešenie úloh s prípadnou radou od cvičiacich.
-* **Priebežná kontrola:** Na každom cvičení od 16.4. do 7.5. sa uskutoční krátke stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Bližšie detaily viď [nižšie](#kontrolné-stretnutia).
-* **Prvé kroky:** Sťahovanie dát, ich úprava do vhodného formátu, zisťovanie základných charakteristík, opravovanie alebo odstraňovanie nesprávnych položiek. Najneskôr na cvičení 9.4. začnete na týchto úlohách pracovať. Ideálne by ste ich dokončili pred ďalším týždňom, ale v niektorých projektoch toto môže byť väčšia časť projektu a trvať dlhšie. 
+* **Vytvorenie skupín:** Dohodnite sa na skupinách veľkosti 4-5 do pondelka 24.3. 13:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do tabuľky zverejnenej v Moodli. Názov by mal byť krátky a ľahko zapamätateľný, môže to byť napríklad skratka obsahujúca prvé písmená vašich mien. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
+* **Voľba témy:** Každá skupina si zvolí tému najneskôr do utorka 25.3. 16:20.  Jeden člen skupiny zapíše názov témy do tabuľky so skupinami. Najviac 3 skupiny môžu robiť tú istú tému, takže ak si už 3 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr). Ak chcete navrhnúť vlastnú tému, musíte stručný popis témy a dostupných dát poslať emailom B. Brejovej najneskôr do pondelka 24.3., čím skôr vám potom dáme vedieť, či je téma vhodná. 
+* **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v Moodle (budeme vám tam zapisovať priebežné hodnotenie). Skupinové zadania už po 25.3. nebudú. Na cvičeniach máte krátke skupinové stretnutie s cvičiacimi, zvyšok času odporúčame prácu na projekte.
+* **Priebežná kontrola:** Na každom cvičení od 1.4. do 6.5. sa uskutoční krátke stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Bližšie detaily viď [nižšie](#kontrolné-stretnutia).
+* **Prvé kroky:** Sťahovanie dát, ich úprava do vhodného formátu, zisťovanie základných charakteristík, opravovanie alebo odstraňovanie nesprávnych položiek. Na cvičení 1.4. by ste mali už mať tieto činnosti rozbehnuté alebo hotové. 
 * **Ďalšie etapy:** Stanovte si otázku, ktorá by sa vo vašich dátach dala analyzovať a pokúste sa ju odpovedať vhodnými grafmi a tabuľkami. Snažte sa nájsť čo najvhodnejšiu vizualizáciu a preskúmať trendy alebo ich výnimky, ktoré nájdete. Postupne preskúmate niekoľko takých otázok. Jednotliví členovia skupiny alebo podskupinky môžu paralelne pracovať na rôznych otázkach. Postupne zostavujte aj materiály, ktoré budete odovzdávať.
-* **Prezentácie projektov:** Prezentácie budú v poslednom týždni semestra počas prednášky a cvičení alebo v inom dohodnutom čase.
-* **Odovzdanie projektu:** Termín je v pondelok 20.5. 22:00 (prvý deň skúškového), ale odporúčame ho dokončiť skôr.
+* **Prezentácie projektov:** Prezentácie budú v týždni 12.-18.5. semestra počas prednášky a cvičení alebo v inom dohodnutom čase.
+* **Odovzdanie projektu:** Termín je v pondelok 19.5. 22:00.
 
+{% if false %}
 ### Kontrolné stretnutia
 
-* Na každom cvičení od 16.4. do 7.5. sa uskutoční stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. 
+* Na každom cvičení od 1.4. do 6.5. sa uskutoční stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. 
 * Skupina má v denníku nachystané stručné poznámky ohľadom aktuálneho stavu (kto čo spravil, aké sú ďalšie plány a či sú prípadne nejaké problémy). 
 * Jeden člen skupiny otvorí túto časť denníka a veľmi stručne za cca 2 minúty ju odreferuje. Má prichystané aj ďalšie súbory, takže vie rýchlo v prípade potreby ukázať dokončené alebo rozrobené vizualizácie alebo tabuľky. Každý týždeň by mal referovať iný člen skupiny.
 * Nasleduje diskusia, do ktorej sa podľa potreby zapája celá skupina.
-* Zvyšok cvičenia môžete podľa vlastného uváženia pracovať na projekte (skupinovo alebo individuálne) alebo na individuálnych úlohách k predmetu.
+* Zvyšok cvičenia môžete podľa vlastného uváženia pracovať na projekte (skupinovo alebo individuálne).
 
 ## Technické pokyny
 
@@ -101,7 +110,7 @@ Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom 
 
 ### Denník
 
-Denník vypĺňajte do kostry poskytnutej v Google classroom, z ktorej si spravíte kópiu.
+Denník vypĺňajte do kostry poskytnutej v Moodli, z ktorej si spravíte kópiu.
 
 Na začiatku denníka uveďte názov skupiny, zoznam členov a tému projektu. 
 
@@ -125,16 +134,17 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
   * Sumár hlavných výsledkov ako pre zákazníka (ukážky grafov a ich popis)
   * Ukážky zaujímavých technických aspektov projektu ako pre kolegov programátorov, čo ste sa naučili, čo bolo ťažké.
 * Prezentáciu si vopred precvičte, hlavne nadväznosti častí a celkové trvanie.
-* Celá prezentácia má byť v **jednom pdf súbore**, jeden člen skupiny ju odovzdá do Google Classroom do **9:00 v deň prezentácie**, odtiaľ ju vyučujúci nahrajú na prezentovací počítač.
+* Celá prezentácia má byť v **jednom pdf súbore**, jeden člen skupiny ju odovzdá do Moodlu do **9:00 v deň prezentácie**, odtiaľ ju vyučujúci nahrajú na prezentovací počítač.
   * Ak by ste veľmi v prezentácii potrebovali animácie a iné prvky, ktoré nefungujú v pdf, môžete prezentovať z vlastného počítača. V tom prípade musíte splniť nasledovné podmienky:
     * Celá skupina musí prezentovať z jedného súboru a počítača, aby sa eliminovali prestoje.
     * Zapojenie počítača do projektora si vopred skontrolujte v príslušnej učebni (F1-328 alebo I-H6).
-    * Do Classroom odovzdajte súbor, ktorý budete používať a aj pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
+    * Do Moodlu odovzdajte súbor, ktorý budete používať a aj pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
 * Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej prezentácii podľa rozpisu, môžete sa ale prísť pozrieť aj na viac skupín.
 * Po každej prezentácii bude krátka diskusia, uvítame aj vaše otázky.
 
-Rozpis prezentácií
+### Rozpis prezentácií
 
+Uvedieme neskôr
 ```
 Utorok 14.5. I-H6
 14:50   Alge-Bros: Proteíny (publikum mathprofi.net)
@@ -150,14 +160,15 @@ Streda 15.5. F1-328
 
 * Aby ste nerušili, prosím prichádzať iba v časoch utorok 14:45-14:50, 15:25-15:30 a streda 9:45-9:50, odchádzať po konci prezentácie.
 
+{% endif %}
 
 ## Hodnotenie
 
-Podľa [pravidiel predmetu](./Rules.html) v súvislosti z projektom získate až 55% známky.
-* Po každom kontrolnom stretnutí sa budú dať získať 3% za priebežnú prácu na projekte, spolu 12%.
+Podľa [pravidiel predmetu](./Rules.html) v súvislosti s projektom získate až 55% známky.
+* Po každom kontrolnom stretnutí sa budú dať získať body za priebežnú prácu na projekte, spolu 12%.
   * Každý člen skupiny by sa v priebehu týždňa mal zúčastniť nejakej práce na projekte, aj keď nie je dokončená. V prípade špeciálnych okolností nám dajte vedieť.
-* Finálna prezentácia je za 8%.
-* Finálne hodnotenie odovzdaného projektu je za 25%.
-* Individuálna ústna skúška súvisiaca s projektom je za 10%, treba získať aspoň polovicu bodov.
+* Finálna prezentácia je 8%.
+* Finálne hodnotenie odovzdaného projektu je 20%.
+* Individuálna ústna skúška súvisiaca s projektom je 15%, treba získať aspoň polovicu bodov.
 
 {% endif %}
