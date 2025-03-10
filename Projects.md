@@ -170,5 +170,3 @@ Podľa [pravidiel predmetu](./Rules.html) v súvislosti s projektom získate až
 * Finálna prezentácia je 8%.
 * Finálne hodnotenie odovzdaného projektu je 20%.
 * Individuálna ústna skúška súvisiaca s projektom je 15%, treba získať aspoň polovicu bodov.
-
-{% endif %}
