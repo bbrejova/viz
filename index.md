@@ -21,11 +21,11 @@ Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  {% include note
 {% endif %}
 
 **Týždeň 10.-16.3. Základné popisné štatistiky a ich využitie vo vizualizácii**<br>{% if true %}
-Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·** [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L04_Summary_statistics.ipynb) **·** [pdf](./pdf/L04_Summary_statistics.pdf) **·**  [Oznamy](./L04-notes.md)
+Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·**  {% include notebook.html file='L04_Summary_statistics' %} **·**  [Oznamy](./L04-notes.md)
 {% endif %}
 
 **Týždeň 17.-23.3. Spracovanie dát v knižnici Pandas (2)**<br>{% if false %}
-Prednáška 5 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L05_Pandas_2.ipynb), [pdf](./pdf/L05_Pandas_2.pdf) **·** [Projekty](./Projects.md)
+Prednáška 5  {% include notebook.html file='L05_Pandas_2' %} **·** [Projekty](./Projects.md)
 {% endif %}
 
 **Týždeň 24.-30.3. Mapy, siete, časové rady**<br>{% if false %}
