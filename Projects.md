@@ -27,6 +27,17 @@ Budúci týždeň zverejníme témy projektov. Môžete si vybrať jednu z nich,
 Nižšie ponúkame štyri témy projektov. Môžete si vybrať jednu z nich, alebo navrhnúť vlastnú.
 K témam sú uvedené otázky, ktoré môžete skúmať, môžete si však vymyslieť aj iné. Spojenie dát z uvedených stránok s ďalšími zdrojmi dát je veľmi vítané, ale zamerajte sa primárne na uvedené tabuľky.
 
+### Migrácia
+
+### Voľby
+
+### Psy
+
+### Evolúcia
+
+Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľúčových funkcií. Počas evolúcie sa proteíny menia kvôli mutáciám v DNA, ale napriek tomu vieme ľudským proteínom často nájsť náprotivky v iných organizmoch a skúmať ako sa jednotlivé proteíny menia počas evolúcie. Základné dáta v tomto projekte sú tabuľky, ktoré pre cca 13 tisíc ľudských proteínov udávajú mieru ako veľmi sa líšia od proteínov v 5 iných cicavcoch. Cieľom bude preskúmať trendy v týchto dátach a ich súvislosti s ďalšími zdrojmi dát o proteínoch. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](http://compbio.fmph.uniba.sk/~bbrejova/tmp/prot-viz/). Téma je vhodná pre BIN aj DAV študentov.
+
+
 ### Požiare
 
 Organizácia Spojených národov pre výživu a poľnohospodárstvo (Food and Agriculture Organization, FAO) zdieľa niekoľko datasetov, okrem iného aj údaje o lesných a stepných požiaroch za roky 1992-2022 v jednotlivých krajinách sveta a tiež údaje o typoch porastu. Skúmať môžete rozdiely medzi regiónmi sveta aj časové trendy týchto údajov. Tabuľku o požiaroch nájdete v sekcii [Bulk downloads](https://www.fao.org/faostat/en/#data/GI), [popis](https://data.apps.fao.org/catalog/dataset/c1010a64-a1ac-4532-94ee-b9a7364f1300), [tabuľka o typoch porastu (land cover)](https://www.fao.org/faostat/en/#data/LC).
@@ -41,9 +52,6 @@ Eurostat má niekoľko tabuliek, ktoré porovnávajú prístup k voľnočasovým
 
 V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.scitanie.sk/), pričom sumárne dáta sú k dispozícii. Stiahnite si tabuľky uvedené nižšie, ktoré obsahujú údaje o dosiahnutom vzdelaní v kombinácii s inými ukazovateľmi, ako sú vek, pohlavie, obec/okres/kraj a zamestnanie. Vidíte nejaké zaujímavé rozdiely medzi jednotlivými regiónmi Slovenska? Ako sa líši vzdelanie medzi rôznymi vekovými kategóriami alebo na základe pohlavia? Ako vzdelanie súvisí s typom zamestnania? Dá sa prípadne spraviť aj porovnanie s predchádzajúcim sčítaním obyvateľov. Tabuľky: [tab10](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_010_SK.zip), [tab40](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_040_SK.zip), [tab47](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_047_SK.zip), [tab67](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_067_SK.zip).
 
-### Proteíny
-
-Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľúčových funkcií. Počas evolúcie sa proteíny menia kvôli mutáciám v DNA, ale napriek tomu vieme ľudským proteínom často nájsť náprotivky v iných organizmoch a skúmať ako sa jednotlivé proteíny menia počas evolúcie. Základné dáta v tomto projekte sú tabuľky, ktoré pre cca 13 tisíc ľudských proteínov udávajú mieru ako veľmi sa líšia od proteínov v 5 iných cicavcoch. Cieľom bude preskúmať trendy v týchto dátach a ich súvislosti s ďalšími zdrojmi dát o proteínoch. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](http://compbio.fmph.uniba.sk/~bbrejova/tmp/prot-viz/). Téma je vhodná pre BIN aj DAV študentov.
 
 {% endif %}
 
@@ -51,32 +59,34 @@ Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľú
 
 * **Vytvorenie skupín:** Dohodnite sa na skupinách veľkosti 4-5 do pondelka 24.3. 13:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do tabuľky zverejnenej v Moodli. Názov by mal byť krátky a ľahko zapamätateľný, môže to byť napríklad skratka obsahujúca prvé písmená vašich mien. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
 * **Voľba témy:** Každá skupina si zvolí tému najneskôr do utorka 25.3. 16:20.  Jeden člen skupiny zapíše názov témy do tabuľky so skupinami. Najviac 3 skupiny môžu robiť tú istú tému, takže ak si už 3 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr). Ak chcete navrhnúť vlastnú tému, musíte stručný popis témy a dostupných dát poslať emailom B. Brejovej najneskôr do pondelka 24.3., čím skôr vám potom dáme vedieť, či je téma vhodná. 
-* **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v Moodle (budeme vám tam zapisovať priebežné hodnotenie). Skupinové zadania už po 25.3. nebudú. Na cvičeniach máte krátke skupinové stretnutie s cvičiacimi, zvyšok času odporúčame prácu na projekte.
-* **Priebežná kontrola:** Na každom cvičení od 1.4. do 6.5. sa uskutoční krátke stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Bližšie detaily viď [nižšie](#kontrolné-stretnutia).
+* **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v Moodle (budeme vám tam zapisovať priebežné hodnotenie). 
+* **Priebežná kontrola:** Na každom cvičení od 1.4. do 6.5. sa uskutoční krátke stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Bližšie detaily viď [nižšie](#kontrolné-stretnutia). Skupinové zadania už po 25.3. nebudú, zvyšok času cvičení odporúčame prácu na projekte.
 * **Prvé kroky:** Sťahovanie dát, ich úprava do vhodného formátu, zisťovanie základných charakteristík, opravovanie alebo odstraňovanie nesprávnych položiek. Na cvičení 1.4. by ste mali už mať tieto činnosti rozbehnuté alebo hotové. 
-* **Ďalšie etapy:** Stanovte si otázku, ktorá by sa vo vašich dátach dala analyzovať a pokúste sa ju odpovedať vhodnými grafmi a tabuľkami. Snažte sa nájsť čo najvhodnejšiu vizualizáciu a preskúmať trendy alebo ich výnimky, ktoré nájdete. Postupne preskúmate niekoľko takých otázok. Jednotliví členovia skupiny alebo podskupinky môžu paralelne pracovať na rôznych otázkach. Postupne zostavujte aj materiály, ktoré budete odovzdávať.
+* **Ďalšie etapy:** Stanovte si otázku, ktorá by sa vo vašich dátach dala analyzovať a pokúste sa ju odpovedať vhodnými grafmi a tabuľkami. Snažte sa nájsť čo najvhodnejšiu vizualizáciu a preskúmať trendy alebo ich výnimky, ktoré nájdete. Postupne preskúmajte niekoľko takých otázok. Jednotliví členovia skupiny alebo podskupinky môžu paralelne pracovať na rôznych otázkach. Postupne zostavujte aj materiály, ktoré budete odovzdávať.
 * **Prezentácie projektov:** Prezentácie budú v týždni 12.-18.5. semestra počas prednášky a cvičení alebo v inom dohodnutom čase.
 * **Odovzdanie projektu:** Termín je v pondelok 19.5. 22:00.
 
-{% if false %}
 ### Kontrolné stretnutia
 
 * Na každom cvičení od 1.4. do 6.5. sa uskutoční stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. 
 * Skupina má v denníku nachystané stručné poznámky ohľadom aktuálneho stavu (kto čo spravil, aké sú ďalšie plány a či sú prípadne nejaké problémy). 
-* Jeden člen skupiny otvorí túto časť denníka a veľmi stručne za cca 2 minúty ju odreferuje. Má prichystané aj ďalšie súbory, takže vie rýchlo v prípade potreby ukázať dokončené alebo rozrobené vizualizácie alebo tabuľky. Každý týždeň by mal referovať iný člen skupiny.
-* Nasleduje diskusia, do ktorej sa podľa potreby zapája celá skupina.
-* Zvyšok cvičenia môžete podľa vlastného uváženia pracovať na projekte (skupinovo alebo individuálne).
+* Na začiatku stretnutia otvorte túto časť denníka a veľmi stručne ju odreferujte. Môže referovať jeden alebo viacerí členovia skupiny.
+* Nasleduje diskusia s vyučujúcimi.
+* Majte prichystané aj ďalšie súbory, aby ste vedeli rýchlo ukázať dokončené alebo rozrobené vizualizácie a tabuľky.
+* Na stretnutie buďte pripravení, aby sme nestrácali čas čakaním, kým nájdete a  otvoríte príslušné súbory.
+* Cieľom stretnutia je minitorovať a hodnotiť stupeň vášho pokroku, motivovať vás k priebežnej práci na projekte ale hlavne poradiť vám v prípade problémov.
+
 
 ## Technické pokyny
 
 * Projekt by mal byť v jazyku Python, spustiteľný v prostredí Colab a pracujúci prevažne s knižnicami preberanými na prednáške, hoci v menšej miere môžete použiť aj iné. 
-* Spravte si svoju kópiu spracovávaných dát, aby vás neohrozilo, ak dáta zo zdrojovej stránky zmiznú alebo sa zmenia. Ak dáta vyžadujú rozsiahle predspracovanie, uložte si aj predspracované dáta.
-* Dáta sa vám budú dobre načítavať, ak si ich dáte na web, napríklad na fakultný server [daVinci](http://davinci.fmph.uniba.sk/) ([návod](http://davinci.fmph.uniba.sk/dokuwiki/howtos/personal-web)).
+* Spravte si svoju kópiu spracovávaných dát, aby vás neohrozilo, ak dáta zo zdrojovej stránky zmiznú alebo sa zmenia. Ak dáta vyžadujú rozsiahle predspracovanie, uložte si aj predspracované dáta a ďalej robte s nimi.
+* Dáta sa vám budú dobre načítavať, ak si ich dáte na web, napríklad na fakultný server [daVinci](http://davinci.fmph.uniba.sk/) ([návod](http://davinci.fmph.uniba.sk/dokuwiki/howtos/personal-web)) alebo na GitHub.
 * Do dát robte čo najmenej manuálnych zásahov.
-* Opakujúce sa časti kódu presuňte do funkcií, ktoré viackrát použijete s rôznymi parametrami. Takisto zložitejšie výpočty je vhodné presunúť do funkcie.
+* Opakujúce sa časti kódu presuňte do funkcií, ktoré viackrát použijete s rôznymi parametrami. Takisto zložitejšie výpočty je vhodné presunúť do funkcie. Nie je ideálne, ak viacerí členovia skupiny píšu podobný kód a ten aj zostane vo výslednom projekte. Mali by ste spolu komunikovať a takýmto duplicitám predísť alebo ich odstrániť.
 * Počas práce na projekte priebežne píšte denník a zdieľajte ho s vyučujúcimi (viď nižšie).
 * Ukladajte si použité zdroje a citujte ich vo výslednom projekte. Môžete sa inšpirovať existujúcimi analýzami vašich dát a replikovať prípadne rozšíriť tieto analýzy, je však potrebné priznať zdroje svojej inšpirácie.
-* Na projekte je povolené používať editory podporujúce automatické generovanie kódu pomocou umelej inteligencie. Avšak automaticky generovaný kód musíte podrobne preštudovať, pochopiť, skontrolovať a opraviť v ňom prípadné chyby. Na ústnej skúške budeme overovať, či viete vysvetliť a modifikovať váš kód aj bez použitia umelej inteligencie. Ak využívate nástroje umelej inteligencie, uveďte to v denníku a medzi zdrojmi v notebooku. 
+* Na projekte je povolené používať editory podporujúce automatické generovanie kódu pomocou umelej inteligencie. Avšak automaticky generovaný kód musíte podrobne preštudovať, pochopiť, skontrolovať a opraviť v ňom prípadné chyby. Ste zodpovední za jeho kvalitu a správnosť. Navyše na ústnej skúške budeme overovať, či viete vysvetliť a modifikovať váš kód aj bez použitia umelej inteligencie. Ak využívate nástroje umelej inteligencie, uveďte to v denníku a medzi zdrojmi v notebooku. 
 
 ## Odovzdávanie finálneho projektu
 
@@ -89,11 +99,11 @@ Správa (report) je dokument, ktorý by ste odovzdali "zákazníkovi", t.j. zad�
 * Hlavičku s názvom projektu, zoznamom autorov a dátumom
 * Obsah so zoznamom kapitol a linkami alebo číslami strán (pokiaľ možno vygenerovaný automaticky)
 * Úvod stručne predstavujúci tému projektu 
-* Popis odkiaľ ste získali dáta, ako ste ich spracovali (či ich bolo potrebné nejako filtrovať alebo inak meniť) a základné charakteristiky dát (pre jednotlivé použité tabuľky uveďte význam jednotlivých stĺpcov a počet riadkov, prípadne aj ďalšie sumárne štatistiky).
+* Popis odkiaľ ste získali dáta, ako ste ich spracovali (či ich bolo potrebné nejako filtrovať alebo inak meniť) a základné charakteristiky dát (pre jednotlivé použité tabuľky uveďte význam jednotlivých stĺpcov a počet riadkov, prípadne aj ďalšie sumárne štatistiky). Na základe vášho opisu by mal mať čitateľ dobrú predstavu o tom, ako dané dáta vyzerajú bez toho, aby si ich musel stiahnuť a pozrieť.
 * Výsledky ďalších analýz (rozdelené do viacerých kapitol). Ku každej analýze stručne popíšte, čo ste s dátami spravili, uveďte grafy alebo tabuľky s výsledkami, vysvetlite, aké trendy a iné závery na nich vidno. Pri záveroch pozor, aby ste z korelácie automaticky nepredpokladali kauzalitu. Z textu by malo byť jasné, čo sú skutočné pozorovania a čo vaše dohady. Vaše výsledky môžete porovnať s výsledkami z iných zdrojov (nie je to ale nutné).
 * Záver so stručným zhrnutím hlavných výsledkov a možnosťami ďalšej práce.
 
-Po formálne stránke by správa mala byť formálny text bez gramatických chýb, napísaný v slovenskom alebo anglickom jazyku. Obrázky a tabuľky by mali mať popisky vysvetľujúce čo je na grafe alebo v tabuľke zobrazené a mali by byť očíslované (obrázok/figure 1, tabuľka/table 1 atď.) Navyše na každý obrázok a tabuľku sa odvolajte v hlavnom texte (na obrázku 1 vidíme...). Ak ste pri práci využili nejaké zdroje, uveďte ich v zozname literatúry na konci správy (zdroje dát, literatúru k oblasti, v ktorej robíte projekt). V správe neuvádzajte kód ani nepopisujte technické aspekty projektu (ako ste to programovali) a nemusíte tam ani uvádzať odkazy na zdroje, ktoré súvisia priamo s programovaním. Správa sa odovzdáva vo formáte pdf, môžete ju vytvoriť ako Google doc, ale aj v inom systéme (napríklad Latex/Overleaf).
+Správa by mala byť formálny text bez gramatických chýb, napísaný v slovenskom alebo anglickom jazyku. Obrázky a tabuľky by mali mať popisky vysvetľujúce čo je na grafe alebo v tabuľke zobrazené a mali by byť očíslované (obrázok/figure 1, tabuľka/table 1 atď.) Navyše na každý obrázok a tabuľku sa odvolajte v hlavnom texte (na obrázku 1 vidíme...). Ak ste pri práci využili nejaké zdroje, uveďte ich v zozname literatúry na konci správy (zdroje dát, literatúru k oblasti, v ktorej robíte projekt). V správe neuvádzajte kód ani nepopisujte technické aspekty projektu (ako ste to programovali) a nemusíte tam ani uvádzať odkazy na zdroje, ktoré súvisia priamo s programovaním. Správa sa odovzdáva vo formáte pdf, môžete ju vytvoriť ako Google doc, ale aj v inom systéme (napríklad Latex/Overleaf).
 
 Ak sa chcete inšpirovať, ako vyzerá formálny technický text s číslovanými obrázkami a tabuľkami, môžete si pozrieť [zborník zo Študentskej vedeckej konferencie](http://compbio.fmph.uniba.sk/svk2022/svk2022-zbornik.pdf) (vaše články asi nebudú mať toľko matematiky a citovať budete asi skôr webstránky než vedecké publikácie, tiež nemusíte správu formátovať do dvoch stĺpcov).
 
@@ -106,7 +116,7 @@ Text správy by ste mali písať sami, negenerujte text umelou inteligenciou ani
 
 K projektu by ste mali odovzdať zdrojový kód vo forme Jupyter notebook, v ktorom bude celá analýza od načítania dát, cez ich úpravu a kontrolu až po vykreslenie finálnych grafov použitých v správe, prípadne aj ďalších, ktoré sa do správy nedostali. Celý kód by mal byť spustiteľný v Colabe. Ak časť predspracovania dát nie je praktické robiť v notebooku, uveďte v notebooku analýzu začínajúcu načítaním už predspracovaných dát a proces predspracovania popíšte v notebooku, prípadne odovzdajte v zvláštnom súbore relevantný kód. Notebook by mal obsahovať nadpisy charakterizujúce jednotlivé časti analýzy a stručné popisy jednotlivých častí kódu. Uveďte aj odkazy (URL) na použité zdroje, najmä ak ste z nich kopírovali kód (vrátane nástrojov umelej inteligencie).
 
-Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom alebo v predspracovanom tvare, viď [Technické pokyny](#technické-pokyny). Na ústnej skúške bude potrebné, aby ste vedeli notebook spustiť aj modifikovať na počítači v I-H6.
+Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom alebo v predspracovanom tvare, viď [Technické pokyny](#technické-pokyny). Na ústnej skúške bude potrebné, aby ste vedeli notebook spustiť aj modifikovať na počítači v I-H6 alebo inej učebni.
 
 ### Denník
 
@@ -126,7 +136,6 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
 
 ## Prezentácie
 
-* Prezentácie budú posledný týždeň semestra počas cvičení a prednášky alebo v inom dohodnutom čase.
 * Každá skupina spraví jednu spoločnú prezentáciu, ktorá má trvať **10-15 minút**.
 * V rozprávaní sa vystriedajú všetci členovia skupiny. Každý člen rozpráva **aspoň 2 minúty**.
 * Vaša prezentácia by mala mať nasledujúce časti:
@@ -145,6 +154,7 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
 ### Rozpis prezentácií
 
 Uvedieme neskôr
+{%if false %}
 ```
 Utorok 14.5. I-H6
 14:50   Alge-Bros: Proteíny (publikum mathprofi.net)
