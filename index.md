@@ -24,8 +24,8 @@ Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  {% include note
 Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·**  {% include notebook.html file='L04_Summary_statistics' %} **·**  [Oznamy](./L04-notes.md)
 {% endif %}
 
-**Týždeň 17.-23.3. Spracovanie dát v knižnici Pandas (2)**<br>{% if false %}
-Prednáška 5  {% include notebook.html file='L05_Pandas_2' %} **·** [Projekty](./Projects.md)
+**Týždeň 17.-23.3. Spracovanie dát v knižnici Pandas (2)**<br>{% if true %}
+Prednáška 5  {% include notebook.html file='L05_Pandas_2' %} **·** [Projekty](./Projects.md)**·**  [Oznamy](./L05-notes.md)
 {% endif %}
 
 **Týždeň 24.-30.3. Mapy, siete, časové rady**<br>{% if false %}

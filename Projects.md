@@ -21,45 +21,34 @@ Projekt je kľúčovou časťou predmetu
 
 ## Témy projektov
 
-Budúci týždeň zverejníme témy projektov. Môžete si vybrať jednu z nich, alebo navrhnúť vlastnú. 
 
-{% if false %}
 Nižšie ponúkame štyri témy projektov. Môžete si vybrať jednu z nich, alebo navrhnúť vlastnú.
-K témam sú uvedené otázky, ktoré môžete skúmať, môžete si však vymyslieť aj iné. Spojenie dát z uvedených stránok s ďalšími zdrojmi dát je veľmi vítané, ale zamerajte sa primárne na uvedené tabuľky.
+K témam sú uvedené otázky, ktoré môžete skúmať. Sú to len námety, nemusíte skúmať všetky a môžete si vymyslieť aj iné. Spojenie dát z uvedených stránok s ďalšími zdrojmi dát je veľmi vítané, ale zamerajte sa primárne na uvedené tabuľky.
 
 ### Migrácia
 
+Eurostat zverejňuje údaje o obyvateľoch jednotlivých krajín EU podľa ich občianstva. Toto zahŕňa imigrantov z mimoeurópskych krajín, ale tiež presúvanie obyvateľov medzi jednotlivými krajinami EÚ. Vidíte nejaké zmeny trendov? Ktoré krajiny sa správajú podobne vzhľadom na imigráciu a emigráciu? Ako sa porovná Slovensko so susednými krajinami? Ako závisí počet migrujúcich ľudí od ekonomickej situácie v pôvodnej a cieľovej krajine? Závisí počet migrujúcich od vzdialeností krajín? Ako sa v dátach prejavila vojna na Ukrajine, prípadne iné udalosti?
+Na [stránke s dátami](https://ec.europa.eu/eurostat/databrowser/product/page/MIGR_POP1CTZ) nájdete linku Download data ako aj popis dát v časti Access metadata.
+
+
 ### Voľby
 
+V roku 2022 sa na Slovensku uskutočnili komunálne voľby, kde občania volili poslancov miestnych zastupiteľstiev, starostov a primátorov. Vo voľbách kandidovali desaťtisíce ľudí. K dispozícii sú zoznamy kandidátov aj výsledky volieb. Pre jednotlivých kandidátov poznáme ich meno a priezvisko, vek aj zamestnanie. Viete nájsť nejaké zaujímavé trendy v týchto údajoch v rôznych regiónoch Slovenska alebo v závislosti od veľkosti obce a podobne? Ktoré krstné mená sú časté? Aký je typický vek kandidáta? Čo sú časté zamestnania? Ako sa tieto vlastnosti líšia medzi úspešnými a neúspešnými kandidátmi? Výsledky sa dajú prípadne porovnať aj so staršími komunálnymi voľbami. Na [stránke s dátami](https://volby.statistics.sk/oso/oso2022/sk/subory_na_stiahnutie.html) nájdete zoznam kandidátov v tabuľke OSO2022_SK_tab0bd, k tomu môžete pridať aj tabuľky pre starostov, špeciálne tabuľky pre Bratislavu a Košice, číselník kódov obcí OSO2022_SK_tab0dd, výsledky volieb atď.
+
 ### Psy
+
+Fínski vedci vykonali rozsiahly dotazníkový prieskum u chovateľov psov, ktorých sa pýtali na rôzne aspeky správania ich psa. Výsledky a ich analýzu publikovali v roku 2023 ([článok](https://www.sciencedirect.com/science/article/pii/S258900422300768X)) a k dispozícii sú aj ich [dáta](https://figshare.com/ndownloader/files/27715521). Skúste spraviť vlastnú analýzu týchto dát a hľadať súvislosti medzi rôznymi vlastnosťami jednotlivých psov. V článku autori používajú zložitejšie štatistické modely, vy sa zamerajte skôr na priamočiarejšie spracovanie dát a ich vizualizáciu, aby ste rozumeli použitým metódam. Ak to bude relevantné, môžete porovnať vaše pozorovania s tými v článku.
 
 ### Evolúcia
 
 Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľúčových funkcií. Počas evolúcie sa proteíny menia kvôli mutáciám v DNA, ale napriek tomu vieme ľudským proteínom často nájsť náprotivky v iných organizmoch a skúmať ako sa jednotlivé proteíny menia počas evolúcie. Základné dáta v tomto projekte sú tabuľky, ktoré pre cca 13 tisíc ľudských proteínov udávajú mieru ako veľmi sa líšia od proteínov v 5 iných cicavcoch. Cieľom bude preskúmať trendy v týchto dátach a ich súvislosti s ďalšími zdrojmi dát o proteínoch. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](http://compbio.fmph.uniba.sk/~bbrejova/tmp/prot-viz/). Téma je vhodná pre BIN aj DAV študentov.
 
 
-### Požiare
-
-Organizácia Spojených národov pre výživu a poľnohospodárstvo (Food and Agriculture Organization, FAO) zdieľa niekoľko datasetov, okrem iného aj údaje o lesných a stepných požiaroch za roky 1992-2022 v jednotlivých krajinách sveta a tiež údaje o typoch porastu. Skúmať môžete rozdiely medzi regiónmi sveta aj časové trendy týchto údajov. Tabuľku o požiaroch nájdete v sekcii [Bulk downloads](https://www.fao.org/faostat/en/#data/GI), [popis](https://data.apps.fao.org/catalog/dataset/c1010a64-a1ac-4532-94ee-b9a7364f1300), [tabuľka o typoch porastu (land cover)](https://www.fao.org/faostat/en/#data/LC).
-
-
-### Voľný čas
-
-Eurostat má niekoľko tabuliek, ktoré porovnávajú prístup k voľnočasovým aktivitám a spoločenským interakciám v rôznych krajinách Európy a vzhľadom na rôzne ukazovatele ako sú vek, pohlavie, vzdelianie, príjem a podobne. Skúste vizualizovať závislosti medzi týmito typmi veličín. Tabuľky nájdete v sekcii [Leisure and social interaction](https://ec.europa.eu/eurostat/databrowser/explore/all/cc?lang=en&subtheme=qol.qol_lei&display=list&sort=category).
-
-
-### Vzdelanie
-
-V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.scitanie.sk/), pričom sumárne dáta sú k dispozícii. Stiahnite si tabuľky uvedené nižšie, ktoré obsahujú údaje o dosiahnutom vzdelaní v kombinácii s inými ukazovateľmi, ako sú vek, pohlavie, obec/okres/kraj a zamestnanie. Vidíte nejaké zaujímavé rozdiely medzi jednotlivými regiónmi Slovenska? Ako sa líši vzdelanie medzi rôznymi vekovými kategóriami alebo na základe pohlavia? Ako vzdelanie súvisí s typom zamestnania? Dá sa prípadne spraviť aj porovnanie s predchádzajúcim sčítaním obyvateľov. Tabuľky: [tab10](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_010_SK.zip), [tab40](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_040_SK.zip), [tab47](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_047_SK.zip), [tab67](https://www.scitanie.sk/themes/web-sodb/assets/public/disem/extreports/RV_O_067_SK.zip).
-
-
-{% endif %}
-
 ## Fázy projektu
 
-* **Vytvorenie skupín:** Dohodnite sa na skupinách veľkosti 4-5 do pondelka 24.3. 13:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do tabuľky zverejnenej v Moodli. Názov by mal byť krátky a ľahko zapamätateľný, môže to byť napríklad skratka obsahujúca prvé písmená vašich mien. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
-* **Voľba témy:** Každá skupina si zvolí tému najneskôr do utorka 25.3. 16:20.  Jeden člen skupiny zapíše názov témy do tabuľky so skupinami. Najviac 3 skupiny môžu robiť tú istú tému, takže ak si už 3 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr). Ak chcete navrhnúť vlastnú tému, musíte stručný popis témy a dostupných dát poslať emailom B. Brejovej najneskôr do pondelka 24.3., čím skôr vám potom dáme vedieť, či je téma vhodná. 
-* **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v Moodle (budeme vám tam zapisovať priebežné hodnotenie). 
+* **Vytvorenie skupín:** Dohodnite sa na skupinách veľkosti 4-5 do pondelka 24.3. 13:00. Jeden člen skupiny uvedie členov skupiny a názov skupiny do tabuľky zverejnenej v [Moodli](https://moodle.uniba.sk/mod/url/view.php?id=149879). Názov by mal byť krátky a ľahko zapamätateľný, môže to byť napríklad skratka obsahujúca prvé písmená vašich mien. Nezaradení študenti budú rozdelení do skupín vyučujúcimi.
+* **Voľba témy:** Každá skupina si zvolí tému najneskôr do utorka 25.3. 16:20.  Jeden člen skupiny zapíše názov témy do [tabuľky so skupinami](https://moodle.uniba.sk/mod/url/view.php?id=149879). Najviac 3 skupiny môžu robiť tú istú tému, takže ak si už 3 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr). Ak chcete navrhnúť vlastnú tému, musíte stručný popis témy a dostupných dát poslať emailom B. Brejovej najneskôr do pondelka 24.3., čím skôr vám potom dáme vedieť, či je téma vhodná. 
+* **Organizácia skupiny:** Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne. Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=151600) (budeme vám tam zapisovať priebežné hodnotenie). 
 * **Priebežná kontrola:** Na každom cvičení od 1.4. do 6.5. sa uskutoční krátke stretnutie skupiny s vyučujúcimi ohľadom pokroku na projekte. Bližšie detaily viď [nižšie](#kontrolné-stretnutia). Skupinové zadania už po 25.3. nebudú, zvyšok času cvičení odporúčame prácu na projekte.
 * **Prvé kroky:** Sťahovanie dát, ich úprava do vhodného formátu, zisťovanie základných charakteristík, opravovanie alebo odstraňovanie nesprávnych položiek. Na cvičení 1.4. by ste mali už mať tieto činnosti rozbehnuté alebo hotové. 
 * **Ďalšie etapy:** Stanovte si otázku, ktorá by sa vo vašich dátach dala analyzovať a pokúste sa ju odpovedať vhodnými grafmi a tabuľkami. Snažte sa nájsť čo najvhodnejšiu vizualizáciu a preskúmať trendy alebo ich výnimky, ktoré nájdete. Postupne preskúmajte niekoľko takých otázok. Jednotliví členovia skupiny alebo podskupinky môžu paralelne pracovať na rôznych otázkach. Postupne zostavujte aj materiály, ktoré budete odovzdávať.
@@ -74,7 +63,7 @@ V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.sc
 * Nasleduje diskusia s vyučujúcimi.
 * Majte prichystané aj ďalšie súbory, aby ste vedeli rýchlo ukázať dokončené alebo rozrobené vizualizácie a tabuľky.
 * Na stretnutie buďte pripravení, aby sme nestrácali čas čakaním, kým nájdete a  otvoríte príslušné súbory.
-* Cieľom stretnutia je minitorovať a hodnotiť stupeň vášho pokroku, motivovať vás k priebežnej práci na projekte ale hlavne poradiť vám v prípade problémov.
+* Cieľom stretnutia je monitorovať a hodnotiť stupeň vášho pokroku, motivovať vás k priebežnej práci na projekte ale hlavne poradiť vám v prípade problémov.
 
 
 ## Technické pokyny
@@ -84,6 +73,7 @@ V roku 2021 sa na Slovensku uskutočnilo [sčítanie obyvateľov](https://www.sc
 * Dáta sa vám budú dobre načítavať, ak si ich dáte na web, napríklad na fakultný server [daVinci](http://davinci.fmph.uniba.sk/) ([návod](http://davinci.fmph.uniba.sk/dokuwiki/howtos/personal-web)) alebo na GitHub.
 * Do dát robte čo najmenej manuálnych zásahov.
 * Opakujúce sa časti kódu presuňte do funkcií, ktoré viackrát použijete s rôznymi parametrami. Takisto zložitejšie výpočty je vhodné presunúť do funkcie. Nie je ideálne, ak viacerí členovia skupiny píšu podobný kód a ten aj zostane vo výslednom projekte. Mali by ste spolu komunikovať a takýmto duplicitám predísť alebo ich odstrániť.
+* Colab nefuguje ideálne ak naraz ten istý notebook edituje viacero používateľov, môže dochádzať k strate dát. Môžete skúsiť použiť inú platformu alebo pracujte na svojich dočasných kópiách notebooku a hotové časti kódu presúvajte do spoločného notebooku na Colabe.
 * Počas práce na projekte priebežne píšte denník a zdieľajte ho s vyučujúcimi (viď nižšie).
 * Ukladajte si použité zdroje a citujte ich vo výslednom projekte. Môžete sa inšpirovať existujúcimi analýzami vašich dát a replikovať prípadne rozšíriť tieto analýzy, je však potrebné priznať zdroje svojej inšpirácie.
 * Na projekte je povolené používať editory podporujúce automatické generovanie kódu pomocou umelej inteligencie. Avšak automaticky generovaný kód musíte podrobne preštudovať, pochopiť, skontrolovať a opraviť v ňom prípadné chyby. Ste zodpovední za jeho kvalitu a správnosť. Navyše na ústnej skúške budeme overovať, či viete vysvetliť a modifikovať váš kód aj bez použitia umelej inteligencie. Ak využívate nástroje umelej inteligencie, uveďte to v denníku a medzi zdrojmi v notebooku. 
@@ -103,24 +93,24 @@ Správa (report) je dokument, ktorý by ste odovzdali "zákazníkovi", t.j. zad�
 * Výsledky ďalších analýz (rozdelené do viacerých kapitol). Ku každej analýze stručne popíšte, čo ste s dátami spravili, uveďte grafy alebo tabuľky s výsledkami, vysvetlite, aké trendy a iné závery na nich vidno. Pri záveroch pozor, aby ste z korelácie automaticky nepredpokladali kauzalitu. Z textu by malo byť jasné, čo sú skutočné pozorovania a čo vaše dohady. Vaše výsledky môžete porovnať s výsledkami z iných zdrojov (nie je to ale nutné).
 * Záver so stručným zhrnutím hlavných výsledkov a možnosťami ďalšej práce.
 
-Správa by mala byť formálny text bez gramatických chýb, napísaný v slovenskom alebo anglickom jazyku. Obrázky a tabuľky by mali mať popisky vysvetľujúce čo je na grafe alebo v tabuľke zobrazené a mali by byť očíslované (obrázok/figure 1, tabuľka/table 1 atď.) Navyše na každý obrázok a tabuľku sa odvolajte v hlavnom texte (na obrázku 1 vidíme...). Ak ste pri práci využili nejaké zdroje, uveďte ich v zozname literatúry na konci správy (zdroje dát, literatúru k oblasti, v ktorej robíte projekt). V správe neuvádzajte kód ani nepopisujte technické aspekty projektu (ako ste to programovali) a nemusíte tam ani uvádzať odkazy na zdroje, ktoré súvisia priamo s programovaním. Správa sa odovzdáva vo formáte pdf, môžete ju vytvoriť ako Google doc, ale aj v inom systéme (napríklad Latex/Overleaf).
+Správa by mala byť formálny text bez gramatických chýb, napísaný v slovenskom alebo anglickom jazyku. Obrázky a tabuľky by mali mať popisky vysvetľujúce čo je na grafe alebo v tabuľke zobrazené a mali by byť očíslované (obrázok/figure 1, tabuľka/table 1 atď.) Navyše na každý obrázok a tabuľku sa odvolajte v hlavnom texte (na obrázku 1 vidíme...). Ak ste pri práci využili nejaké zdroje, uveďte ich v zozname literatúry na konci správy (zdroje dát, literatúru k oblasti, v ktorej robíte projekt). V správe neuvádzajte kód ani nepopisujte technické aspekty projektu (ako ste to programovali) a nemusíte tam ani uvádzať odkazy na zdroje, ktoré súvisia priamo s programovaním. Správa sa [odovzdáva](https://moodle.uniba.sk/mod/assign/view.php?id=151601) vo formáte pdf, môžete ju vytvoriť ako Google doc, ale aj v inom systéme (napríklad Latex/Overleaf).
 
 Ak sa chcete inšpirovať, ako vyzerá formálny technický text s číslovanými obrázkami a tabuľkami, môžete si pozrieť [zborník zo Študentskej vedeckej konferencie](http://compbio.fmph.uniba.sk/svk2022/svk2022-zbornik.pdf) (vaše články asi nebudú mať toľko matematiky a citovať budete asi skôr webstránky než vedecké publikácie, tiež nemusíte správu formátovať do dvoch stĺpcov).
 
-Poskytujeme vám aj ukážkovú [kostru správy](https://docs.google.com/document/d/1k8wA93Ta3aP3hsJ8_kzjR7bh0Ys3J5HnDhvnafuDUow/edit?usp=sharing) ako Google doc, z ktorej v prípade záujmu môžete vychádzať.
+Poskytujeme vám aj ukážkovú [kostru správy](https://docs.google.com/document/d/1BKmmjGd8X594S5bK9uMwl3LV271EH0UOjone0eWMTzY/edit?usp=sharing) ako Google doc, z ktorej v prípade záujmu môžete vychádzať.
 
 Text správy by ste mali písať sami, negenerujte text umelou inteligenciou ani neodpisujte z iných zdrojov. Nástroje umelej inteligencie smiete použiť na kontrolu gramatiky a štylistiky. Všetky navrhované úpravy ale starostlivo skontrolujte, či nemenia zamýšľaný význam textu.
 
 
 ### Zdrojový kód
 
-K projektu by ste mali odovzdať zdrojový kód vo forme Jupyter notebook, v ktorom bude celá analýza od načítania dát, cez ich úpravu a kontrolu až po vykreslenie finálnych grafov použitých v správe, prípadne aj ďalších, ktoré sa do správy nedostali. Celý kód by mal byť spustiteľný v Colabe. Ak časť predspracovania dát nie je praktické robiť v notebooku, uveďte v notebooku analýzu začínajúcu načítaním už predspracovaných dát a proces predspracovania popíšte v notebooku, prípadne odovzdajte v zvláštnom súbore relevantný kód. Notebook by mal obsahovať nadpisy charakterizujúce jednotlivé časti analýzy a stručné popisy jednotlivých častí kódu. Uveďte aj odkazy (URL) na použité zdroje, najmä ak ste z nich kopírovali kód (vrátane nástrojov umelej inteligencie).
+K projektu by ste mali [odovzdať](https://moodle.uniba.sk/mod/assign/view.php?id=151604) zdrojový kód vo forme Jupyter notebook, v ktorom bude celá analýza od načítania dát, cez ich úpravu a kontrolu až po vykreslenie finálnych grafov použitých v správe, prípadne aj ďalších, ktoré sa do správy nedostali. Celý kód by mal byť spustiteľný v Colabe. Ak časť predspracovania dát nie je praktické robiť v notebooku, uveďte v notebooku analýzu začínajúcu načítaním už predspracovaných dát a proces predspracovania popíšte v notebooku, prípadne odovzdajte v zvláštnom súbore relevantný kód. Notebook by mal obsahovať nadpisy charakterizujúce jednotlivé časti analýzy a stručné popisy jednotlivých častí kódu. Uveďte aj odkazy (URL) na použité zdroje, najmä ak ste z nich kopírovali kód (vrátane nástrojov umelej inteligencie).
 
 Notebook by mal ťahať dáta z nejakej URL, kam ich uložíte buď v pôvodnom alebo v predspracovanom tvare, viď [Technické pokyny](#technické-pokyny). Na ústnej skúške bude potrebné, aby ste vedeli notebook spustiť aj modifikovať na počítači v I-H6 alebo inej učebni.
 
 ### Denník
 
-Denník vypĺňajte do kostry poskytnutej v Moodli, z ktorej si spravíte kópiu.
+Denník vypĺňajte do kostry poskytnutej v [Moodli](https://moodle.uniba.sk/mod/assign/view.php?id=151600), z ktorej si spravíte kópiu.
 
 Na začiatku denníka uveďte názov skupiny, zoznam členov a tému projektu. 
 
@@ -143,11 +133,11 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
   * Sumár hlavných výsledkov ako pre zákazníka (ukážky grafov a ich popis)
   * Ukážky zaujímavých technických aspektov projektu ako pre kolegov programátorov, čo ste sa naučili, čo bolo ťažké.
 * Prezentáciu si vopred precvičte, hlavne nadväznosti častí a celkové trvanie.
-* Celá prezentácia má byť v **jednom pdf súbore**, jeden člen skupiny ju odovzdá do Moodlu do **9:00 v deň prezentácie**, odtiaľ ju vyučujúci nahrajú na prezentovací počítač.
+* Celá prezentácia má byť v **jednom pdf súbore**, jeden člen skupiny ju odovzdá do [Moodlu](https://moodle.uniba.sk/mod/assign/view.php?id=151608) do **9:00 v deň prezentácie**, odtiaľ ju vyučujúci nahrajú na prezentovací počítač.
   * Ak by ste veľmi v prezentácii potrebovali animácie a iné prvky, ktoré nefungujú v pdf, môžete prezentovať z vlastného počítača. V tom prípade musíte splniť nasledovné podmienky:
     * Celá skupina musí prezentovať z jedného súboru a počítača, aby sa eliminovali prestoje.
     * Zapojenie počítača do projektora si vopred skontrolujte v príslušnej učebni (F1-328 alebo I-H6).
-    * Do Moodlu odovzdajte súbor, ktorý budete používať a aj pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
+    * Do Moodlu odovzdajte pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
 * Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej prezentácii podľa rozpisu, môžete sa ale prísť pozrieť aj na viac skupín.
 * Po každej prezentácii bude krátka diskusia, uvítame aj vaše otázky.
 
