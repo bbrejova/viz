@@ -1,10 +1,12 @@
-## Evolution project for Data visualization course 2024/25
+---
+title: Evolution project for Data Visualization course 2024/25
+---
 
 Proteins are chains of amino acids that perform many key functions in living cells. Proteins change during evolution due to mutations in DNA. Nonetheless we can often find similarities between proteins from different organisms. In this project, we will consider the amount of changes between proteins in different organisms.
 
 ### Protein distance file `dist.txt`
 
-The key part of this dataset is file [dist.txt](https://compbio.fmph.uniba.sk/~bbrejova/tmp/prot-viz/), which contains data about 13021 human proteins and the corresponding similar proteins from 5 other mammals: baboon, mouse, dog, mouse, and opossum.
+The key part of this dataset is file [dist.txt](https://compbio.fmph.uniba.sk/~bbrejova/tmp/prot-viz/dist.txt), which contains data about 13021 human proteins and the corresponding similar proteins from 5 other mammals: baboon, mouse, dog, mouse, and opossum.
 
 The file contains 13021 distance tables of dimensions 6x6. Each table contains for each pair of animals a number quantifying how much the corresponding proteins in these two animals differ from each other. 
 
@@ -53,9 +55,9 @@ The following files may provide additional properties of the proteins that you c
 
 * Homo sapiens (human)
 * Papio anubis (Olive baboon)
-* Mus musculus (Mouse)
-* Canis lupus familiaris (Dog)
-* Bos taurus (Bovine, Hereford)
+* Mus musculus (House mouse)
+* Canis lupus familiaris (Domestic dog)
+* Bos taurus (Bovine, Hereford cattle)
 * Monodelphis domestica (Gray short-tailed opossum)
 
 Taxonomy:
