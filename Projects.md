@@ -2,6 +2,9 @@
 title: Projekty
 ---
 
+* TOC
+{:toc}
+
 {% if false %}
 Pokyny k projektom upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). 
 {% endif %}
