@@ -13,7 +13,7 @@ title: Oznamy 19.3.2025
 * Témy sú už na stránke.
 * Termín na zvolenie témy utorok 25.3. 16:20.
 * Zvolenú tému zapíšte do [tabuľky so skupinami](https://moodle.uniba.sk/mod/url/view.php?id=149879).
-* Najviac 3 skupiny môžu robiť tú istú tému, takže ak si už 3 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr).
+* Najviac 4 skupiny môžu robiť tú istú tému, takže ak si už 4 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr).
 * Ak chcete navrhnúť vlastnú tému, pošlite stručný popis témy a dostupných dát emailom B. Brejovej najneskôr do pondelka 24.3.
 
 ## Cvičenia budúci týždeň
