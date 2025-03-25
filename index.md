@@ -28,7 +28,7 @@ Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·**  {% incl
 Prednáška 5  {% include notebook.html file='L05_Pandas_2' %} **·** [Projekty](./Projects.md)**·**  [Oznamy](./L05-notes.md)
 {% endif %}
 
-**Týždeň 24.-30.3. Mapy, siete, časové rady**<br>{% if false %}
+**Týždeň 24.-30.3. Mapy, siete, časové rady**<br>{% if true %}
 Prednáška 6 [prezentácia](./pdf/L06a_Maps_etc.pdf)  **·** [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L06_Maps_etc.ipynb), [pdf](./pdf/L06_Maps_etc.pdf) **·**  [Oznamy](./L06-notes.md)
 {% endif %}
 
