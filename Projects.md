@@ -76,9 +76,11 @@ Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľú
 * Dáta sa vám budú dobre načítavať, ak si ich dáte na web, napríklad na fakultný server [daVinci](http://davinci.fmph.uniba.sk/) ([návod](http://davinci.fmph.uniba.sk/dokuwiki/howtos/personal-web)) alebo na GitHub.
 * Do dát robte čo najmenej manuálnych zásahov.
 * Opakujúce sa časti kódu presuňte do funkcií, ktoré viackrát použijete s rôznymi parametrami. Takisto zložitejšie výpočty je vhodné presunúť do funkcie. Nie je ideálne, ak viacerí členovia skupiny píšu podobný kód a ten aj zostane vo výslednom projekte. Mali by ste spolu komunikovať a takýmto duplicitám predísť alebo ich odstrániť.
-* Colab nefuguje ideálne ak naraz ten istý notebook edituje viacero používateľov, môže dochádzať k strate dát. Môžete skúsiť použiť inú platformu alebo pracujte na svojich dočasných kópiách notebooku a hotové časti kódu presúvajte do spoločného notebooku na Colabe.
-* Počas práce na projekte priebežne píšte denník a zdieľajte ho s vyučujúcimi (viď nižšie).
-* Ukladajte si použité zdroje a citujte ich vo výslednom projekte. Môžete sa inšpirovať existujúcimi analýzami vašich dát a replikovať prípadne rozšíriť tieto analýzy, je však potrebné priznať zdroje svojej inšpirácie.
+* Colab nefuguje ideálne, ak naraz ten istý notebook edituje viacero používateľov, môže vtedy dochádzať k strate dát. Môžete skúsiť použiť inú platformu alebo pracujte na svojich dočasných kópiách notebooku a hotové časti kódu presúvajte do spoločného notebooku na Colabe.
+
+## Používanie zdrojov
+
+* Ukladajte si použité zdroje (webstránky, články, knihy a pod.) a citujte ich vo výslednom projekte. Môžete sa inšpirovať existujúcimi analýzami vašich dát a replikovať alebo rozšíriť tieto analýzy, je však potrebné priznať zdroje svojej inšpirácie. Takisto jasne vyznačte, ak ste z nejakého zdroja prebrali väčší kus kódu.
 * Na projekte je povolené používať editory podporujúce automatické generovanie kódu pomocou umelej inteligencie. Avšak automaticky generovaný kód musíte podrobne preštudovať, pochopiť, skontrolovať a opraviť v ňom prípadné chyby. Ste zodpovední za jeho kvalitu a správnosť. Navyše na ústnej skúške budeme overovať, či viete vysvetliť a modifikovať váš kód aj bez použitia umelej inteligencie. Ak využívate nástroje umelej inteligencie, uveďte to v denníku a medzi zdrojmi v notebooku. 
 
 ## Odovzdávanie finálneho projektu

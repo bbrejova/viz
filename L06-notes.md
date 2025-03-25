@@ -8,6 +8,7 @@ title: Poznámky 26.3.2025
 V návode k projektom si pozrite časti
 * [denník](./Projects.html#denník),
 * [technické pokyny](./Projects.html#technické-pokyny),
+* [používanie zdrojov](./Projects.html#používanie-zdrojov),
 * [kontrolné stretnutia](./Projects.html#kontrolné-stretnutia).
 
 ## Cvičenia budúci týždeň
