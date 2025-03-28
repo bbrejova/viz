@@ -44,7 +44,7 @@ Fínski vedci vykonali rozsiahly dotazníkový prieskum u chovateľov psov, ktor
 
 ### Evolúcia
 
-Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľúčových funkcií. Počas evolúcie sa proteíny menia kvôli mutáciám v DNA, ale napriek tomu vieme ľudským proteínom často nájsť náprotivky v iných organizmoch a skúmať ako sa jednotlivé proteíny menia počas evolúcie. Základné dáta v tomto projekte sú tabuľky, ktoré pre cca 13 tisíc ľudských proteínov udávajú mieru ako veľmi sa líšia od proteínov v 5 iných cicavcoch. Cieľom bude preskúmať trendy v týchto dátach a ich súvislosti s ďalšími zdrojmi dát o proteínoch. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](http://compbio.fmph.uniba.sk/~bbrejova/tmp/prot-viz/). Téma je vhodná pre BIN aj DAV študentov.
+Proteíny sú reťazce aminokyselín, ktoré vykonávajú v bunkách veľa kľúčových funkcií. Počas evolúcie sa proteíny menia kvôli mutáciám v DNA, ale napriek tomu vieme ľudským proteínom často nájsť náprotivky v iných organizmoch a skúmať ako sa jednotlivé proteíny menia počas evolúcie. Základné dáta v tomto projekte sú tabuľky, ktoré pre cca 13 tisíc ľudských proteínov udávajú mieru ako veľmi sa líšia od proteínov v 5 iných cicavcoch. Cieľom bude preskúmať trendy v týchto dátach a ich súvislosti s ďalšími zdrojmi dát o proteínoch. Dáta a ďalšie podrobnosti nájdete na [zvláštnej stránke](./project-2025-evolution.html). Téma je vhodná pre BIN aj DAV študentov.
 
 
 ## Fázy projektu
