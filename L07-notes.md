@@ -1,20 +1,58 @@
 ---
-title: Poznámky 3.4.2024
+title: Poznámky 2.4.2025
 ---
 
-Cvičenia budúci týžden:
-* Odporúčame na cvičeniach stretnúť sa v skupine a začat pracovať na projekte.
-* Spravte si denník a začnite doňho písať.
-* Dohodnite sa, kde ako budete zdieľať dáta a kód, ako budete komunikovať a organizovať si prácu.
-* Stiahnite si dáta a začnite sa na ne pozerať a predspracovávať ich.
-* Môžete časť cvičení pracovať aj na individuálnej úlohe.
+## Vítame študentov Minierasmu
 
-Cvičenia ďalšie týždne
-* Budú sa konať kontrolné stretnutia skupiny s cvičiacimi.
-* Už o dva týždne by ste im mali vedieť ukázať, čo máte hotové.
-* Pred cvičením máte mať v denníku prípravu na stretnutie.
-* Na stretnutí by mali byť všetci členovia skupiny, alebo sa ospravedlniť (aj v tom prípade treba aby skupina vedela, čo ste robili a odovzdala vám spätnú väzbu od cvičiacich).
-* Pred / po stretnutí pracujte buď na projekte alebo na individuálnej úlohe.
+* Predmet pre prvákov Dátovej vedy a Bioinformatiky
+* Učíme sa vykresľovať bežné aj menej bežné typy grafov a spracovávať tabuľkové dáta pomocou knižníc v jazyku Python
+* Používame online prostredie Google Colab
+
+
+## Študentská vedecká konferencia
+* [https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
+* Budúcu stredu 9.4.2025 (dekanské voľno).
+* Študenti prezentujú výsledky výskumu, často bakalárske alebo diplomové práce.
+* Aj práce z DAV.
+* Choďte sa pozrieť na niektoré prednášky, inšpirácia k hľadaniu témy bakalárskej práce.
+* Relevantné sekcie Matematika, Počítačová grafika, Informatika.
+* Dúfam, že aj veľa z vás za pár rokov uvidím na ŠVK.
+
+
+## Harmonogram na zvyšok semestra
+
+```
+Týždeň 7.-13.4. 
+Cvičenia: projektové stretnutie 2
+Prednáška nebude, študentská vedecká konferencia
+  Nebude ani nová DÚ/kvíz
+  Odporúčame využiť na intenzívnu prácu na projekte
+
+Týždeň 14.-20.4. 
+Cvičenia: projektové stretnutie 3
+  Ideálne by ste mali hotovú väčšiu časť základných analýz.
+  Zvyšok času využiť na ich dopĺňanie, vylepšovanie,
+  spisovanie textu a prezentácie.
+Prednáška: Ľudské vizuálne vnímanie, farby, formáty
+Od štvrtka Veľká noc
+
+Týždeň 21.-27.4.
+Cvičenia: nebudú Veľká noc
+Prednáška: Preatentívne príznaky, gestalt a ilúzie, vizualizácia textových dát
+
+Týždeň 28.4-4.5.
+Cvičenia: projektové stretnutie 4
+Prednáška: Fázy projektu, prezentácia výsledkov, kognitívne skreslenie
+
+Týždeň 5.-11.5.
+Cvičenia: projektové stretnutie 5
+Prednáška: Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy
+
+Týždeň 12.-18.5.
+Prezentácie projektov počas cvičení aj prednášky
+
+Pondelok 19.5. 22:00 odovzdanie projektov
+```
 
 Pozrite si [pokyny k projektom](./Projects.md)
 

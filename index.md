@@ -32,8 +32,8 @@ Prednáška 5  {% include notebook.html file='L05_Pandas_2' %} **·** [Projekty]
 Prednáška 6 [prezentácia](./pdf/L06a_Maps_etc.pdf)  **·** {% include notebook.html file='L06_Maps_etc' %} **·**  [Oznamy](./L06-notes.md)
 {% endif %}
 
-**Týždeň 31.3.-6.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>{% if false %}
-Prednáška 7 {% include notebook.html file='L07_More_statistics' %} **·** [Oznamy](./L07-notes.md)
+**Týždeň 31.3.-6.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>{% if true %}
+Prednáška 7 [prezentácia](./pdf/L07a_More_statistics.pdf) **·** {% include notebook.html file='L07_More_statistics' %} **·** [Oznamy](./L07-notes.md)
 {% endif %}
 
 **Týždeň 7.-13.4.**<br>{% if true %}
