@@ -40,7 +40,7 @@ Prednáška 7 [prezentácia](./pdf/L07a_More_statistics.pdf) **·** {% include n
 V stredu [Študentská vedecká konferencia](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
 {% endif %}
 
-**Týždeň 14.-20.4. Ľudské vizuálne vnímanie, farby, formáty**<br>{% if false %}
+**Týždeň 14.-20.4. Ľudské vizuálne vnímanie, farby, formáty**<br>{% if true %}
 Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)
 {% endif %}
 
