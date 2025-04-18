@@ -81,3 +81,7 @@ https://data.un.org/_Docs/SYB/CSV/SYB65_1_202209_Population,%20Surface%20Area%20
 * Life expectancy at brith for women in 2015-2019 in districts of Slovakia
 * Downloaded from http://www.infostat.sk/vdc/sk/index.php?option=com_wrapper&view=wrapper&Itemid=54
 
+## Three wikipedia articles and a list of terms
+
+* [data science](./wikipedia/data_science.txt), [bioinformatics](./wikipedia/bioinformatics.txt), [computer science](computer_science.txt)
+* [README](./wikipedia/README.md), [list of terms](./wikipedia/terms.txt)
