@@ -44,7 +44,7 @@ V stredu [Študentská vedecká konferencia](https://zona.fmph.uniba.sk/students
 Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)
 {% endif %}
 
-**Týždeň 21.-27.4. Preatentívne príznaky, gestalt a ilúzie, vizualizácia textových dát**<br>{% if false %}
+**Týždeň 21.-27.4. Preatentívne príznaky, gestalt a ilúzie, vizualizácia textových dát**<br>{% if true %}
 Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Oznamy](./L09-notes.md)
 {% endif %}
 

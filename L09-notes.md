@@ -1,15 +1,20 @@
 ---
-title: Poznámky 17.4.2024
+title: Poznámky 22.4.2025
 ---
 
-* Budúci týždeň (takmer) posledná prednáška, úplne posledná bude vo forme videa kvôli sviatkom.
-* V poslednom týždni namiesto prednášky vaše prezentácie.
+Zopakujme si harmonogram na zvyšok semestra:
 
-Študentská vedecká konferencia
-* [https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
-* Koná sa zajtra.
-* Študenti prezentujú výsledky výskumu, často bakalárske alebo diplomové práce.
-* Tento rok aj zopár prác z DAV.
-* Choďte sa pozrieť na niektoré prednášky, inšpirácia k hľadaniu témy bakalárskej práce.
-* Relevantné sekcie Informatika, Aplikovaná matematika a Počítačová grafika.
-* Dúfam, že aj veľa z vás za pár rokov uvidím na ŠVK.
+Týždeň 28.4-4.5.
+Cvičenia: projektové stretnutie 4
+Prednáška: Fázy projektu, prezentácia výsledkov, kognitívne skreslenie
+
+Týždeň 5.-11.5.
+Cvičenia: projektové stretnutie 5
+Prednáška: Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy
+
+Týždeň 12.-18.5.
+Prezentácie projektov počas cvičení aj prednášky
+
+Pondelok 19.5. 22:00 odovzdanie projektov
+
+Na budúcej prednáške informácie ku skúškam.
