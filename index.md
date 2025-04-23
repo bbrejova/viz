@@ -41,15 +41,15 @@ V stredu [Študentská vedecká konferencia](https://zona.fmph.uniba.sk/students
 {% endif %}
 
 **Týždeň 14.-20.4. Ľudské vizuálne vnímanie, farby, formáty**<br>{% if true %}
-Prednáška 8 [pdf](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)
+Prednáška 8 [prezentácia](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)
 {% endif %}
 
 **Týždeň 21.-27.4. Preatentívne príznaky, gestalt a ilúzie, vizualizácia textových dát**<br>{% if true %}
-Prednáška 9 [pdf](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Oznamy](./L09-notes.md)
+Prednáška 9 [prezentácia](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Oznamy](./L09-notes.md)
 {% endif %}
 
 **Týždeň 28.4-4.5. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie**<br>{% if false %}
-Prednáška 10 [pdf](./pdf/L10_Presentation.pdf) **·** [Oznamy](./L10-notes.md)
+Prednáška 10 [prezentácia](./pdf/L10_Presentation.pdf) **·** [Oznamy](./L10-notes.md)
 {% endif %}
 
 **Týždeň 5.-11.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**<br>{% if false %}
