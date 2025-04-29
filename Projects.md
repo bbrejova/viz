@@ -143,29 +143,25 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
     * Celá skupina musí prezentovať z jedného súboru a počítača, aby sa eliminovali prestoje.
     * Zapojenie počítača do projektora si vopred skontrolujte v príslušnej učebni (F1-328 alebo I-H6).
     * Do Moodlu odovzdajte pdf s aspoň čiastočnou funkcionalitou ako zálohu pre prípad technických problémov. 
-* Každá skupina sa zúčastní aj ako publikum na aspoň jednej ďalšej prezentácii podľa rozpisu, môžete sa ale prísť pozrieť aj na viac skupín.
+* Každá skupina sa zúčastní aj ako publikum na všetkých prezentáciách v danom dni (utorok alebo streda), ale ak chcete, môžete sa prísť pozrieť obidva dni.
 * Po každej prezentácii bude krátka diskusia, uvítame aj vaše otázky.
 
 ### Rozpis prezentácií
 
-Uvedieme neskôr
-{%if false %}
 ```
-Utorok 14.5. I-H6
-14:50   Alge-Bros: Proteíny (publikum mathprofi.net)
-15:10   mathprofi.net: Vzdelanie (publikum Alge-Bros)
+Utorok 13.5. I-H6, M-XII cca 14:50-16:45
+14:50   
+15:10
+15:30
+15:50
+16:10
 
-15:30   žáROFKA: Voľný čas (publikum JPD)
-15:50   JPD: Vzdelanie (publikum žáROFKA)
-
-Streda 15.5. F1-328
- 9:50 Vedci: Požiare (publikum Vychodňare)
-10:10 Vychodňare: Vzdelanie (publikum Vedci)
+Streda 14.5. F1-328
+ 9:50 
+10:10
+10:30
+10:50
 ```
-
-* Aby ste nerušili, prosím prichádzať iba v časoch utorok 14:45-14:50, 15:25-15:30 a streda 9:45-9:50, odchádzať po konci prezentácie.
-
-{% endif %}
 
 ## Hodnotenie
 

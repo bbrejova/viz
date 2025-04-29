@@ -40,7 +40,7 @@ Prednáška 7 [prezentácia](./pdf/L07a_More_statistics.pdf) **·** {% include n
 V stredu [Študentská vedecká konferencia](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
 {% endif %}
 
-**Týždeň 14.-20.4. Ľudské vizuálne vnímanie, farby, formáty**<br>{% if true %}
+**Týždeň 14.-20.4. Fázy projektu, ľudské vizuálne vnímanie, farby, formáty**<br>{% if true %}
 Prednáška 8 [prezentácia](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./L08-notes.md)
 {% endif %}
 
@@ -48,8 +48,8 @@ Prednáška 8 [prezentácia](./pdf/L08_Perception_colors.pdf) **·** [Oznamy](./
 Prednáška 9 [prezentácia](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Oznamy](./L09-notes.md)
 {% endif %}
 
-**Týždeň 28.4-4.5. Fázy projektu, prezentácia výsledkov, kognitívne skreslenie**<br>{% if false %}
-Prednáška 10 [prezentácia](./pdf/L10_Presentation.pdf) **·** [Oznamy](./L10-notes.md)
+**Týždeň 28.4-4.5. Prezentácia výsledkov, kognitívne skreslenie, infografika**<br>{% if true %}
+Prednáška 10 [prezentácia](./pdf/L10_Presentation.pdf) **·** [Oznamy](./L10-notes.md) **·** [skúška](./Exam.md)
 {% endif %}
 
 **Týždeň 5.-11.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**<br>{% if false %}
