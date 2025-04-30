@@ -148,20 +148,20 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
 
 ### Rozpis prezentácií
 
-```
-Utorok 13.5. I-H6, M-XII cca 14:50-16:45
-14:50   
-15:10
-15:30
-15:50
-16:10
+**Utorok 13.5.** I-H6, M-XII cca 14:50-16:45
 
-Streda 14.5. F1-328
- 9:50 
-10:10
-10:30
-10:50
-```
+* 14:50 9 **Komunálny odpad** Voľby
+* 15:10 7 **BL** Migrácia
+* 15:30 3 **Okrsok** Voľby
+* 15:50 10 **Gormiti** Psy
+* 16:10 5 **Skupina 5** Migrácia
+
+** Streda 14.5.** F1-328
+
+*  9:50 6 **kačičky** Migrácia
+* 10:10 2 **Darwin** Evolúcia
+* 10:30 1 **Dátoví negramoti** Migrácia
+* 10:50 8 **IKEA** Voľby
 
 ## Hodnotenie
 
