@@ -156,7 +156,7 @@ Na záver do denníku dopíšte stručný prehľad pre každého člena skupiny,
 * 15:50 10 **Gormiti** Psy
 * 16:10 5 **Skupina 5** Migrácia
 
-** Streda 14.5.** F1-328
+**Streda 14.5.** F1-328
 
 *  9:50 6 **kačičky** Migrácia
 * 10:10 2 **Darwin** Evolúcia
