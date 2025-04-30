@@ -1,5 +1,5 @@
 ---
-title: Ústna skúška a záverečný test
+title: Skúška
 ---
 
 

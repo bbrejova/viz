@@ -1,5 +1,5 @@
 ---
-title: Pravidlá predmetu
+title: Pravidlá
 ---
 
 ## Ciele predmetu
