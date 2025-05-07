@@ -52,8 +52,8 @@ Prednáška 9 [prezentácia](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [ozn
 Prednáška 10 [prezentácia](./pdf/L10_Presentation.pdf) **·** [oznamy](./L10-notes.md) **·** [skúška](./Exam.md)
 {% endif %}
 
-**Týždeň 5.-11.5. Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy**<br>{% if false %}
-Prednáška 11 [notebook](https://colab.research.google.com/github/bbrejova/viz/blob/master/notebooks/L11_Miscelaneous.ipynb), [pdf](./pdf/L11_Miscelaneous.pdf), [video](https://youtu.be/yW-qopCn5fw) (časti v minútach 24-31 a 40-45 už boli preberané) <!-- **·** [oznamy](./L11-notes.md)--><br>
+**Týždeň 5.-11.5. Interaktivita, iné systémy vizualizácie, špecializované grafy**<br>{% if true %}
+Prednáška 11 [prezentácia](./pdf/L11a_Miscelaneous.pdf) **·** {% include notebook.html file='L11_Miscelaneous' %}
 {% endif %}
 
 **Týždeň 12.-18.5. Prezentácie projektov**
